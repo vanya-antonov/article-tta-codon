@@ -1,0 +1,4163 @@
+id	name	num_orgs	num_tta_genes	num_fs	num_tta_fs_genes	descr
+1005344	xre family transcriptional regulator (99)	112	105	7	0	transcriptional regulator (3);hypothetical protein (2);helix-turn-helix domain-containing protein (2);s-adenosyl methyltransferase (1);dna-binding protein (1)
+1004978	duf742 domain-containing protein (88)	148	97	54	3	atp-binding protein (7);hypothetical protein (1)
+1007088	hypothetical protein (52)	76	74	5	3	tir domain-containing protein (7);xre family transcriptional regulator (5);helix-turn-helix domain-containing protein (4);wd40 repeat domain-containing protein (2);atp-binding protein (2);liga protein (1);penicillin-binding protein (1);dna-binding prot...
+1006212	bifunctional diguanylate cyclase/phosphodiesterase (40)	77	72	5	0	hypothetical protein (18);pas domain s-box protein (3);methyltransferase (3);ggdef domain-containing protein (2);phosphodiesterase (2);sam-dependent methyltransferase (2);ggdef-domain containing protein (1);helix-turn-helix domain-containing protein (1...
+1006578	hypothetical protein (29)	70	69	2	1	tetratricopeptide repeat protein (11);afsr family transcriptional regulator (8);sarp family transcriptional regulator (6);transcriptional regulator (6);afsr/sarp family transcriptional regulator (3);response regulator (2);positive regulator (1);atp-bin...
+1004907	is5 family transposase (53)	131	64	73	6	hypothetical protein (6);is5/is1182 family transposase (4);transposase (2)
+1005125	dna-binding response regulator (48)	127	64	63	0	sensor histidine kinase (11);hamp domain-containing protein (2);eama/rhat family transporter (2);hypothetical protein (1);two-component sensor histidine kinase (1)
+1009212	peptidase (20)	64	62	3	1	serine hydrolase (15);hypothetical protein (10);hydrolase (7);d-alanyl-d-alanine carboxypeptidase (4);alkaline d-peptidase (4);peptide hydrolase (2);peptidase m15 (1);alpha/beta hydrolase (1)
+1005603	atp-binding protein (51)	63	57	7	1	hypothetical protein (5);regulatory protein (1);transcriptional regulator (1)
+1007961	atp-binding protein (52)	56	54	2	0	hypothetical protein (2)
+1005888	alpha/beta hydrolase (51)	54	52	2	0	hydrolase (1)
+1005886	tir domain-containing protein (23)	55	50	6	1	tetratricopeptide repeat protein (10);hypothetical protein (7);atp/gtp-binding protein (3);cytochrome c (3);atp-binding protein (2);tetratricopeptide repeat-containing protein (2);aaa family atpase (1);moxr family atpase (1)
+1005933	lysr family transcriptional regulator (48)	51	49	2	0	hydrogen peroxide-inducible protein activator (1)
+1005220	mfs transporter (16)	49	48	2	1	non-ribosomal peptide synthetase (9);hypothetical protein (5);fad-dependent oxidoreductase (5);fad-dependent monooxygenase (4);monooxygenase (3);amino acid adenylation domain-containing protein (2);flavin-dependent oxidoreductase (2);peptide synthetase...
+1006032	fxsb family radical sam/spasm domain protein (23)	49	48	4	3	hypothetical protein (15);hexxh motif domain-containing protein (9);radical sam protein (2);aac(3) family n-acetyltransferase (1)
+1008670	cytochrome p450 (25)	49	47	3	1	multidrug mfs transporter (15);hypothetical protein (5);pentalenene synthase (3);lyase (1)
+1005398	xre family transcriptional regulator (41)	55	46	11	2	duf397 domain-containing protein (2);dna-binding protein (1);transcriptional regulator (1);helix-turn-helix domain-containing protein (1)
+1008858	luxr family transcriptional regulator (17)	48	46	2	0	hypothetical protein (17);helix-turn-helix transcriptional regulator (7);dna-binding response regulator (5);thioesterase (1)
+1005253	chitin-binding protein (34)	45	43	2	0	cellulose-binding protein (8);chitin binding domain protein (1)
+1005798	laci family transcriptional regulator (43)	44	43	3	2	NULL
+1005016	helix-turn-helix transcriptional regulator (20)	43	41	2	0	luxr family transcriptional regulator (12);hypothetical protein (8);transcriptional regulator (1)
+1005805	sugar transferase (31)	45	37	9	1	glycosyl transferase (4);transferase (1);exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase (1)
+1007151	pas domain s-box protein (14)	37	35	2	0	phosphatase (12);hypothetical protein (3);protein phosphatase (3);magnesium or manganese-dependent protein phosphatase (2);stage ii sporulation protein e (1)
+1009130	cytochrome p450 (34)	49	34	15	0	hypothetical protein (1)
+1007057	pucr family transcriptional regulator (31)	35	33	2	0	regulatory protein (1);transcriptional regulator (1)
+1009107	atp-binding protein (16)	45	33	12	0	sensor histidine kinase (6);hypothetical protein (3);roadblock/lc7 domain-containing protein (3);dynein regulation protein lc7 (2);histidine kinase (2);hamp domain-containing protein (2);sensor kinase (1)
+1005427	atp-binding protein (21)	37	32	5	0	hypothetical protein (7);signal transduction histidine kinase (1);pas sensor protein (1);serine/threonine protein phosphatase (1);abaa-like regulatory protein (1)
+1008657	hypothetical protein (31)	32	32	2	2	NULL
+1005783	long-chain fatty acid--coa ligase (13)	37	30	7	0	hypothetical protein (6);5-aminolevulinate synthase (3);2-aminobenzoate-coa ligase (2);fatty acid--coa ligase (1);amide synthetase (1);substrate-coa ligase (1);kr domain-containing protein (1);sdr family nad(p)-dependent oxidoreductase (1);fatty acid:c...
+1006064	pas domain-containing sensor histidine kinase (25)	35	30	5	0	dna-binding response regulator (2);histidine kinase (2);sensor histidine kinase (1)
+1006580	laci family transcriptional regulator (23)	39	30	9	0	hypothetical protein (5);hth domain-containing protein (1);laci family dna-binding transcriptional regulator (1)
+1008101	hypothetical protein (17)	34	30	4	0	cbxx/cfqx (9);atpase (1);aaa family atpase (1);cbxx/cfqx family protein (1);atpase aaa (1)
+1009026	mfs transporter (29)	34	29	5	0	aminoglycoside phosphotransferase family protein (1);hypothetical protein (1)
+1006087	hypothetical protein (18)	31	28	3	0	tat pathway signal protein (4);transcriptional regulator (3);xre family transcriptional regulator (2);site-specific integrase (1);tat pathway signal sequence domain protein (1)
+1005486	moxr family atpase (12)	30	26	7	3	atp/gtp-binding protein (10);hypothetical protein (9);aaa family atpase (5);atp-binding protein (2);atpase aaa (2);tir domain-containing protein (1);toll/interleukin-1 receptor domain-containing protein (1)
+1007449	mmpl family transporter (20)	28	26	2	0	hypothetical protein (3);membrane protein (3)
+1005204	hypothetical protein (24)	26	24	2	0	acyltransferase (1)
+1005810	pkd domain-containing protein (10)	26	24	3	1	glucose/sorbosone dehydrogenase-like protein (3);duf1080 domain-containing protein (3);hypothetical protein (2);glycoside hydrolase (2);sugar dehydrogenase (2);endo-alpha-1,2-mannosidase (1)
+1007358	atp-grasp ribosomal peptide maturase (14)	27	24	3	0	methyltransferase domain-containing protein (5);hypothetical protein (3);methyltransferase (2);methyltransferase, fxld system (1);protein-l-isoaspartate o-methyltransferase (1)
+1005775	hypothetical protein (8)	25	23	2	0	xre family transcriptional regulator (5);tat pathway signal sequence domain protein (5);n-acetyltransferase (4);tat pathway signal protein (2);tetratricopeptide repeat protein (1)
+1008614	endoglucanase (7)	25	23	2	0	glycosyl hydrolase family 5 (5);cellulose-binding protein (4);esterase (3);glucose/sorbosone dehydrogenase-like protein (1);hypothetical protein (1);cellulase b (1);xyloglucanase (1)
+1005620	atp/gtp-binding protein (13)	24	22	2	0	hypothetical protein (11);tetratricopeptide repeat protein (3)
+1005859	nucleotide sugar dehydrogenase (21)	24	22	3	1	glycosyltransferase wbub (3);udp-glucose/gdp-mannose dehydrogenase family protein (1)
+1006329	lysm peptidoglycan-binding domain-containing protein (16)	24	22	2	0	peptidase (3);m23 family peptidase (1);peptidase m23 (1);duf3710 domain-containing protein (1)
+1005562	hypothetical protein (15)	22	21	2	1	wd40 repeat domain-containing protein (3);tir domain-containing protein (1);wd-40 repeat-containing protein (1);xre family transcriptional regulator (1);transposase (1)
+1006042	arsr family transcriptional regulator (14)	23	21	2	0	transcriptional regulator (5);hypothetical protein (2)
+1006622	serine/threonine protein kinase (13)	33	21	12	0	hypothetical protein (3);tetratricopeptide repeat protein (3);pe-pgrs family protein (1);duf1998 domain-containing protein (1);duf2236 domain-containing protein (1)
+1006628	mfs transporter (18)	23	21	2	0	3-oxoacyl-acp reductase (2);sdr family nad(p)-dependent oxidoreductase (1)
+1008331	hypothetical protein (9)	23	21	2	0	xre family transcriptional regulator (7);transcriptional regulator (5)
+1009075	hypothetical protein (15)	30	21	10	1	diacylglyceryl transferase (6)
+1005161	glycosyltransferase family 4 protein (18)	22	20	2	0	hypothetical protein (2)
+1006073	response regulator (8)	25	20	6	1	hybrid sensor histidine kinase/response regulator (4);fused response regulator/phosphatase (3);hamp domain-containing protein (3);protein phosphatase (2)
+1006186	aminotransferase (8)	24	20	4	0	hypothetical protein (7);glycogen debranching protein (5);amylo-alpha-1,6-glucosidase (2)
+1008698	amino acid adenylation domain-containing protein (4)	28	20	8	0	type i polyketide synthase (3);non-ribosomal peptide synthetase (3);non-ribosomal peptide synthase (2);peptide synthetase (2);kr domain-containing protein (1);hypothetical protein (1);type-i pks (1);amino acid adenylation protein (1);formyl transferase...
+1009017	cytochrome p450 (20)	22	20	2	0	NULL
+1005123	hypothetical protein (7)	28	19	10	1	n-acetylmuramoyl-l-alanine amidase (4);esterase (3);vcbs repeat-containing protein (2);fusidic acid esterase (1);integrin-like protein (1)
+1005723	dehydrogenase (15)	21	19	2	0	gfo/idh/moca family oxidoreductase (2);degt/dnrj/eryc1/strs family aminotransferase (1);oxidoreductase nad-binding domain protein (1);oxidoreductase (1)
+1005981	glycoside hydrolase family 2 (8)	21	19	2	0	duf72 domain-containing protein (5);duf4981 domain-containing protein (3);duf4982 domain-containing protein (3);duf3520 domain-containing protein (1)
+1007012	laci family transcriptional regulator (6)	21	19	2	0	glycosyl hydrolase (4);beta-glucosidase (3);hypothetical protein (3);glycoside hydrolase family 3 (1);laci family dna-binding transcriptional regulator (1);glycosyl hydrolase family 3 (1)
+1009391	hypothetical protein (19)	23	19	4	0	NULL
+1005950	hypothetical protein (8)	21	18	3	0	protein kinase (3);xre family transcriptional regulator (3);serine/threonine protein kinase (2);fha domain-containing protein (1);lytic transglycosylase domain-containing protein (1)
+1007064	hypothetical protein (18)	23	18	5	0	NULL
+1008495	restriction endonuclease (16)	20	18	2	0	hypothetical protein (1);duf2034 domain-containing protein (1)
+1008620	serine/threonine-protein phosphatase (17)	20	18	2	0	hypothetical protein (1)
+1009118	sige family rna polymerase sigma factor (14)	20	18	2	0	e family rna polymerase sigma-70 factor (3);hypothetical protein (1)
+1009281	non-ribosomal peptide synthetase (7)	21	18	3	0	hypothetical protein (6);peptide synthetase (2);amino acid adenylation domain-containing protein (2);d-alanine--poly(phosphoribitol) ligase (1)
+1005402	polyprenyl synthetase family protein (10)	19	17	2	0	hypothetical protein (4);tetratricopeptide repeat protein (3)
+1005544	alpha-l-arabinofuranosidase (14)	20	17	3	0	glycoside hydrolase (2);glycosyl hydrolase family 62 (1)
+1006609	hypothetical protein (12)	20	17	4	1	tetratricopeptide repeat protein (2);xre family transcriptional regulator (1);transcriptional regulator (1)
+1005223	protein phosphatase (8)	19	16	3	0	atp-binding protein (5);pas domain s-box protein (1);dna-binding protein (1);magnesium or manganese-dependent protein phosphatase (1)
+1005535	hypothetical protein (16)	18	16	2	0	NULL
+1005575	hydrolase (9)	24	16	8	0	cellulose-binding protein (5);hypothetical protein (1);putative hydrolase (1)
+1005674	polyprenyl synthetase family protein (10)	19	16	3	0	hypothetical protein (4);polyprenyl synthetase (2)
+1005712	plp-dependent aminotransferase family protein (15)	18	16	3	1	hypothetical protein (1)
+1005724	comea family dna-binding protein (7)	22	16	7	1	dna-binding protein (5);hypothetical protein (4);membrane protein (3);duf4131 domain-containing protein (1);helix-hairpin-helix domain-containing protein (1)
+1006564	cellulose 1,4-beta-cellobiosidase (7)	17	16	3	2	cellobiohydrolase (6);1,4-beta-glucanase (2);hypothetical protein (1)
+1006689	cytochrome p450 (15)	18	16	2	0	cytochrome p450 oxidoreductase (1)
+1008623	mfs transporter (16)	18	16	2	0	fad-dependent oxidoreductase (1);fad-binding protein (1)
+1008777	serine/threonine protein kinase (14)	27	16	12	1	hypothetical protein (1);protein kinase (1)
+1005142	hypothetical protein (6)	17	15	2	0	afsr/sarp family transcriptional regulator (4);afsr family transcriptional regulator (2);transcriptional regulator (1);sarp family transcriptional regulator (1);atpase (1)
+1005178	ggdef domain-containing protein (14)	18	15	3	0	hypothetical protein (1);duf2637 domain-containing protein (1)
+1005417	dna-binding response regulator (14)	19	15	4	0	hypothetical protein (1)
+1005577	lysr family transcriptional regulator (13)	17	15	2	0	hydrogen peroxide-inducible protein activator (1);transcriptional regulator (1)
+1005626	duf742 domain-containing protein (12)	35	15	20	0	roadblock/lc7 domain-containing protein (3)
+1005769	is4 family transposase (8)	17	15	2	0	transposase (4);hypothetical protein (2);is4-like element issav1 family transposase (1);is4 family transposase issav1 (1)
+1005989	dna primase (9)	17	15	2	0	hypothetical protein (6)
+1006881	dna-binding response regulator (13)	21	15	6	0	histidine kinase (1);response regulator (1)
+1007543	histidine kinase (6)	17	15	2	0	hypothetical protein (5);two-component sensor histidine kinase (3);sensor histidine kinase (1)
+1007834	is630 family transposase (15)	17	15	2	0	NULL
+1008311	ggdef domain-containing protein (8)	17	15	2	0	pas domain s-box protein (5);hypothetical protein (1);phosphodiesterase (1)
+1005369	integrase (13)	18	14	4	0	hypothetical protein (1)
+1005389	hypothetical protein (6)	18	14	4	0	biotin transporter bioy (6);blda-regulated nucleotide binding protein (1);blda-regulated nucleotide-binding protein (1)
+1005650	hypothetical protein (11)	22	14	9	1	atpase aaa (1);aaa family atpase (1);moxr family atpase (1)
+1005671	transposase (6)	16	14	2	0	tnsa-like heteromeric transposase endonuclease subunit (5);hypothetical protein (3);integrase (2)
+1008033	mfs transporter (14)	16	14	2	0	NULL
+1009014	mfs transporter (14)	16	14	2	0	NULL
+1005786	amidohydrolase (7)	16	13	3	0	hypothetical protein (3);glutamine synthetase (2);amidohydrolase 2 (1)
+1005840	thioesterase (12)	15	13	2	0	hypothetical protein (1);mbth family protein (1)
+1006071	glycosyltransferase family 2 protein (6)	16	13	3	0	gtra family protein (6);polyprenol monophosphomannose synthase (1)
+1006103	llm class flavin-dependent oxidoreductase (4)	17	13	4	0	tigr03619 family f420-dependent llm class oxidoreductase (4);tigr03621 family f420-dependent llm class oxidoreductase (3);f420-dependent oxidoreductase (1);llm class f420-dependent oxidoreductase (1)
+1006847	mfs transporter (12)	15	13	2	0	arsr family transcriptional regulator (1);hypothetical protein (1)
+1006969	thiamine biosynthesis protein thif (5)	19	13	6	0	hypothetical protein (4);thif family adenylyltransferase (3);secreted protein (1)
+1008408	dna-binding response regulator (12)	15	13	2	0	helix-turn-helix transcriptional regulator (1);abc transporter atp-binding protein (1)
+1008724	terd family protein (5)	25	13	12	0	restriction endonuclease (4);dna polymerase iii (2);stress response protein terz (1);hypothetical protein (1)
+1008890	endo-1,4-beta-xylanase (12)	16	13	3	0	hypothetical protein (1)
+1009249	is3 family transposase (8)	49	13	36	0	hypothetical protein (4);transposase (1);is4 family transposase issav1 (1)
+1005172	sugar abc transporter substrate-binding protein (5)	22	12	10	0	abc transporter substrate-binding protein (4);sugar transporter (1);hypothetical protein (1);sugar abc transporter permease (1)
+1005174	sigma-70 family rna polymerase sigma factor (6)	14	12	2	0	hypothetical protein (5);rna polymerase sigma factor (1)
+1005217	hypothetical protein (10)	14	12	3	1	parh-like protein (2)
+1005331	hypothetical protein (5)	15	12	4	1	pyridine nucleotide-disulfide oxidoreductase (4);fad-dependent oxidoreductase (3)
+1005426	mfs transporter (7)	29	12	17	0	esterase (4);hypothetical protein (1)
+1005696	transposase (8)	14	12	2	0	insertion element transposase (2);is5/is1182 family transposase (2)
+1005967	tetratricopeptide repeat protein (5)	13	12	2	1	purine phosphorylase (4);hypothetical protein (2);nucleosidase (1);afsr family transcriptional regulator (1)
+1006827	hypothetical protein (12)	13	12	2	1	NULL
+1007224	laci family transcriptional regulator (12)	14	12	2	0	NULL
+1008572	m1 family peptidase (11)	15	12	3	0	aminopeptidase n (1)
+1008663	mfs transporter (12)	14	12	2	0	tetr/acrr family transcriptional regulator (1)
+1009216	hypothetical protein (12)	14	12	2	0	NULL
+1005015	hypothetical protein (11)	13	11	2	0	sam-dependent methyltransferase (1)
+1005637	carbohydrate abc transporter substrate-binding protein (8)	14	11	3	0	sugar abc transporter substrate-binding protein (2);hypothetical protein (1);serine/threonine protein kinase (1)
+1005789	fructose-bisphosphate aldolase (7)	14	11	3	0	2-amino-4,5-dihydroxy-6-one-heptanoic acid-7-phosphate synthase (2);hypothetical protein (2)
+1005806	integrase (5)	13	11	2	0	site-specific integrase (3);hypothetical protein (2);helix-turn-helix domain-containing protein (1);mobile element protein (1)
+1005815	atp-grasp domain-containing protein (6)	14	11	5	2	cysteine synthase (2);siderophore biosynthesis protein (2);cysteine synthase family protein (1)
+1006420	mfs transporter (11)	17	11	6	0	NULL
+1006854	is110 family transposase (9)	12	11	3	2	hypothetical protein (1)
+1007629	class e sortase (10)	14	11	3	0	sortase (1)
+1008423	xre family transcriptional regulator (5)	13	11	2	0	kr domain-containing protein (4);sdr family nad(p)-dependent oxidoreductase (1);transcriptional regulator (1)
+1008601	cellulose-binding protein (3)	14	11	3	0	cellulose 1,4-beta-cellobiosidase (3);endoglucanase (2);esterase (2);hypothetical protein (1)
+1005100	kr domain-containing protein (5)	44	10	34	0	sdr family nad(p)-dependent oxidoreductase (3);3-oxoacyl-(acp) reductase (1);hypothetical protein (1)
+1005867	aldehyde dehydrogenase (7)	42	10	33	1	hypothetical protein (2);(5-formylfuran-3-yl)methyl phosphate synthase (2)
+1005943	degt/dnrj/eryc1/strs family aminotransferase (4)	12	10	2	0	hypothetical protein (2);epimerase (2);kr domain-containing protein (1);gfo/idh/moca family oxidoreductase (1);dtdp-4-dehydro-6-deoxyglucose aminotransferase (1);phytanoyl-coa dioxygenase family protein (1)
+1007163	hypothetical protein (4)	14	10	4	0	serine/threonine protein kinase (4);protein tyrosine kinase (2)
+1007183	alpha-l-fucosidase (5)	12	10	2	0	alpha-n-acetylglucosaminidase (2);hypothetical protein (2);alpha-galactosidase (1)
+1007860	m23 family peptidase (9)	12	10	2	0	peptidase m23 (1)
+1008426	hypothetical protein (3)	13	10	3	0	mfs transporter (2);fad-dependent oxidoreductase (2);fad-dependent monooxygenase (2);monooxygenase (1);oxidoreductase (1);fad-binding protein (1)
+1009128	hypothetical protein (5)	49	10	39	0	sigma-70 family rna polymerase sigma factor (4);duf642 domain-containing protein (1)
+1009140	aspartate aminotransferase family protein (7)	17	10	7	0	3-phosphoshikimate 1-carboxyvinyltransferase (2);aldehyde dehydrogenase (2);fad-binding oxidoreductase (1);coenzyme f420-reducing hydrogenase (1);cupin domain-containing protein (1)
+1004993	endoglucanase (3)	12	9	3	0	cellulose 1,4-beta-cellobiosidase (3);glycosyl hydrolase family 5 (1);glucose/sorbosone dehydrogenase-like protein (1);hypothetical protein (1)
+1005024	mfs transporter (9)	12	9	3	0	NULL
+1005218	kr domain-containing protein (4)	11	9	2	0	3-oxoacyl-acp reductase fabg (2);3-ketoacyl-acp reductase (1);sdr family oxidoreductase (1);short-chain dehydrogenase (1)
+1005242	duf3152 domain-containing protein (9)	12	9	3	0	NULL
+1005318	atp-binding protein (5)	11	9	2	0	sensor histidine kinase (3);histidine kinase (1)
+1005345	fad-binding protein (6)	11	9	2	0	fad-binding oxidoreductase (2);llm class flavin-dependent oxidoreductase (1)
+1005383	xre family transcriptional regulator (7)	11	9	2	0	helix-turn-helix domain-containing protein (1);dna-binding protein, mmyb (1)
+1005485	penicillin-binding protein (4)	13	9	4	0	hypothetical protein (2);ftsw/roda/spove family cell cycle protein (1);pbsx family transcriptional regulator (1);penicillin-binding protein 2 (1)
+1005545	sulp family inorganic anion transporter (6)	12	9	3	0	transporter (3)
+1005641	sugar abc transporter permease (6)	18	9	9	0	carbohydrate abc transporter permease (3)
+1005672	duf742 domain-containing protein (7)	16	9	7	0	hypothetical protein (1);roadblock/lc7 domain-containing protein (1)
+1005802	class i sam-dependent methyltransferase (5)	12	9	3	0	dna-binding response regulator (2);nudix domain-containing protein (1);atp-binding protein (1);two-component sensor histidine kinase (1)
+1005812	methyltransferase domain-containing protein (4)	11	9	2	0	class i sam-dependent methyltransferase (3);dtdp-4-keto-6-deoxy-d-glucose epimerase (1);sam-dependent methyltransferase (1)
+1005874	maleylpyruvate isomerase family mycothiol-dependent enzyme (2)	16	9	7	0	rna polymerase subunit sigma-70 (2);hypothetical protein (1);dna-directed rna polymerase sigma-70 factor (1);sigma factor (1);mdmpi n domain containing protein (1);rna polymerase subunit sigma (1)
+1005881	hypothetical protein (5)	11	9	2	0	replication initiation protein (5)
+1005905	hypothetical protein (3)	11	9	2	0	rok family transcriptional regulator (3);sugar kinase (1);hydrogenase expression protein (1);beta-1,6-galactanase (1)
+1006038	rok family transcriptional regulator (5)	14	9	5	0	rok family protein (3);hth domain-containing protein (1)
+1006056	atp-grasp domain-containing protein (8)	12	9	3	0	duf317 domain-containing protein (1);hypothetical protein (1)
+1006078	glycogen debranching enzyme glgx (7)	11	9	2	0	glycogen debranching enzyme (1);pullulanase-type alpha-1,6-glucosidase (1)
+1006971	cytochrome p450 (9)	11	9	2	0	NULL
+1007375	asparagine synthase (glutamine-hydrolyzing) (6)	11	9	2	0	acetolactate synthase (1);hypothetical protein (1);asparagine synthetase b (1)
+1007488	sugar abc transporter substrate-binding protein (3)	14	9	5	0	abc transporter substrate-binding protein (2);sugar abc transporter permease (2);sugar transporter (1);sugar transporter sugar binding lipoprotein (1)
+1007514	helix-turn-helix transcriptional regulator (4)	11	9	2	0	luxr family transcriptional regulator (3);hypothetical protein (2)
+1007812	is21 family transposase (4)	11	9	2	0	atpase aaa (3);tigr00645 family protein (3);aaa family atpase (1)
+1007814	non-ribosomal peptide synthetase (4)	18	9	10	1	peptide synthetase (3);hypothetical protein (2)
+1007827	hypothetical protein (5)	11	9	2	0	pbs lyase (2);heat repeat domain-containing protein (2)
+1007833	hypothetical protein (4)	12	9	5	2	serine/threonine protein kinase (2);protein kinase (1);vwa domain-containing protein (1)
+1007962	mfs transporter (9)	11	9	2	0	NULL
+1008323	hypothetical protein (9)	11	9	2	0	NULL
+1008363	degt/dnrj/eryc1/strs aminotransferase family protein (4)	14	9	5	0	hypothetical protein (3);lipopolysaccharide biosynthesis protein (1);membrane protein (1)
+1008747	non-ribosomal peptide synthetase (4)	13	9	4	0	hypothetical protein (3);non-ribosomal peptide synthase (1);methyltransferase domain-containing protein (1);amino acid adenylation domain-containing protein (1)
+1008770	mfs transporter (7)	11	9	2	0	s9 family peptidase (2)
+1008817	cytochrome p450 (8)	12	9	3	0	hypothetical protein (1);yqci/ycgg family protein (1)
+1004964	chad domain-containing protein (7)	19	8	11	0	hypothetical protein (1)
+1005062	hypothetical protein (5)	11	8	3	0	non-ribosomal peptide synthetase (2);amino acid adenylation domain-containing protein (1)
+1005252	ripp maturation radical sam protein 1 (5)	11	8	3	0	b12-binding domain-containing radical sam protein (2);hypothetical protein (1);abc transporter (1)
+1005310	cyclic nucleotide-binding domain-containing protein (8)	11	8	3	0	NULL
+1005441	acyl-coa dehydrogenase (8)	12	8	5	1	NULL
+1005547	septum formation initiator (5)	13	8	5	0	pilus assembly protein cpaf (1);secretion protein (1);cpaf family protein (1)
+1005560	hypothetical protein (3)	19	8	11	0	abc transporter atp-binding protein (2);multidrug abc transporter atp-binding protein (2);abc transporter (1)
+1005584	hypothetical protein (8)	9	8	2	1	NULL
+1005656	hypothetical protein (7)	10	8	4	2	type ii secretion system f family protein (1)
+1005736	amino acid permease (8)	10	8	2	0	NULL
+1005795	laci family transcriptional regulator (6)	13	8	5	0	alpha-glucosidase (1);hth domain-containing protein (1)
+1005899	asparagine synthase (5)	10	8	2	0	asparagine synthetase b family protein (2);pqqd family protein (1);lasso peptide isopeptide bond-forming cyclase (1)
+1005932	mfs transporter (6)	9	8	2	1	actinorhodin transporter (1)
+1006005	amino acid permease (5)	10	8	2	0	apc family permease (3)
+1006649	hypothetical protein (4)	10	8	2	0	alpha/beta hydrolase (4)
+1006693	pkd domain-containing protein (6)	10	8	2	0	oxidoreductase (1);glycosyl hydrolase (1)
+1006958	hypothetical protein (6)	14	8	6	0	membrane protein (1);dna internalization competence protein comec/rec2-like protein (1)
+1006959	hypothetical protein (5)	10	8	2	0	fad-dependent oxidoreductase (1);3-(3-hydroxyphenyl)propionate hydroxylase (1);polyketide oxidase (1)
+1007068	lysr family transcriptional regulator (6)	11	8	3	0	hydrogen peroxide-inducible protein activator (1);serine hydrolase (1)
+1007166	pectate lyase (7)	9	8	2	1	NULL
+1007337	aminodeoxychorismate synthase component i (6)	11	8	3	0	aminodeoxychorismate synthase (1);acyl-coa synthase (1);anthranilate synthase (1)
+1007398	coa transferase (6)	10	8	2	0	hypothetical protein (1);formyl-coa transferase (1)
+1007485	oxidoreductase (4)	11	8	3	0	formate dehydrogenase (1);molybdopterin dinucleotide-binding protein (1);nadh dehydrogenase subunit f (1);nitrite reductase (1)
+1007516	mfs transporter (6)	8	8	2	2	NULL
+1007701	mfs transporter (8)	10	8	2	0	NULL
+1007763	hypothetical protein (5)	10	8	2	0	peptidoglycan-binding protein (3)
+1007869	is110 family transposase (8)	9	8	2	1	NULL
+1008223	site-specific integrase (5)	10	8	2	0	integrase (2);hypothetical protein (1)
+1008443	hypothetical protein (3)	15	8	7	0	phospholipid carrier-dependent glycosyltransferase (1);polysaccharide synthesis protein gtra (1);gtra family protein (1);glycosyltransferase family 2 protein (1);sugar translocase (1)
+1008468	epimerase (2)	10	8	2	0	kr domain-containing protein (2);activator-dependent family glycosyltransferase (1);sdr family nad-dependent epimerase/dehydratase (1);duf1205 domain-containing protein (1);udp-glucose 4-epimerase (1);hypothetical protein (1)
+1008517	transposase (8)	10	8	2	0	NULL
+1009097	hypothetical protein (4)	10	8	2	0	long-chain fatty acid--coa ligase (3);acyl-coa transferase (1);amp-dependent synthetase (1)
+1004911	is5/is1182 family transposase (6)	12	7	6	1	hypothetical protein (1)
+1004917	fad-dependent oxidoreductase (2)	9	7	3	1	nad(p)/fad-dependent oxidoreductase (2);fad-binding protein (1);hypothetical protein (1);amine oxidase (1)
+1004974	nad(p)/fad-dependent oxidoreductase (3)	14	7	7	0	atp-grasp domain-containing protein (2);dimethylaniline monooxygenase (1);d-aspartate ligase (1)
+1005020	ohcu decarboxylase (7)	9	7	2	0	NULL
+1005101	amino acid adenylation protein (2)	11	7	4	0	amino acid adenylation domain-containing protein (2);hypothetical protein (2);non-ribosomal peptide synthetase (1)
+1005105	iron-siderophore abc transporter substrate-binding protein (5)	10	7	3	0	hypothetical protein (2)
+1005173	hypothetical protein (4)	12	7	5	0	peptidase s15 (2);abc transporter atp-binding protein (1)
+1005397	tigr03084 family protein (5)	11	7	4	0	duf1446 domain-containing protein (4)
+1005419	glycosyltransferase (5)	10	7	3	0	duf1205 domain-containing protein (1);acyl carrier protein (1)
+1005506	iron abc transporter permease (4)	16	7	9	0	hypothetical protein (1);abc transporter permease (1);abc transporter substrate-binding protein (1)
+1005624	methylaspartate mutase (7)	9	7	2	0	methylmalonyl-coa mutase (2);histidinol-phosphate transaminase (1);hypothetical protein (1)
+1005785	fad-binding protein (4)	13	7	6	0	hypothetical protein (3)
+1005990	abc transporter atp-binding protein (5)	13	7	7	1	transporter (2);translation initiation factor if-2 (1);hypothetical protein (1)
+1006059	hypothetical protein (2)	12	7	5	0	2-polyprenyl-6-methoxyphenol hydroxylase (1);dtdp-4-dehydrorhamnose reductase (1);gdp-mannose 4,6-dehydratase (1);sdr family nad(p)-dependent oxidoreductase (1);glycosyltransferase (1)
+1006075	aminotransferase class v-fold plp-dependent enzyme (6)	10	7	3	0	cysteine desulfurase (1)
+1006448	doxx family protein (4)	9	7	2	0	endoglucanase (3)
+1006615	tetr/acrr family transcriptional regulator (7)	10	7	3	0	NULL
+1006642	4-alpha-glucanotransferase (7)	9	7	2	0	NULL
+1006678	branched-chain amino acid abc transporter permease (3)	15	7	8	0	arac family transcriptional regulator (2);hypothetical protein (1);branched-chain amino acid permease (1)
+1007021	rna polymerase sigma factor (4)	9	7	2	0	sigma-70 family rna polymerase sigma factor (3)
+1007047	sigma-70 family rna polymerase sigma factor (6)	10	7	4	1	hypothetical protein (1)
+1007422	hypothetical protein (3)	9	7	2	0	cytochrome p450 (3);chalcone synthase (1)
+1007455	lactate dehydrogenase (1)	9	7	2	0	phosphoglycerate dehydrogenase (1);dehydrogenase (1);hydroxyacid dehydrogenase (1);amino acid adenylation domain-containing protein (1);hypothetical protein (1);2-hydroxyacid dehydrogenase (1)
+1007810	isochorismatase (3)	9	7	2	0	anthranilate synthase (2);hypothetical protein (2)
+1007903	rna polymerase sigma-70 factor (4)	10	7	3	0	rna polymerase sigma factor sigj (1);hypothetical protein (1);nucleoside-diphosphate sugar epimerase (1)
+1007919	hypothetical protein (3)	10	7	3	0	glycosyltransferase (2);macrolide-inactivating glycosyltransferase (1);glycosyl transferase (1)
+1008184	aldo/keto reductase (4)	9	7	2	0	hypothetical protein (2);serine protease (2);oxidoreductase (1)
+1008380	serine/threonine protein kinase (3)	10	7	3	0	hypothetical protein (3);mfs transporter (1)
+1008399	xre family transcriptional regulator (6)	11	7	4	0	hypothetical protein (1)
+1008656	hypothetical protein (5)	9	7	2	0	fic family toxin-antitoxin system, toxin component (1);toxin doc (1)
+1009002	mfs transporter (4)	12	7	5	0	heme abc transporter atp-binding protein (1);enterobactin transporter ents (1);hypothetical protein (1);abc transporter atp-binding protein (1)
+1009200	rna polymerase sigma factor (4)	9	7	2	0	rna polymerase subunit sigma-70 (2);rna polymerase sigma factor rpod (1)
+1004914	abc transporter atp-binding protein (3)	32	6	26	0	phosphate abc transporter atp-binding protein (1);n-acetyltransferase (1);hypothetical protein (1)
+1004941	helicase (3)	8	6	2	0	hypothetical protein (3)
+1005007	hypothetical protein (5)	9	6	3	0	cholesterol esterase (1)
+1005009	sugar-binding protein (6)	8	6	2	0	NULL
+1005018	beta-n-acetylhexosaminidase (3)	10	6	4	0	beta-n-acetylglucosaminidase (1);glycoside hydrolase family 3 protein (1);hypothetical protein (1)
+1005226	response regulator (6)	8	6	2	0	NULL
+1005259	is982 family transposase (6)	10	6	4	0	NULL
+1005296	arac family transcriptional regulator (6)	8	6	2	0	class i sam-dependent methyltransferase (1)
+1005297	is5 family transposase (3)	7	6	4	3	hypothetical protein (2);is5/is1182 family transposase (1)
+1005335	abc transporter permease (6)	9	6	3	0	NULL
+1005350	non-ribosomal peptide synthetase (2)	7	6	2	1	kr domain-containing protein (2);non-ribosomal peptide synthase (1);peptide synthetase (1)
+1005416	xre family transcriptional regulator (4)	8	6	2	0	transcriptional regulator (2)
+1005461	sugar abc transporter atp-binding protein (5)	23	6	17	0	abc transporter permease (1)
+1005478	sulfatase-modifying factor protein (2)	11	6	5	0	protein kinase (1);tir domain-containing protein (1);formylglycine-generating enzyme family protein (1);hypothetical protein (1)
+1005595	alpha-mannosidase (4)	8	6	2	0	alpha-1 2-mannosidase (2)
+1005601	pectate lyase (6)	11	6	5	0	NULL
+1005608	beta-ketoacyl-[acyl-carrier-protein] synthase family protein (3)	17	6	11	0	beta-ketoacyl synthase (1);b12-binding domain-containing radical sam protein (1);3-oxoacyl-acp synthase (1);beta-ketoacyl-[acyl-carrier-protein] synthase ii (1)
+1005660	gntr family transcriptional regulator (2)	10	6	4	0	hypothetical protein (2);glycosyltransferase (2)
+1005766	hypothetical protein (2)	9	6	3	0	l-lysine 6-monooxygenase (2);l-2,4-diaminobutyrate decarboxylase (1);aspartate aminotransferase family protein (1)
+1005782	dna-binding response regulator (4)	20	6	14	0	duf4118 domain-containing protein (1);hypothetical protein (1)
+1005784	enoyl-coa hydratase family protein (2)	12	6	6	0	bifunctional salicylyl-coa 5-hydroxylase/oxidoreductase (2);fad-dependent oxidoreductase (1);fad-binding protein (1)
+1005816	heparinase (6)	13	6	7	0	NULL
+1005904	1-deoxy-d-xylulose-5-phosphate synthase (5)	8	6	2	0	transketolase (1)
+1005911	septum formation initiator (4)	8	6	2	0	pilus assembly protein (1);septum site-determining protein (1)
+1005923	hypothetical protein (4)	10	6	4	0	nlpc/p60 family protein (1);glycoside hydrolase (1)
+1006191	glutamate--cysteine ligase (5)	8	6	2	0	hypothetical protein (1)
+1006233	carbamoyltransferase (6)	6	6	3	3	NULL
+1006415	glycosyltransferase family 2 protein (3)	9	6	3	0	glycosyl transferase (2);hypothetical protein (1)
+1006568	eama family transporter (2)	11	6	5	0	dna-directed rna polymerase sigma-70 factor (2);hypothetical protein (1);abc transporter permease (1)
+1006682	acyl-coa dehydrogenase (5)	9	6	3	0	putative acyl-coa dehydrogenase (1)
+1006717	amidase (6)	8	6	2	0	hypothetical protein (1)
+1006989	fad-dependent oxidoreductase (5)	8	6	2	0	fad-binding protein (1)
+1007013	iclr family transcriptional regulator (5)	8	6	2	0	hypothetical protein (1)
+1007459	nad(p)/fad-dependent oxidoreductase (3)	8	6	2	0	fad-binding protein (1);oxidoreductase (1);msmeg_0569 family flavin-dependent oxidoreductase (1)
+1007497	hypothetical protein (3)	8	6	2	0	peptidoglycan endopeptidase (2);nlpc/p60 family protein (1)
+1007621	lyse family translocator (6)	10	6	4	0	NULL
+1007707	abc transporter atp-binding protein (6)	11	6	5	0	NULL
+1008097	acyl-coa synthetase (4)	8	6	2	0	hypothetical protein (1);long-chain fatty acid--coa ligase (1)
+1008108	hypothetical protein (4)	8	6	2	0	1-hydroxy-2-methyl-2-butenyl 4-diphosphate reductase (2);squalene--hopene cyclase (1)
+1008214	transcriptional regulator (3)	13	6	7	0	xre family transcriptional regulator (3)
+1008413	hypothetical protein (2)	8	6	2	0	mmpl family transporter (2);membrane protein (2)
+1008459	iclr family transcriptional regulator (5)	8	6	2	0	smp-30/gluconolactonase/lre family protein (1)
+1008499	serine/threonine protein kinase (5)	8	6	2	0	hypothetical protein (1)
+1008701	serine/threonine protein kinase (6)	9	6	3	0	sgnh/gdsl hydrolase family protein (1)
+1008716	murein l,d-transpeptidase (3)	13	6	8	1	hypothetical protein (1);l,d-transpeptidase (1)
+1008764	steroid 3-ketoacyl-coa thiolase (4)	13	6	7	0	enoyl-coa hydratase family protein (1);enoyl-coa hydratase/isomerase family protein (1)
+1008895	chitinase (5)	17	6	11	0	glycoside hydrolase (1)
+1008961	hypothetical protein (5)	9	6	3	0	ynce family protein (1)
+1008983	aminoglycoside phosphotransferase family protein (5)	8	6	2	0	aminoglycoside phosphotransferase (1)
+1009069	hypothetical protein (3)	8	6	2	0	kr domain-containing protein (2);acyltransferase (1);beta-ketoacyl synthase (1)
+1009196	hd-gyp domain-containing protein (3)	9	6	3	0	metal-dependent phosphohydrolase (1);hd domain-containing protein (1);hypothetical protein (1)
+1009271	mfs transporter (5)	12	6	6	0	tetr family transcriptional regulator (1)
+1009307	NULL	6	6	6	6	NULL
+1004909	is5/is1182 family transposase (4)	12	5	7	0	transposase (1)
+1004965	glycosyltransferase family 1 protein (3)	47	5	42	0	glycosyltransferase (1);d-inositol-3-phosphate glycosyltransferase (1)
+1005037	aspartate aminotransferase family protein (3)	7	5	2	0	siderophore biosynthesis protein (1);iron transporter (1)
+1005040	hypothetical protein (3)	39	5	34	0	phage tail protein (2)
+1005064	hypothetical protein (4)	12	5	7	0	sukh-3 domain containing protein (1)
+1005116	mfs transporter (3)	34	5	29	0	fad-binding protein (2)
+1005128	hypothetical protein (4)	7	5	2	0	ompa family protein (1)
+1005208	arac family transcriptional regulator (5)	8	5	3	0	NULL
+1005270	glycogen synthase (3)	8	5	3	0	glycosyl transferase (2)
+1005280	sodium-dependent transporter (2)	13	5	8	0	hypothetical protein (2);integral membrane protein (1)
+1005292	is701 family transposase (4)	10	5	6	1	hypothetical protein (1)
+1005299	is1380 family transposase (5)	10	5	5	0	NULL
+1005303	atp-grasp ribosomal peptide maturase (3)	7	5	3	1	hypothetical protein (1);putative atp-grasp-modified ripp (1)
+1005304	multidrug abc transporter atpase (2)	13	5	8	0	abc transporter atp-binding protein (1);multidrug abc transporter permease (1);abc transporter permease (1)
+1005316	siderophore biosynthesis protein (3)	7	5	2	0	iuca/iucc family siderophore biosynthesis protein (1);mfs transporter (1);iuca/iucc family protein (1)
+1005321	rna polymerase sigma factor sigl (3)	9	5	4	0	rna polymerase subunit sigma-70 (1);hypothetical protein (1)
+1005405	plasmid stabilization protein (4)	8	5	3	0	hypothetical protein (1)
+1005468	alpha-galactosidase (2)	7	5	2	0	hypothetical protein (2);glycosyl hydrolase family 35 (1)
+1005483	aspartate aminotransferase family protein (2)	14	5	9	0	adenosylmethionine--8-amino-7-oxononanoate transaminase (2);lrp/asnc family transcriptional regulator (1)
+1005512	mfs transporter (5)	7	5	2	0	NULL
+1005529	beta-xylosidase (2)	12	5	7	0	hydrolase (2);alpha-n-arabinofuranosidase (1)
+1005554	hypothetical protein (2)	12	5	7	0	rna polymerase sigma factor (2);siderophore-interacting protein (1)
+1005570	abc transporter permease (5)	29	5	24	0	NULL
+1005583	is5/is1182 family transposase (4)	11	5	7	1	hypothetical protein (1)
+1005615	hypothetical protein (5)	7	5	2	0	asch domain-containing protein (2)
+1005622	metallophosphoesterase (3)	14	5	9	0	4'-phosphopantetheinyl transferase (2)
+1005657	thymidylate synthase (4)	7	5	2	0	site-specific integrase (2);nucleoside-diphosphate kinase (1)
+1005742	carbonic anhydrase (3)	10	5	6	1	hypothetical protein (1)
+1005750	atp/gtp-binding protein (2)	10	5	5	0	transposase (1);hypothetical protein (1);atp-binding protein (1);dna-binding protein (1)
+1005754	glycosyltransferase (4)	7	5	2	0	hypothetical protein (1)
+1005857	abc transporter atp-binding protein (3)	9	5	5	1	abc transporter (2)
+1005883	transcriptional regulator (4)	15	5	10	0	hth domain-containing protein (1)
+1005900	serine/threonine protein kinase (4)	7	5	3	1	dead/deah box helicase (1)
+1005916	prepilin peptidase (4)	7	5	2	0	transcriptional regulator (1)
+1006013	3-oxosteroid 1-dehydrogenase (5)	7	5	2	0	class i sam-dependent methyltransferase (1)
+1006060	hamp domain-containing protein (3)	7	5	2	0	atpase (1);hypothetical protein (1)
+1006377	integrase (4)	7	5	2	0	hypothetical protein (3)
+1006414	glycosyl transferase (5)	7	5	2	0	NULL
+1006620	hypothetical protein (2)	8	5	3	0	nitrate abc transporter substrate-binding protein (2);abc transporter atp-binding protein (1)
+1006623	NULL	39	5	39	5	NULL
+1006672	llm class flavin-dependent oxidoreductase (4)	9	5	4	0	pyrimidine utilization protein a (1)
+1006712	(2fe-2s)-binding protein (2)	10	5	5	0	hypothetical protein (1);xanthine dehydrogenase family protein subunit m (1);oxidoreductase (1)
+1006877	dihydroxy-acid dehydratase (5)	9	5	4	0	NULL
+1006914	hypothetical protein (3)	9	5	4	0	peptidase (1);peptidase s15 (1)
+1007147	voc family protein (3)	7	5	2	0	hydrolase (1);hydroxylase (1)
+1007195	cpaf family protein (3)	11	5	6	0	hypothetical protein (2)
+1007277	rlob domain-containing protein (4)	7	5	2	0	atp-binding protein (1)
+1007359	nad-dependent epimerase (5)	7	5	2	0	beta-ketoacyl synthase (1);hypothetical protein (1)
+1007527	kr domain-containing protein (4)	5	5	2	2	methyltransferase domain-containing protein (1)
+1007554	nad(p)/fad-dependent oxidoreductase (4)	7	5	2	0	neopentalenolactone d synthase (1)
+1007595	hypothetical protein (5)	5	5	2	2	NULL
+1007609	hypothetical protein (2)	7	5	2	0	maltokinase (2);1,4-alpha-glucan branching protein glgb (1)
+1007687	tnsa-like heteromeric transposase endonuclease subunit (4)	7	5	2	0	integrase (1);hypothetical protein (1)
+1007785	hypothetical protein (2)	7	5	2	0	aminoglycoside o-phosphotransferase aph(6)-ib (1);hydroxyurea phosphotransferase (1);kinase (1)
+1007876	serine/threonine protein kinase (5)	7	5	2	0	NULL
+1008032	hypothetical protein (2)	7	5	2	0	acyl-coa dehydrogenase (2);hydrolase (1)
+1008120	serine hydrolase (4)	7	5	2	0	hypothetical protein (1)
+1008136	xaa-pro aminopeptidase (2)	7	5	2	0	short chain dehydrogenase (1);hypothetical protein (1);kr domain-containing protein (1)
+1008430	zeta toxin family protein (2)	7	5	3	1	atp/gtp-binding protein (1);zeta-toxin (1);hypothetical protein (1)
+1008456	sam-dependent methyltransferase (2)	5	5	3	3	NULL
+1008611	had family phosphatase (3)	8	5	3	0	hypothetical protein (2)
+1008613	endoglucanase 1 (2)	8	5	3	0	endoglucanase (2);glycoside hydrolase (1)
+1008616	tn3 family transposase (3)	7	5	2	0	hypothetical protein (2)
+1008784	hypothetical protein (5)	8	5	3	0	type iv secretion protein rhs (1);rhs repeat protein (1)
+1008836	mfs transporter (4)	7	5	2	0	hypothetical protein (2)
+1009025	murein biosynthesis integral membrane protein murj (4)	9	5	5	1	NULL
+1004996	hypothetical protein (4)	6	4	2	0	NULL
+1005039	dna-binding response regulator (2)	10	4	6	0	sensor histidine kinase (2)
+1005049	haloacid dehalogenase (1)	7	4	3	0	phosphatase (1);phosphoketolase family protein (1);glycoside hydrolase family 65 protein (1)
+1005061	tetr/acrr family transcriptional regulator (3)	15	4	11	0	enoyl-coa hydratase family protein (1)
+1005076	chemotaxis protein (2)	6	4	2	0	hypothetical protein (2)
+1005106	aspartate aminotransferase family protein (2)	6	4	2	0	ornithine--oxo-acid transaminase (1);acetylornithine aminotransferase (1)
+1005127	nad(p)-dependent oxidoreductase (3)	6	4	2	0	aminotransferase (1)
+1005150	serine hydrolase (3)	6	4	2	0	hypothetical protein (1)
+1005155	phytanoyl-coa dioxygenase (2)	10	4	6	0	hypothetical protein (1);duf1479 domain-containing protein (1)
+1005156	duf58 domain-containing protein (2)	19	4	15	0	transglutaminase domain-containing protein (1);transglutaminase (1)
+1005192	acyl-coa dehydrogenase (4)	12	4	8	0	NULL
+1005222	isopenicillin n synthase family oxygenase (4)	10	4	6	0	NULL
+1005236	dctp deaminase (4)	8	4	4	0	hypothetical protein (1)
+1005326	dna polymerase iv (3)	16	4	12	0	dna polymerase iii subunit alpha (1)
+1005348	thiolase (1)	6	4	2	0	protein dehydratase (1);thiolase domain-containing protein (1);acyl dehydratase (1)
+1005359	hypothetical protein (2)	6	4	2	0	kr domain-containing protein (1);sdr family nad(p)-dependent oxidoreductase (1)
+1005364	isas1 family transposase (2)	11	4	8	1	dde transposase family protein (1);hypothetical protein (1)
+1005379	mfs transporter (3)	6	4	2	0	tetr/acrr family transcriptional regulator (1)
+1005409	tetr/acrr family transcriptional regulator (4)	10	4	6	0	NULL
+1005431	smi1/knr4 family protein (2)	5	4	2	1	cell wall assembly protein (1);glucan biosynthesis protein (1)
+1005436	phosphotransferase (3)	7	4	3	0	aminoglycoside phosphotransferase (1)
+1005521	sirohydrochlorin chelatase (2)	26	4	23	1	cobyrinic acid a,c-diamide synthase (1);hypothetical protein (1);threonine-phosphate decarboxylase (1)
+1005557	sensor histidine kinase (2)	6	4	2	0	pas domain-containing sensor histidine kinase (1);hypothetical protein (1)
+1005558	hypothetical protein (4)	6	4	2	0	NULL
+1005563	hamp domain-containing protein (2)	9	4	5	0	hypothetical protein (1);atp-binding protein (1)
+1005590	carbohydrate abc transporter substrate-binding protein (2)	6	4	2	0	sugar-binding protein (1);sugar abc transporter permease (1)
+1005594	carbohydrate kinase (2)	6	4	2	0	glycerol kinase (1);l-2-hydroxyglutarate oxidase (1)
+1005599	is701 family transposase (4)	9	4	5	0	NULL
+1005606	aldo/keto reductase (4)	6	4	2	0	NULL
+1005610	rna polymerase sigma factor sigm (2)	7	4	3	0	rna polymerase subunit sigma (1);rna polymerase sigma factor (1)
+1005628	ndp-hexose 2,3-dehydratase (3)	7	4	3	0	gfo/idh/moca family oxidoreductase (1)
+1005735	fadr family transcriptional regulator (2)	11	4	7	0	hypothetical protein (1);sdr family nad(p)-dependent oxidoreductase (1)
+1005760	hypothetical protein (4)	6	4	2	0	NULL
+1005763	isazo13 family transposase (2)	7	4	3	0	hypothetical protein (1);isazo13 family transposase isstu2 (1)
+1005780	kr domain-containing protein (1)	6	4	2	0	thioesterase (1);hypothetical protein (1);peptide synthetase (1)
+1005790	site-specific integrase (3)	6	4	2	0	hypothetical protein (1)
+1005831	replicative dna helicase (2)	5	4	3	2	helicase dnab (1);hypothetical protein (1)
+1005876	hypothetical protein (3)	7	4	3	0	ppx/gppa phosphatase (1)
+1005901	hypothetical protein (2)	7	4	3	0	pd-(d/e)xk nuclease family protein (2)
+1005918	membrane protein (3)	6	4	2	0	pilus assembly protein cpaf (1)
+1005937	glycerophosphodiester phosphodiesterase (3)	6	4	2	0	glycerophosphoryl diester phosphodiesterase (1)
+1005944	hypothetical protein (2)	8	4	4	0	molecular chaperone (1);molecular chaperone dnak (1)
+1006025	rna polymerase subunit sigma (2)	6	4	2	0	sigma-70 family rna polymerase sigma factor (1);rna polymerase sigma factor (1)
+1006027	hypothetical protein (2)	6	4	2	0	kr domain-containing protein (1);nad(p)-dependent oxidoreductase (1)
+1006030	metallophosphoesterase (3)	8	4	5	1	4'-phosphopantetheinyl transferase (1)
+1006052	hypothetical protein (3)	6	4	2	0	cupin (1)
+1006096	alpha/beta hydrolase (3)	9	4	5	0	hypothetical protein (1)
+1006121	sgnh/gdsl hydrolase family protein (3)	6	4	3	1	NULL
+1006182	cdp-glycerol:glycerophosphate glycerophosphotransferase (4)	7	4	3	0	NULL
+1006208	hypothetical protein (4)	6	4	2	0	NULL
+1006369	cellulose-binding protein (4)	9	4	5	0	NULL
+1006421	hypothetical protein (3)	7	4	4	1	non-ribosomal peptide synthetase/polyketide synthase (1)
+1006435	kr domain-containing protein (2)	7	4	4	1	non-ribosomal peptide synthase (1);hypothetical protein (1);non-ribosomal peptide synthetase (1)
+1006503	coronafacic acid synthetase (1)	7	4	3	0	acyl-coa synthetase (1);fatty acid coa ligase (1);hypothetical protein (1)
+1006563	monooxygenase (2)	6	4	2	0	2-polyprenyl-6-methoxyphenol hydroxylase (1);hypothetical protein (1)
+1006588	chitinase (4)	11	4	7	0	NULL
+1006612	glycosyltransferase family 2 protein (3)	8	4	4	0	glycosyltransferase (1)
+1006647	duf305 domain-containing protein (4)	6	4	2	0	NULL
+1006759	hypothetical protein (4)	5	4	2	1	NULL
+1006851	hypothetical protein (3)	8	4	4	0	adenosylhomocysteinase (1)
+1006895	y4ya family plp-dependent enzyme (2)	6	4	2	0	xre family transcriptional regulator (1);diaminopimelate decarboxylase (1)
+1006912	l-lysine 6-monooxygenase (3)	6	4	2	0	hypothetical protein (1)
+1006970	serine protease (4)	6	4	2	0	NULL
+1007031	replication initiation protein (2)	5	4	2	1	hypothetical protein (1)
+1007051	deor/glpr transcriptional regulator (4)	6	4	2	0	NULL
+1007069	abc transporter (3)	8	4	4	0	abc transporter atp-binding protein (1);abc transporter permease (1)
+1007180	mfs transporter (4)	6	4	2	0	NULL
+1007186	rna polymerase sigma factor (3)	6	4	2	0	hypothetical protein (1)
+1007539	gntr family transcriptional regulator (2)	7	4	3	0	fadr family transcriptional regulator (2)
+1007571	hypothetical protein (3)	5	4	2	1	NULL
+1007777	llm class flavin-dependent oxidoreductase (1)	8	4	4	0	f420-dependent reductase lmby (1);nad(p)/fad-dependent oxidoreductase (1);fad-dependent oxidoreductase (1)
+1007782	tetr/acrr family transcriptional regulator (2)	8	4	5	1	tetr family transcriptional regulator (1)
+1007917	atp-binding protein (3)	6	4	2	0	sensor histidine kinase (1)
+1007991	acyl-coa carboxylase subunit beta (3)	7	4	3	0	duf1446 domain-containing protein (1)
+1008037	serine/threonine protein kinase (3)	8	4	4	0	hypothetical protein (1)
+1008085	merr family dna-binding transcriptional regulator (2)	6	4	2	0	merr family transcriptional regulator (2)
+1008143	sensor histidine kinase (2)	6	4	2	0	response regulator (1);dna-binding response regulator (1);luxr family transcriptional regulator (1)
+1008154	duf742 domain-containing protein (4)	6	4	2	0	NULL
+1008218	chitinase (3)	8	4	4	0	hydrolase (1)
+1008397	hypothetical protein (4)	7	4	3	0	NULL
+1008400	dynein regulation protein lc7 (4)	5	4	2	1	atp-binding protein (1);histidine kinase (1)
+1008417	mfs transporter (4)	6	4	2	0	NULL
+1008668	is5 family transposase (4)	7	4	3	0	NULL
+1008712	sulfite exporter taue/safe family protein (3)	6	4	2	0	hypothetical protein (1)
+1008735	mfs transporter (4)	6	4	2	0	NULL
+1008855	hypothetical protein (2)	6	4	2	0	trm112 family protein (2)
+1008888	3-oxoacyl-acp reductase (2)	6	4	2	0	kr domain-containing protein (1);oxidoreductase (1);tetr family transcriptional regulator (1)
+1008914	sugar-binding protein (4)	6	4	3	1	NULL
+1008962	mfs transporter (4)	6	4	2	0	NULL
+1008963	kr domain-containing protein (3)	6	4	2	0	3-oxoacyl-acp reductase (1)
+1009008	lytr family transcriptional regulator (4)	6	4	2	0	NULL
+1009046	cellulose-binding protein (2)	7	4	3	0	cellulose-binding domain protein (1);hypothetical protein (1)
+1009277	hypothetical protein (2)	10	4	6	0	4-hydroxyphenylacetate 3-monooxygenase (1);cysteine synthase family protein (1);cysteine synthase (1)
+1009294	phage dna methylase (3)	7	4	3	0	dna cytosine methyltransferase (3)
+1009329	NULL	14	4	14	4	NULL
+1009414	NULL	4	4	4	4	NULL
+1004928	urea abc transporter permease subunit urtc (1)	25	3	22	0	branched-chain amino acid abc transporter permease (1);abc transporter atp-binding protein (1)
+1004977	rna polymerase sigma factor sigf (2)	5	3	2	0	sigb/sigf/sigg family rna polymerase sigma factor (1)
+1005008	pectate lyase (3)	6	3	3	0	NULL
+1005038	hypothetical protein (2)	17	3	14	0	maltose alpha-d-glucosyltransferase (1)
+1005069	dna-binding response regulator (3)	5	3	2	0	NULL
+1005088	dna-binding response regulator (3)	5	3	2	0	response regulator (1)
+1005119	hypothetical protein (1)	10	3	7	0	rna polymerase sigma factor (1);rna polymerase (1)
+1005168	crotonyl-coa carboxylase/reductase (1)	5	3	2	0	nadp-dependent oxidoreductase (1);nadph:quinone reductase (1)
+1005185	cation-transporting atpase (1)	12	3	9	0	cation-translocating p-type atpase (1);haloacid dehalogenase (1)
+1005229	abc transporter atp-binding protein (2)	5	3	2	0	abc transporter (1)
+1005231	methyltransferase, fxld system (3)	5	3	2	0	NULL
+1005254	eama/rhat family transporter (3)	6	3	3	0	dna-binding response regulator (1)
+1005264	alpha/beta hydrolase (2)	5	3	2	0	adenylosuccinate lyase family protein (1)
+1005269	glycogen synthase (2)	14	3	11	0	ferric iron reductase (1)
+1005271	amidase (3)	5	3	2	0	NULL
+1005302	lipase (3)	8	3	5	0	NULL
+1005312	hydrolase (1)	5	3	2	0	had family phosphatase (1);lrp/asnc family transcriptional regulator (1)
+1005356	sugar abc transporter substrate-binding protein (3)	6	3	4	1	NULL
+1005418	fad-dependent monooxygenase (2)	5	3	2	0	4-hydroxybenzoate 3-monooxygenase (1)
+1005433	is5 family transposase (2)	5	3	4	2	is5/is1182 family transposase (1)
+1005438	hypothetical protein (3)	5	3	2	0	NULL
+1005445	hypothetical protein (3)	5	3	2	0	NULL
+1005464	mandelate racemase (1)	7	3	4	0	mandelate racemase/muconate lactonizing enzyme family protein (1);hypothetical protein (1)
+1005497	lrp/asnc family transcriptional regulator (3)	5	3	2	0	NULL
+1005513	carbohydrate abc transporter permease (3)	6	3	3	0	NULL
+1005530	hypothetical protein (2)	15	3	12	0	tyrosinase (1)
+1005618	hypothetical protein (1)	6	3	3	0	cpbp family intramembrane metalloprotease (1);two-component sensor histidine kinase (1)
+1005654	sensor histidine kinase (2)	5	3	2	0	two-component sensor histidine kinase (1)
+1005667	abc transporter atp-binding protein (2)	5	3	2	0	abc transporter (1)
+1005670	transcription regulator asnc (1)	5	3	2	0	amino acid permease (1);apc family permease (1)
+1005699	is630 family transposase (3)	5	3	2	0	NULL
+1005721	pas domain-containing sensor histidine kinase (2)	9	3	6	0	two-component sensor histidine kinase (1)
+1005792	nudix domain-containing protein (3)	5	3	2	0	NULL
+1005793	hypothetical protein (2)	5	3	2	0	methyltransferase domain-containing protein (1)
+1005817	atp-dependent helicase (2)	9	3	6	0	hypothetical protein (1)
+1005846	enoyl-coa hydratase family protein (2)	7	3	4	0	enoyl-coa hydratase/isomerase family protein (1)
+1005873	murr/rpir family transcriptional regulator (3)	5	3	2	0	NULL
+1005889	n-acetyltransferase (2)	5	3	2	0	penicillin acylase family protein (1)
+1005934	kr domain-containing protein (3)	5	3	2	0	NULL
+1005991	hypothetical protein (3)	6	3	3	0	NULL
+1006033	helix-turn-helix domain-containing protein (2)	11	3	8	0	site-specific integrase (1);plasmid replication initiator protein (1)
+1006314	hypothetical protein (3)	5	3	2	0	is630 family transposase (1)
+1006513	hypothetical protein (1)	4	3	3	2	NULL
+1006519	abc transporter permease (3)	11	3	8	0	NULL
+1006598	merr family transcriptional regulator (2)	5	3	2	0	hypothetical protein (1)
+1006614	hypothetical protein (1)	5	3	2	0	nadph:quinone reductase (1);quinone oxidoreductase (1);tetr/acrr family transcriptional regulator (1)
+1006662	rna polymerase sigma factor (2)	7	3	4	0	hypothetical protein (1)
+1006694	nitronate monooxygenase (3)	6	3	3	0	NULL
+1006695	excinuclease abc subunit uvra (3)	5	3	2	0	NULL
+1006697	duf2264 domain-containing protein (3)	5	3	2	0	NULL
+1006736	mfs transporter (3)	6	3	3	0	NULL
+1006922	alpha-mannosidase (3)	5	3	2	0	NULL
+1006953	stress protein (2)	5	3	2	0	tellurium resistance protein (1)
+1007076	ornithine cyclodeaminase family protein (2)	5	3	2	0	hypothetical protein (1)
+1007090	xre family transcriptional regulator (2)	7	3	4	0	hypothetical protein (1)
+1007221	2-polyprenyl-6-methoxyphenol hydroxylase (1)	5	3	2	0	aromatic ring hydroxylase (1);fad-dependent oxidoreductase grho9 (1)
+1007257	tigr02677 family protein (2)	5	3	2	0	duf2398 domain-containing protein (1)
+1007318	duf4239 domain-containing protein (3)	5	3	2	0	NULL
+1007387	hypothetical protein (3)	5	3	3	1	NULL
+1007529	hypothetical protein (3)	5	3	2	0	NULL
+1007534	l-seryl-trna(sec) selenium transferase (3)	5	3	2	0	selenocysteine-specific translation elongation factor (2);selenide, water dikinase seld (1)
+1007553	pdz domain-containing protein (3)	6	3	3	0	NULL
+1007574	mfs transporter (2)	5	3	2	0	biotin carboxylase (1)
+1007583	hypothetical protein (3)	6	3	4	1	NULL
+1007644	laci family transcriptional regulator (3)	5	3	2	0	NULL
+1007655	transposase (3)	4	3	2	1	NULL
+1007685	laci family transcriptional regulator (2)	6	3	3	0	laci family dna-binding transcriptional regulator (1)
+1007752	duf4158 domain-containing protein (2)	10	3	7	0	tn3 family transposase (1)
+1007875	hypothetical protein (1)	8	3	5	0	serine protease (1);peptidase s8 (1)
+1007954	hypothetical protein (1)	5	3	2	0	hydrolase (1);cof-type had-iib family hydrolase (1)
+1007979	fad-dependent oxidoreductase (1)	4	3	2	1	fad-binding oxidoreductase (1)
+1008050	is5 family transposase (2)	6	3	4	1	hypothetical protein (1)
+1008071	hypothetical protein (2)	5	3	2	0	helicase (1)
+1008079	fad:protein fmn transferase (2)	5	3	2	0	thiamine biosynthesis lipoprotein precursor (1)
+1008151	degt/dnrj/eryc1/strs family aminotransferase (3)	5	3	2	0	NULL
+1008231	hypothetical protein (2)	6	3	3	0	isazo13 family transposase (1)
+1008334	gaf domain-containing protein (2)	5	3	2	0	histidine kinase (1)
+1008348	lyse family translocator (3)	6	3	3	0	NULL
+1008349	merr family dna-binding transcriptional regulator (2)	17	3	14	0	hypothetical protein (1)
+1008359	lytr family transcriptional regulator (2)	7	3	4	0	hypothetical protein (1)
+1008414	exonuclease sbccd subunit d (2)	5	3	2	0	smc family atpase (1)
+1008473	sugar phosphate isomerase/epimerase (2)	5	3	2	0	hypothetical protein (1)
+1008489	long-chain acyl-coa synthetase (1)	5	3	2	0	hypothetical protein (1);long-chain fatty acid--coa ligase (1)
+1008512	hypothetical protein (2)	5	3	2	0	cro/cl family transcriptional regulator (1)
+1008548	abc transporter atp-binding protein (2)	5	3	2	0	hypothetical protein (1)
+1008571	cap domain-containing protein (1)	18	3	17	2	NULL
+1008582	glutamate-1-semialdehyde aminotransferase (1)	6	3	3	0	aspartate aminotransferase family protein (1);hypothetical protein (1)
+1008594	16s rrna (cytosine(1402)-n(4))-methyltransferase rsmh (2)	5	3	2	0	hypothetical protein (1)
+1008652	protocatechuate dioxygenase (2)	5	3	2	0	hypothetical protein (1)
+1008722	membrane protein (2)	12	3	9	0	hypothetical protein (1)
+1008727	serine/threonine protein kinase (3)	5	3	2	0	NULL
+1008794	cation acetate symporter (3)	4	3	2	1	NULL
+1008903	hypothetical protein (3)	5	3	2	0	NULL
+1008995	abc transporter atp-binding protein (3)	5	3	2	0	NULL
+1009054	adenylate cyclase (1)	15	3	12	0	amino acid abc transporter permease (1);molybdate abc transporter permease subunit (1)
+1009206	recombinase family protein (3)	7	3	4	0	NULL
+1009231	hypothetical protein (3)	10	3	7	0	NULL
+1009313	hypothetical protein (3)	3	3	3	3	NULL
+1009320	chitosanase (3)	4	3	2	1	NULL
+1009347	dpra-like dna processing chain a (1)	16	3	16	3	NULL
+1009486	peptidase m23 (1)	3	3	2	2	NULL
+1009521	NULL	5	3	5	3	NULL
+1009577	single-stranded dna-binding protein (3)	5	3	2	0	NULL
+1004918	urease subunit beta (1)	15	2	13	0	urease subunit gamma (1)
+1004923	hypothetical protein (2)	6	2	4	0	NULL
+1004929	uridine diphosphate-n-acetylglucosamine-binding protein yvck (2)	28	2	27	1	NULL
+1004987	coa-binding protein (2)	4	2	2	0	NULL
+1005005	acyl-coa dehydrogenase (2)	8	2	6	0	NULL
+1005012	atpase (1)	4	2	2	0	atp-binding protein (1)
+1005035	hypothetical protein (1)	9	2	7	0	replicative dna helicase (1)
+1005042	n-acetyltransferase (1)	4	2	2	0	lasso peptide biosynthesis b2 protein (1)
+1005056	class i sam-dependent methyltransferase (1)	4	2	2	0	glycosyltransferase family 1 protein (1)
+1005057	prsw family intramembrane metalloprotease (2)	4	2	2	0	NULL
+1005059	hypothetical protein (2)	7	2	5	0	NULL
+1005068	hypothetical protein (1)	4	2	2	0	lpxtg cell wall anchor domain-containing protein (1)
+1005070	hypothetical protein (2)	5	2	3	0	NULL
+1005077	hypothetical protein (1)	4	2	2	0	sigma-70 family rna polymerase sigma factor (1)
+1005080	atp-binding protein (1)	4	2	2	0	hypothetical protein (1)
+1005095	hypothetical protein (2)	5	2	3	0	NULL
+1005110	mfs transporter (2)	4	2	2	0	NULL
+1005126	gntr family transcriptional regulator (1)	5	2	3	0	hypothetical protein (1)
+1005140	abc transporter (1)	10	2	8	0	hypothetical protein (1)
+1005141	abc transporter atp-binding protein (2)	7	2	6	1	NULL
+1005152	hypothetical protein (2)	29	2	27	0	NULL
+1005158	atpase (2)	4	2	2	0	NULL
+1005166	m56 family peptidase (1)	11	2	9	0	hypothetical protein (1);aminotransferase class v-fold plp-dependent enzyme (1)
+1005193	hypothetical protein (2)	4	2	2	0	NULL
+1005195	abc transporter atp-binding protein (2)	4	2	2	0	NULL
+1005197	lpxtg cell wall anchor domain-containing protein (1)	3	2	2	1	peptidase (1)
+1005215	atp-dependent dna ligase (2)	4	2	2	0	NULL
+1005224	serine/threonine protein kinase (1)	4	2	2	0	hypothetical protein (1)
+1005246	hypothetical protein (2)	4	2	2	0	NULL
+1005265	glycosyltransferase family 2 protein (2)	10	2	8	0	NULL
+1005285	is110 family transposase (2)	6	2	5	1	NULL
+1005286	hypothetical protein (2)	4	2	2	0	NULL
+1005309	hypothetical protein (2)	4	2	2	0	NULL
+1005317	atp-dependent clp protease proteolytic subunit (2)	11	2	9	0	NULL
+1005320	cupin domain-containing protein (1)	4	2	2	0	hypothetical protein (1)
+1005336	hypothetical protein (2)	16	2	14	0	NULL
+1005337	NULL	9	2	9	2	NULL
+1005338	sigb/sigf/sigg family rna polymerase sigma factor (1)	4	2	3	1	NULL
+1005354	kr domain-containing protein (1)	5	2	3	0	sdr family nad(p)-dependent oxidoreductase (1)
+1005371	fad-dependent oxidoreductase (2)	7	2	5	0	NULL
+1005381	sugar abc transporter substrate-binding protein (2)	8	2	6	0	NULL
+1005407	dna-binding response regulator (2)	5	2	3	0	NULL
+1005410	hypothetical protein (1)	4	2	2	0	helix-turn-helix domain-containing protein (1)
+1005415	sugar phosphotransferase (2)	5	2	3	0	NULL
+1005420	aldo/keto reductase (1)	8	2	6	0	hypothetical protein (1)
+1005466	hypothetical protein (2)	14	2	12	0	NULL
+1005493	membrane protein (1)	3	2	2	1	hypothetical protein (1);duf1998 domain-containing protein (1)
+1005511	hypothetical protein (2)	4	2	2	0	NULL
+1005519	benzoylsuccinyl-coa thiolase (1)	13	2	11	0	thiolase domain-containing protein (1)
+1005534	beta-xylosidase (1)	12	2	11	1	hypothetical protein (1)
+1005540	nucleoside deaminase (2)	9	2	7	0	radical sam protein (1)
+1005565	hypothetical protein (1)	4	2	2	0	type vii secretion-associated serine protease mycosin (1)
+1005573	nadh dehydrogenase (1)	8	2	6	0	duf4040 domain-containing protein (1)
+1005576	moxr family atpase (2)	5	2	3	0	NULL
+1005578	hypothetical protein (2)	7	2	5	0	NULL
+1005589	aldehyde dehydrogenase (2)	4	2	2	0	NULL
+1005596	serine/threonine-protein phosphatase (2)	4	2	2	0	NULL
+1005658	hypothetical protein (2)	3	2	2	1	thymidylate synthase (1)
+1005659	liga protein (2)	6	2	4	0	NULL
+1005666	hypothetical protein (2)	6	2	4	0	NULL
+1005679	is5/is1182 family transposase (2)	3	2	2	1	NULL
+1005686	NULL	2	2	2	2	NULL
+1005697	transposase (2)	4	2	2	0	NULL
+1005700	pyridoxal-5'-phosphate-dependent protein subunit beta (1)	5	2	3	0	aminotransferase class v-fold plp-dependent enzyme (1);y4ya family plp-dependent enzyme (1)
+1005725	fkbm family methyltransferase (1)	7	2	6	1	hypothetical protein (1)
+1005733	adenylate cyclase (2)	4	2	2	0	NULL
+1005740	nucleotide sugar dehydrogenase (1)	5	2	3	0	hypothetical protein (1);glycosyltransferase wbub (1)
+1005819	xre family transcriptional regulator (2)	5	2	3	0	NULL
+1005863	dna-binding response regulator (1)	4	2	2	0	sensor histidine kinase (1);hypothetical protein (1)
+1005868	aminotransferase class i/ii (1)	4	2	2	0	phosphatidate cytidylyltransferase (1);cdp-alcohol phosphatidyltransferase family protein (1)
+1005872	chad domain-containing protein (1)	3	2	2	1	hypothetical protein (1)
+1005880	sugar kinase (2)	6	2	4	0	NULL
+1005897	mfs transporter (2)	4	2	2	0	NULL
+1005902	hypothetical protein (2)	4	2	2	0	NULL
+1005914	NULL	2	2	2	2	NULL
+1005946	acyl-acp desaturase (2)	4	2	2	0	NULL
+1005971	glycosyl transferase (1)	4	2	2	0	glycosyltransferase (1)
+1005987	rna polymerase sigma factor sigk (1)	4	2	2	0	rna polymerase sigma factor (1)
+1006022	hypothetical protein (1)	4	2	2	0	sugar abc transporter substrate-binding protein (1)
+1006024	hypothetical protein (1)	4	2	2	0	aspartate aminotransferase (1)
+1006045	is110 family transposase (2)	4	2	2	0	NULL
+1006081	amidohydrolase family protein (2)	4	2	2	0	NULL
+1006098	NULL	8	2	8	2	NULL
+1006219	n-acetyltransferase (2)	4	2	2	0	NULL
+1006286	enoyl-coa hydratase (1)	2	2	2	2	enoyl-coa hydratase/isomerase family protein (1)
+1006328	cupin domain-containing protein (1)	7	2	5	0	xre family transcriptional regulator (1)
+1006342	coa transferase subunit a (2)	8	2	6	0	NULL
+1006382	alpha/beta hydrolase (2)	7	2	5	0	NULL
+1006422	hypothetical protein (2)	4	2	2	0	NULL
+1006451	hypothetical protein (2)	5	2	3	0	NULL
+1006452	padr family transcriptional regulator (1)	5	2	3	0	hypothetical protein (1)
+1006572	phosphatase (1)	5	2	3	0	fused response regulator/phosphatase (1)
+1006595	fad-binding oxidoreductase (2)	7	2	5	0	NULL
+1006651	flavodoxin-dependent (e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (2)	7	2	5	0	NULL
+1006664	rna polymerase subunit sigma-24 (2)	5	2	3	0	NULL
+1006665	trimeric intracellular cation channel family protein (1)	4	2	2	0	hypothetical protein (1)
+1006681	is5 family transposase (2)	4	2	2	0	NULL
+1006698	kr domain-containing protein (1)	4	2	2	0	hypothetical protein (1)
+1006702	hypothetical protein (1)	6	2	4	0	type i polyketide synthase (1)
+1006740	serine/threonine protein kinase (2)	7	2	5	0	NULL
+1006775	class i sam-dependent methyltransferase (2)	4	2	2	0	NULL
+1006801	sensor histidine kinase (2)	5	2	3	0	NULL
+1006858	serine/threonine protein kinase (2)	3	2	2	1	NULL
+1006917	winged helix family transcriptional regulator (1)	8	2	6	0	dna-binding response regulator (1)
+1006944	hypothetical protein (2)	5	2	3	0	NULL
+1006972	k(+)-transporting atpase subunit b (2)	4	2	2	0	NULL
+1007003	membrane protein (1)	5	2	3	0	putative secreted protein (1)
+1007070	gfo/idh/moca family oxidoreductase (2)	5	2	3	0	NULL
+1007108	pyruvate, phosphate dikinase (1)	4	2	2	0	acyl-coa dehydrogenase (1)
+1007208	NULL	5	2	5	2	NULL
+1007294	phospholipid carrier-dependent glycosyltransferase (2)	4	2	2	0	NULL
+1007301	d-glycero-beta-d-manno-heptose 1-phosphate adenylyltransferase (1)	6	2	4	0	hypothetical protein (1)
+1007320	cytochrome ubiquinol oxidase subunit i (1)	2	2	2	2	NULL
+1007351	hypothetical protein (1)	4	2	2	0	xre family transcriptional regulator (1)
+1007418	tellurium resistance (2)	4	2	2	0	NULL
+1007477	sis domain-containing protein (1)	6	2	4	0	cytidyltransferase (1)
+1007519	response regulator (2)	4	2	2	0	NULL
+1007558	hypothetical protein (2)	6	2	4	0	NULL
+1007566	myo-inositol-1-phosphate synthase (2)	6	2	4	0	hypothetical protein (1)
+1007572	saccharopine dehydrogenase (2)	4	2	2	0	NULL
+1007625	helicase (1)	4	2	2	0	hypothetical protein (1)
+1007633	had-iib family hydrolase (1)	5	2	3	0	glucosylglycerol-phosphate synthase (1)
+1007688	aromatic ring-hydroxylating dioxygenase subunit alpha (2)	6	2	4	0	NULL
+1007697	abc transporter atp-binding protein (2)	6	2	4	0	hypothetical protein (1)
+1007732	tigr00645 family protein (2)	5	2	3	0	NULL
+1007768	hypothetical protein (2)	4	2	2	0	NULL
+1007784	gas vesicle protein (2)	6	2	4	0	NULL
+1007821	1-phosphofructokinase family hexose kinase (1)	4	2	2	0	class ii fructose-bisphosphate aldolase (1)
+1007823	sulfate adenylyltransferase subunit 2 (1)	4	2	2	0	adenylyl-sulfate kinase (1)
+1007842	carnitine dehydratase (1)	4	2	2	0	coa transferase (1)
+1007944	d-alanyl-d-alanine carboxypeptidase (2)	7	2	5	0	NULL
+1007995	cytochrome c oxidase subunit i (1)	9	2	7	0	hypothetical protein (1)
+1008014	mfs transporter (2)	4	2	2	0	NULL
+1008046	bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase (1)	4	2	2	0	methylenetetrahydrofolate dehydrogenase (1)
+1008061	hypothetical protein (2)	5	2	3	0	NULL
+1008063	phytoene desaturase (1)	6	2	4	0	bifunctional undecaprenyl pyrophosphate synthetase/phytoene synthase (1)
+1008113	NULL	7	2	7	2	NULL
+1008138	atp-dependent helicase (1)	6	2	5	1	NULL
+1008139	NULL	15	2	15	2	NULL
+1008226	histidine kinase (2)	4	2	2	0	NULL
+1008253	duf4232 domain-containing protein (1)	3	2	2	1	NULL
+1008260	aminotransferase class v-fold plp-dependent enzyme (1)	3	2	2	1	NULL
+1008261	is630 family transposase (1)	2	2	2	2	NULL
+1008269	carbamoyltransferase hypf (2)	3	2	2	1	NULL
+1008307	thaumatin pathogenesis-like protein (1)	3	2	2	1	NULL
+1008310	aspartate aminotransferase family protein (2)	4	2	2	0	3-phosphoshikimate 1-carboxyvinyltransferase (2)
+1008375	transaldolase (1)	4	2	2	0	hypothetical protein (1)
+1008398	hypothetical protein (2)	4	2	2	0	NULL
+1008460	allantoinase allb (2)	4	2	2	0	NULL
+1008492	NULL	2	2	2	2	NULL
+1008537	4-hydroxy-tetrahydrodipicolinate synthase (1)	5	2	3	0	dihydrodipicolinate synthase family protein (1)
+1008550	dna polymerase iii subunit gamma and tau (1)	5	2	5	2	NULL
+1008579	3-oxoacyl-acp synthase (1)	4	2	2	0	hypothetical protein (1)
+1008580	hypothetical protein (2)	4	2	2	0	NULL
+1008610	rna polymerase (1)	5	2	4	1	NULL
+1008639	fha domain-containing protein (2)	7	2	5	0	NULL
+1008702	replication initiation protein (2)	7	2	5	0	NULL
+1008778	NULL	3	2	3	2	NULL
+1008805	NULL	3	2	3	2	NULL
+1008820	abc transporter atp-binding protein (2)	4	2	2	0	NULL
+1008932	NULL	3	2	3	2	NULL
+1008968	hypothetical protein (1)	42	2	40	0	atp-binding protein (1)
+1008971	xre family transcriptional regulator (2)	4	2	2	0	NULL
+1009005	hypothetical protein (1)	4	2	2	0	long-chain fatty acid--coa ligase (1)
+1009019	ecf subfamily rna polymerase sigma factor (1)	10	2	8	0	rna polymerase (1)
+1009057	mbl fold metallo-hydrolase (1)	4	2	3	1	NULL
+1009111	NULL	11	2	11	2	NULL
+1009131	serine/threonine protein kinase (1)	7	2	5	0	serine/threonine protein phosphatase (1)
+1009139	mdmpi n domain containing protein (1)	4	2	2	0	hypothetical protein (1)
+1009242	NULL	2	2	2	2	NULL
+1009343	NULL	2	2	2	2	NULL
+1009481	dna polymerase iii subunit alpha (2)	4	2	2	0	NULL
+1009513	hypothetical protein (2)	5	2	3	0	NULL
+1009539	pyrophosphatase (2)	5	2	3	0	NULL
+1009553	NULL	2	2	2	2	NULL
+1004924	NULL	3	1	2	0	NULL
+1004933	NULL	50	1	49	0	NULL
+1004934	NULL	6	1	5	0	NULL
+1004936	NULL	10	1	9	0	NULL
+1004975	NULL	18	1	17	0	NULL
+1004976	NULL	9	1	8	0	NULL
+1004984	NULL	12	1	11	0	NULL
+1004986	NULL	4	1	3	0	NULL
+1004995	NULL	3	1	2	0	NULL
+1004997	NULL	4	1	3	0	NULL
+1004999	NULL	2	1	2	1	NULL
+1005002	NULL	5	1	4	0	NULL
+1005004	NULL	5	1	4	0	NULL
+1005011	NULL	3	1	2	0	NULL
+1005025	NULL	8	1	7	0	NULL
+1005033	NULL	12	1	11	0	NULL
+1005043	NULL	14	1	13	0	NULL
+1005047	NULL	11	1	10	0	NULL
+1005053	NULL	6	1	6	1	NULL
+1005067	NULL	3	1	2	0	NULL
+1005074	NULL	3	1	2	0	NULL
+1005094	NULL	4	1	3	0	NULL
+1005096	NULL	6	1	5	0	NULL
+1005130	NULL	4	1	3	0	NULL
+1005143	NULL	10	1	9	0	NULL
+1005148	NULL	26	1	25	0	NULL
+1005159	NULL	7	1	6	0	NULL
+1005169	NULL	2	1	2	1	NULL
+1005170	NULL	5	1	4	0	NULL
+1005186	NULL	3	1	2	0	NULL
+1005196	NULL	11	1	10	0	NULL
+1005203	NULL	2	1	2	1	NULL
+1005205	NULL	15	1	14	0	NULL
+1005206	NULL	20	1	19	0	NULL
+1005213	NULL	5	1	4	0	NULL
+1005216	NULL	3	1	3	1	NULL
+1005230	NULL	3	1	2	0	NULL
+1005233	NULL	3	1	2	0	NULL
+1005235	NULL	9	1	9	1	NULL
+1005245	NULL	12	1	11	0	NULL
+1005249	NULL	4	1	3	0	NULL
+1005251	NULL	3	1	2	0	NULL
+1005255	NULL	44	1	44	1	NULL
+1005256	NULL	3	1	2	0	NULL
+1005261	NULL	3	1	2	0	NULL
+1005274	NULL	9	1	8	0	NULL
+1005276	NULL	4	1	3	0	NULL
+1005283	NULL	2	1	2	1	NULL
+1005300	NULL	5	1	5	1	NULL
+1005307	NULL	4	1	3	0	NULL
+1005314	NULL	6	1	5	0	NULL
+1005327	NULL	3	1	2	0	NULL
+1005349	NULL	6	1	5	0	NULL
+1005362	NULL	7	1	6	0	NULL
+1005375	NULL	5	1	4	0	NULL
+1005384	NULL	12	1	11	0	NULL
+1005396	NULL	7	1	6	0	NULL
+1005411	NULL	3	1	2	0	NULL
+1005421	NULL	3	1	2	0	NULL
+1005424	NULL	3	1	2	0	NULL
+1005432	NULL	14	1	13	0	NULL
+1005434	NULL	3	1	2	0	NULL
+1005439	NULL	3	1	2	0	NULL
+1005442	NULL	3	1	2	0	NULL
+1005450	NULL	4	1	3	0	NULL
+1005459	NULL	2	1	2	1	NULL
+1005460	NULL	7	1	6	0	NULL
+1005471	NULL	2	1	2	1	NULL
+1005473	NULL	3	1	2	0	NULL
+1005476	NULL	3	1	2	0	NULL
+1005481	NULL	4	1	3	0	NULL
+1005492	NULL	5	1	4	0	NULL
+1005495	NULL	3	1	2	0	NULL
+1005499	NULL	3	1	2	0	NULL
+1005505	NULL	3	1	3	1	NULL
+1005508	NULL	2	1	2	1	NULL
+1005518	NULL	8	1	7	0	NULL
+1005526	NULL	6	1	5	0	NULL
+1005527	NULL	10	1	9	0	NULL
+1005537	NULL	11	1	10	0	NULL
+1005550	NULL	6	1	5	0	NULL
+1005559	NULL	4	1	3	0	NULL
+1005561	NULL	8	1	7	0	NULL
+1005569	NULL	6	1	5	0	NULL
+1005572	NULL	4	1	3	0	NULL
+1005598	NULL	7	1	6	0	NULL
+1005616	NULL	5	1	4	0	NULL
+1005625	NULL	4	1	3	0	NULL
+1005630	NULL	3	1	2	0	NULL
+1005631	NULL	4	1	3	0	NULL
+1005634	NULL	2	1	2	1	NULL
+1005639	NULL	3	1	2	0	NULL
+1005678	NULL	4	1	3	0	NULL
+1005694	NULL	4	1	3	0	NULL
+1005701	NULL	8	1	7	0	NULL
+1005715	NULL	3	1	2	0	NULL
+1005719	NULL	13	1	12	0	NULL
+1005730	NULL	7	1	6	0	NULL
+1005731	NULL	5	1	4	0	NULL
+1005732	NULL	4	1	3	0	NULL
+1005741	NULL	4	1	3	0	NULL
+1005747	NULL	3	1	2	0	NULL
+1005751	NULL	8	1	7	0	NULL
+1005762	NULL	3	1	2	0	NULL
+1005774	NULL	8	1	7	0	NULL
+1005777	NULL	2	1	2	1	NULL
+1005788	NULL	3	1	2	0	NULL
+1005794	NULL	4	1	3	0	NULL
+1005807	NULL	4	1	3	0	NULL
+1005809	NULL	4	1	3	0	NULL
+1005811	NULL	6	1	5	0	NULL
+1005813	NULL	3	1	2	0	NULL
+1005818	NULL	3	1	2	0	NULL
+1005821	NULL	3	1	2	0	NULL
+1005826	NULL	4	1	3	0	NULL
+1005836	NULL	3	1	2	0	NULL
+1005838	NULL	3	1	2	0	NULL
+1005852	NULL	4	1	3	0	NULL
+1005855	NULL	3	1	2	0	NULL
+1005884	NULL	4	1	3	0	NULL
+1005887	NULL	3	1	2	0	NULL
+1005890	NULL	3	1	2	0	NULL
+1005903	NULL	2	1	2	1	NULL
+1005907	NULL	3	1	2	0	NULL
+1005908	NULL	6	1	5	0	NULL
+1005912	NULL	3	1	2	0	NULL
+1005913	NULL	3	1	3	1	NULL
+1005952	NULL	3	1	2	0	NULL
+1005953	NULL	3	1	2	0	NULL
+1005963	NULL	6	1	5	0	NULL
+1005975	NULL	2	1	2	1	NULL
+1005976	NULL	3	1	2	0	NULL
+1005988	NULL	3	1	2	0	NULL
+1005996	NULL	3	1	2	0	NULL
+1005998	NULL	3	1	2	0	NULL
+1006000	NULL	5	1	5	1	NULL
+1006001	NULL	3	1	2	0	NULL
+1006019	NULL	3	1	2	0	NULL
+1006029	NULL	3	1	2	0	NULL
+1006034	NULL	3	1	2	0	NULL
+1006036	NULL	3	1	2	0	NULL
+1006054	NULL	5	1	4	0	NULL
+1006062	NULL	4	1	3	0	NULL
+1006069	NULL	3	1	2	0	NULL
+1006080	NULL	8	1	7	0	NULL
+1006082	NULL	3	1	3	1	NULL
+1006108	NULL	3	1	2	0	NULL
+1006169	NULL	9	1	8	0	NULL
+1006190	NULL	3	1	2	0	NULL
+1006207	NULL	3	1	2	0	NULL
+1006246	NULL	2	1	2	1	NULL
+1006247	NULL	2	1	2	1	NULL
+1006318	NULL	3	1	2	0	NULL
+1006337	NULL	2	1	2	1	NULL
+1006341	NULL	8	1	8	1	NULL
+1006346	NULL	5	1	4	0	NULL
+1006348	NULL	3	1	2	0	NULL
+1006350	NULL	12	1	12	1	NULL
+1006368	NULL	5	1	4	0	NULL
+1006376	NULL	4	1	3	0	NULL
+1006433	NULL	3	1	2	0	NULL
+1006445	NULL	7	1	7	1	NULL
+1006465	NULL	2	1	2	1	NULL
+1006473	NULL	3	1	2	0	NULL
+1006518	NULL	2	1	2	1	NULL
+1006554	NULL	5	1	5	1	NULL
+1006581	NULL	7	1	6	0	NULL
+1006601	NULL	2	1	2	1	NULL
+1006632	NULL	3	1	3	1	NULL
+1006650	NULL	2	1	2	1	NULL
+1006657	NULL	3	1	2	0	NULL
+1006686	NULL	3	1	2	0	NULL
+1006687	NULL	3	1	3	1	NULL
+1006696	NULL	4	1	3	0	NULL
+1006708	NULL	4	1	3	0	NULL
+1006722	NULL	4	1	3	0	NULL
+1006739	NULL	3	1	2	0	NULL
+1006754	NULL	3	1	2	0	NULL
+1006813	NULL	4	1	4	1	NULL
+1006817	NULL	5	1	4	0	NULL
+1006825	NULL	2	1	2	1	NULL
+1006834	NULL	2	1	2	1	NULL
+1006869	NULL	4	1	3	0	NULL
+1006871	NULL	3	1	2	0	NULL
+1006931	NULL	5	1	4	0	NULL
+1006933	NULL	3	1	2	0	NULL
+1006954	NULL	4	1	3	0	NULL
+1006956	NULL	13	1	13	1	NULL
+1006960	NULL	5	1	4	0	NULL
+1006962	NULL	5	1	4	0	NULL
+1006996	NULL	3	1	2	0	NULL
+1007019	NULL	6	1	5	0	NULL
+1007035	NULL	2	1	2	1	NULL
+1007075	NULL	8	1	7	0	NULL
+1007077	NULL	3	1	2	0	NULL
+1007082	NULL	6	1	6	1	NULL
+1007125	NULL	3	1	2	0	NULL
+1007139	NULL	3	1	2	0	NULL
+1007144	NULL	3	1	2	0	NULL
+1007160	NULL	3	1	2	0	NULL
+1007162	NULL	3	1	2	0	NULL
+1007168	NULL	3	1	2	0	NULL
+1007203	NULL	2	1	2	1	NULL
+1007207	NULL	7	1	7	1	NULL
+1007243	NULL	4	1	3	0	NULL
+1007248	NULL	2	1	2	1	NULL
+1007267	NULL	4	1	4	1	NULL
+1007274	NULL	3	1	2	0	NULL
+1007275	NULL	5	1	4	0	NULL
+1007311	NULL	3	1	2	0	NULL
+1007330	NULL	4	1	3	0	NULL
+1007334	NULL	4	1	3	0	NULL
+1007350	NULL	4	1	3	0	NULL
+1007355	NULL	3	1	2	0	NULL
+1007390	NULL	4	1	3	0	NULL
+1007410	NULL	3	1	2	0	NULL
+1007476	NULL	2	1	2	1	NULL
+1007504	NULL	3	1	2	0	NULL
+1007506	NULL	3	1	2	0	NULL
+1007513	NULL	3	1	2	0	NULL
+1007552	NULL	9	1	9	1	NULL
+1007559	NULL	3	1	2	0	NULL
+1007581	NULL	3	1	2	0	NULL
+1007597	NULL	3	1	2	0	NULL
+1007614	NULL	5	1	4	0	NULL
+1007617	NULL	3	1	2	0	NULL
+1007689	NULL	4	1	3	0	NULL
+1007690	NULL	3	1	2	0	NULL
+1007695	NULL	3	1	2	0	NULL
+1007700	NULL	5	1	4	0	NULL
+1007753	NULL	3	1	3	1	NULL
+1007779	NULL	4	1	4	1	NULL
+1007791	NULL	2	1	2	1	NULL
+1007808	NULL	3	1	3	1	NULL
+1007828	NULL	3	1	2	0	NULL
+1007829	NULL	8	1	7	0	NULL
+1007832	NULL	17	1	17	1	NULL
+1007836	NULL	3	1	2	0	NULL
+1007839	NULL	11	1	11	1	NULL
+1007857	NULL	3	1	2	0	NULL
+1007873	NULL	2	1	2	1	NULL
+1007880	NULL	2	1	2	1	NULL
+1007888	NULL	3	1	2	0	NULL
+1007914	NULL	3	1	2	0	NULL
+1007947	NULL	4	1	3	0	NULL
+1007966	NULL	3	1	3	1	NULL
+1007967	NULL	3	1	2	0	NULL
+1007972	NULL	5	1	4	0	NULL
+1007975	NULL	3	1	3	1	NULL
+1008042	NULL	3	1	2	0	NULL
+1008044	NULL	2	1	2	1	NULL
+1008066	NULL	3	1	2	0	NULL
+1008067	NULL	3	1	2	0	NULL
+1008070	NULL	12	1	11	0	NULL
+1008075	NULL	4	1	3	0	NULL
+1008076	NULL	3	1	2	0	NULL
+1008084	NULL	3	1	2	0	NULL
+1008092	NULL	3	1	2	0	NULL
+1008094	NULL	4	1	3	0	NULL
+1008157	NULL	3	1	2	0	NULL
+1008160	NULL	3	1	2	0	NULL
+1008165	NULL	3	1	2	0	NULL
+1008180	NULL	3	1	2	0	NULL
+1008183	NULL	2	1	2	1	NULL
+1008211	NULL	2	1	2	1	NULL
+1008225	NULL	4	1	3	0	NULL
+1008250	NULL	3	1	2	0	NULL
+1008327	NULL	4	1	3	0	NULL
+1008328	NULL	5	1	4	0	NULL
+1008337	NULL	5	1	4	0	NULL
+1008339	NULL	4	1	3	0	NULL
+1008356	NULL	3	1	3	1	NULL
+1008357	NULL	3	1	2	0	NULL
+1008361	NULL	2	1	2	1	NULL
+1008362	NULL	2	1	2	1	NULL
+1008371	NULL	4	1	3	0	NULL
+1008379	NULL	3	1	2	0	NULL
+1008391	NULL	3	1	2	0	NULL
+1008393	NULL	3	1	2	0	NULL
+1008402	NULL	4	1	3	0	NULL
+1008404	NULL	3	1	2	0	NULL
+1008405	NULL	3	1	2	0	NULL
+1008420	NULL	3	1	2	0	NULL
+1008427	NULL	3	1	2	0	NULL
+1008442	NULL	3	1	2	0	NULL
+1008455	NULL	3	1	3	1	NULL
+1008461	NULL	6	1	5	0	NULL
+1008475	NULL	4	1	3	0	NULL
+1008483	NULL	3	1	2	0	NULL
+1008491	NULL	3	1	2	0	NULL
+1008506	NULL	2	1	2	1	NULL
+1008564	NULL	3	1	2	0	NULL
+1008573	NULL	4	1	3	0	NULL
+1008575	NULL	2	1	2	1	NULL
+1008583	NULL	6	1	5	0	NULL
+1008587	NULL	3	1	2	0	NULL
+1008593	NULL	2	1	2	1	NULL
+1008612	NULL	3	1	2	0	NULL
+1008618	NULL	3	1	2	0	NULL
+1008632	NULL	4	1	4	1	NULL
+1008647	NULL	4	1	3	0	NULL
+1008661	NULL	2	1	2	1	NULL
+1008662	NULL	3	1	2	0	NULL
+1008667	NULL	3	1	2	0	NULL
+1008687	NULL	5	1	4	0	NULL
+1008690	NULL	3	1	2	0	NULL
+1008697	NULL	6	1	5	0	NULL
+1008700	NULL	3	1	2	0	NULL
+1008749	NULL	2	1	2	1	NULL
+1008773	NULL	8	1	7	0	NULL
+1008782	NULL	3	1	2	0	NULL
+1008790	NULL	3	1	2	0	NULL
+1008795	NULL	12	1	12	1	NULL
+1008803	NULL	8	1	7	0	NULL
+1008839	NULL	3	1	2	0	NULL
+1008842	NULL	3	1	3	1	NULL
+1008905	NULL	6	1	5	0	NULL
+1008909	NULL	11	1	11	1	NULL
+1008912	NULL	2	1	2	1	NULL
+1008928	NULL	3	1	2	0	NULL
+1008943	NULL	3	1	2	0	NULL
+1008954	NULL	3	1	2	0	NULL
+1008977	NULL	3	1	2	0	NULL
+1009068	NULL	3	1	2	0	NULL
+1009088	NULL	3	1	2	0	NULL
+1009089	NULL	14	1	14	1	NULL
+1009108	NULL	3	1	2	0	NULL
+1009123	NULL	5	1	5	1	NULL
+1009129	NULL	2	1	2	1	NULL
+1009163	NULL	2	1	2	1	NULL
+1009174	NULL	3	1	2	0	NULL
+1009197	NULL	3	1	2	0	NULL
+1009199	NULL	11	1	10	0	NULL
+1009221	NULL	4	1	3	0	NULL
+1009226	NULL	2	1	2	1	NULL
+1009237	NULL	5	1	4	0	NULL
+1009238	NULL	3	1	2	0	NULL
+1009256	NULL	36	1	36	1	NULL
+1009299	NULL	3	1	2	0	NULL
+1009342	NULL	41	1	41	1	NULL
+1009349	NULL	19	1	19	1	NULL
+1009354	NULL	26	1	26	1	NULL
+1009474	NULL	9	1	9	1	NULL
+1009483	NULL	5	1	5	1	NULL
+1009502	NULL	3	1	2	0	NULL
+1009505	NULL	5	1	5	1	NULL
+1009511	NULL	12	1	11	0	NULL
+1009532	NULL	4	1	4	1	NULL
+1009560	NULL	3	1	2	0	NULL
+1009574	NULL	4	1	3	0	NULL
+1004902	NULL	NULL	NULL	2	NULL	NULL
+1004903	NULL	NULL	NULL	2	NULL	NULL
+1004904	NULL	NULL	NULL	2	NULL	NULL
+1004905	NULL	NULL	NULL	2	NULL	NULL
+1004906	NULL	NULL	NULL	2	NULL	NULL
+1004908	NULL	NULL	NULL	5	NULL	NULL
+1004910	NULL	NULL	NULL	3	NULL	NULL
+1004913	NULL	NULL	NULL	3	NULL	NULL
+1004916	NULL	NULL	NULL	2	NULL	NULL
+1004919	NULL	NULL	NULL	6	NULL	NULL
+1004920	NULL	NULL	NULL	24	NULL	NULL
+1004921	NULL	NULL	NULL	25	NULL	NULL
+1004922	NULL	NULL	NULL	8	NULL	NULL
+1004925	NULL	NULL	NULL	4	NULL	NULL
+1004927	NULL	NULL	NULL	2	NULL	NULL
+1004930	NULL	NULL	NULL	5	NULL	NULL
+1004931	NULL	NULL	NULL	3	NULL	NULL
+1004932	NULL	NULL	NULL	29	NULL	NULL
+1004935	NULL	NULL	NULL	2	NULL	NULL
+1004938	NULL	NULL	NULL	10	NULL	NULL
+1004940	NULL	NULL	NULL	4	NULL	NULL
+1004942	NULL	NULL	NULL	2	NULL	NULL
+1004944	NULL	NULL	NULL	2	NULL	NULL
+1004946	NULL	NULL	NULL	4	NULL	NULL
+1004947	NULL	NULL	NULL	2	NULL	NULL
+1004949	NULL	NULL	NULL	2	NULL	NULL
+1004950	NULL	NULL	NULL	2	NULL	NULL
+1004951	NULL	NULL	NULL	10	NULL	NULL
+1004953	NULL	NULL	NULL	6	NULL	NULL
+1004954	NULL	NULL	NULL	2	NULL	NULL
+1004955	NULL	NULL	NULL	2	NULL	NULL
+1004956	NULL	NULL	NULL	2	NULL	NULL
+1004957	NULL	NULL	NULL	2	NULL	NULL
+1004958	NULL	NULL	NULL	3	NULL	NULL
+1004960	NULL	NULL	NULL	3	NULL	NULL
+1004961	NULL	NULL	NULL	3	NULL	NULL
+1004966	NULL	NULL	NULL	12	NULL	NULL
+1004967	NULL	NULL	NULL	2	NULL	NULL
+1004968	NULL	NULL	NULL	11	NULL	NULL
+1004969	NULL	NULL	NULL	4	NULL	NULL
+1004971	NULL	NULL	NULL	2	NULL	NULL
+1004972	NULL	NULL	NULL	2	NULL	NULL
+1004973	NULL	NULL	NULL	2	NULL	NULL
+1004979	NULL	NULL	NULL	3	NULL	NULL
+1004981	NULL	NULL	NULL	2	NULL	NULL
+1004983	NULL	NULL	NULL	2	NULL	NULL
+1004998	NULL	NULL	NULL	4	NULL	NULL
+1005001	NULL	NULL	NULL	4	NULL	NULL
+1005003	NULL	NULL	NULL	2	NULL	NULL
+1005006	NULL	NULL	NULL	7	NULL	NULL
+1005013	NULL	NULL	NULL	3	NULL	NULL
+1005019	NULL	NULL	NULL	2	NULL	NULL
+1005022	NULL	NULL	NULL	4	NULL	NULL
+1005026	NULL	NULL	NULL	2	NULL	NULL
+1005027	NULL	NULL	NULL	6	NULL	NULL
+1005028	NULL	NULL	NULL	2	NULL	NULL
+1005029	NULL	NULL	NULL	9	NULL	NULL
+1005030	NULL	NULL	NULL	2	NULL	NULL
+1005032	NULL	NULL	NULL	7	NULL	NULL
+1005034	NULL	NULL	NULL	2	NULL	NULL
+1005036	NULL	NULL	NULL	6	NULL	NULL
+1005048	NULL	NULL	NULL	8	NULL	NULL
+1005050	NULL	NULL	NULL	5	NULL	NULL
+1005051	NULL	NULL	NULL	2	NULL	NULL
+1005052	NULL	NULL	NULL	3	NULL	NULL
+1005060	NULL	NULL	NULL	3	NULL	NULL
+1005066	NULL	NULL	NULL	2	NULL	NULL
+1005072	NULL	NULL	NULL	2	NULL	NULL
+1005073	NULL	NULL	NULL	2	NULL	NULL
+1005075	NULL	NULL	NULL	3	NULL	NULL
+1005078	NULL	NULL	NULL	2	NULL	NULL
+1005079	NULL	NULL	NULL	2	NULL	NULL
+1005081	NULL	NULL	NULL	2	NULL	NULL
+1005082	NULL	NULL	NULL	2	NULL	NULL
+1005083	NULL	NULL	NULL	2	NULL	NULL
+1005084	NULL	NULL	NULL	2	NULL	NULL
+1005085	NULL	NULL	NULL	2	NULL	NULL
+1005086	NULL	NULL	NULL	2	NULL	NULL
+1005087	NULL	NULL	NULL	2	NULL	NULL
+1005089	NULL	NULL	NULL	2	NULL	NULL
+1005090	NULL	NULL	NULL	83	NULL	NULL
+1005091	NULL	NULL	NULL	3	NULL	NULL
+1005092	NULL	NULL	NULL	2	NULL	NULL
+1005099	NULL	NULL	NULL	6	NULL	NULL
+1005103	NULL	NULL	NULL	2	NULL	NULL
+1005107	NULL	NULL	NULL	2	NULL	NULL
+1005109	NULL	NULL	NULL	2	NULL	NULL
+1005111	NULL	NULL	NULL	3	NULL	NULL
+1005112	NULL	NULL	NULL	7	NULL	NULL
+1005113	NULL	NULL	NULL	2	NULL	NULL
+1005114	NULL	NULL	NULL	6	NULL	NULL
+1005115	NULL	NULL	NULL	5	NULL	NULL
+1005118	NULL	NULL	NULL	5	NULL	NULL
+1005124	NULL	NULL	NULL	7	NULL	NULL
+1005129	NULL	NULL	NULL	2	NULL	NULL
+1005132	NULL	NULL	NULL	3	NULL	NULL
+1005133	NULL	NULL	NULL	3	NULL	NULL
+1005134	NULL	NULL	NULL	2	NULL	NULL
+1005135	NULL	NULL	NULL	4	NULL	NULL
+1005137	NULL	NULL	NULL	4	NULL	NULL
+1005138	NULL	NULL	NULL	9	NULL	NULL
+1005139	NULL	NULL	NULL	3	NULL	NULL
+1005145	NULL	NULL	NULL	4	NULL	NULL
+1005147	NULL	NULL	NULL	2	NULL	NULL
+1005151	NULL	NULL	NULL	13	NULL	NULL
+1005153	NULL	NULL	NULL	6	NULL	NULL
+1005154	NULL	NULL	NULL	24	NULL	NULL
+1005162	NULL	NULL	NULL	2	NULL	NULL
+1005164	NULL	NULL	NULL	4	NULL	NULL
+1005165	NULL	NULL	NULL	3	NULL	NULL
+1005171	NULL	NULL	NULL	6	NULL	NULL
+1005176	NULL	NULL	NULL	4	NULL	NULL
+1005177	NULL	NULL	NULL	2	NULL	NULL
+1005179	NULL	NULL	NULL	2	NULL	NULL
+1005180	NULL	NULL	NULL	9	NULL	NULL
+1005182	NULL	NULL	NULL	14	NULL	NULL
+1005184	NULL	NULL	NULL	5	NULL	NULL
+1005188	NULL	NULL	NULL	2	NULL	NULL
+1005189	NULL	NULL	NULL	2	NULL	NULL
+1005191	NULL	NULL	NULL	2	NULL	NULL
+1005198	NULL	NULL	NULL	9	NULL	NULL
+1005200	NULL	NULL	NULL	14	NULL	NULL
+1005202	NULL	NULL	NULL	4	NULL	NULL
+1005207	NULL	NULL	NULL	3	NULL	NULL
+1005209	NULL	NULL	NULL	2	NULL	NULL
+1005212	NULL	NULL	NULL	3	NULL	NULL
+1005214	NULL	NULL	NULL	3	NULL	NULL
+1005221	NULL	NULL	NULL	2	NULL	NULL
+1005225	NULL	NULL	NULL	2	NULL	NULL
+1005228	NULL	NULL	NULL	3	NULL	NULL
+1005232	NULL	NULL	NULL	40	NULL	NULL
+1005234	NULL	NULL	NULL	6	NULL	NULL
+1005237	NULL	NULL	NULL	7	NULL	NULL
+1005238	NULL	NULL	NULL	29	NULL	NULL
+1005239	NULL	NULL	NULL	8	NULL	NULL
+1005240	NULL	NULL	NULL	2	NULL	NULL
+1005243	NULL	NULL	NULL	5	NULL	NULL
+1005247	NULL	NULL	NULL	2	NULL	NULL
+1005248	NULL	NULL	NULL	6	NULL	NULL
+1005250	NULL	NULL	NULL	3	NULL	NULL
+1005257	NULL	NULL	NULL	6	NULL	NULL
+1005258	NULL	NULL	NULL	2	NULL	NULL
+1005260	NULL	NULL	NULL	2	NULL	NULL
+1005262	NULL	NULL	NULL	3	NULL	NULL
+1005263	NULL	NULL	NULL	4	NULL	NULL
+1005266	NULL	NULL	NULL	2	NULL	NULL
+1005268	NULL	NULL	NULL	2	NULL	NULL
+1005272	NULL	NULL	NULL	2	NULL	NULL
+1005273	NULL	NULL	NULL	2	NULL	NULL
+1005275	NULL	NULL	NULL	2	NULL	NULL
+1005277	NULL	NULL	NULL	2	NULL	NULL
+1005279	NULL	NULL	NULL	3	NULL	NULL
+1005281	NULL	NULL	NULL	2	NULL	NULL
+1005284	NULL	NULL	NULL	2	NULL	NULL
+1005287	NULL	NULL	NULL	2	NULL	NULL
+1005288	NULL	NULL	NULL	2	NULL	NULL
+1005289	NULL	NULL	NULL	3	NULL	NULL
+1005291	NULL	NULL	NULL	2	NULL	NULL
+1005293	NULL	NULL	NULL	6	NULL	NULL
+1005294	NULL	NULL	NULL	2	NULL	NULL
+1005295	NULL	NULL	NULL	3	NULL	NULL
+1005298	NULL	NULL	NULL	2	NULL	NULL
+1005308	NULL	NULL	NULL	2	NULL	NULL
+1005311	NULL	NULL	NULL	13	NULL	NULL
+1005315	NULL	NULL	NULL	14	NULL	NULL
+1005323	NULL	NULL	NULL	3	NULL	NULL
+1005325	NULL	NULL	NULL	5	NULL	NULL
+1005328	NULL	NULL	NULL	22	NULL	NULL
+1005329	NULL	NULL	NULL	6	NULL	NULL
+1005330	NULL	NULL	NULL	3	NULL	NULL
+1005332	NULL	NULL	NULL	2	NULL	NULL
+1005333	NULL	NULL	NULL	3	NULL	NULL
+1005334	NULL	NULL	NULL	3	NULL	NULL
+1005340	NULL	NULL	NULL	16	NULL	NULL
+1005341	NULL	NULL	NULL	13	NULL	NULL
+1005343	NULL	NULL	NULL	2	NULL	NULL
+1005346	NULL	NULL	NULL	2	NULL	NULL
+1005347	NULL	NULL	NULL	2	NULL	NULL
+1005352	NULL	NULL	NULL	2	NULL	NULL
+1005353	NULL	NULL	NULL	4	NULL	NULL
+1005358	NULL	NULL	NULL	2	NULL	NULL
+1005363	NULL	NULL	NULL	2	NULL	NULL
+1005365	NULL	NULL	NULL	10	NULL	NULL
+1005366	NULL	NULL	NULL	3	NULL	NULL
+1005367	NULL	NULL	NULL	2	NULL	NULL
+1005368	NULL	NULL	NULL	2	NULL	NULL
+1005370	NULL	NULL	NULL	3	NULL	NULL
+1005372	NULL	NULL	NULL	2	NULL	NULL
+1005374	NULL	NULL	NULL	2	NULL	NULL
+1005376	NULL	NULL	NULL	12	NULL	NULL
+1005378	NULL	NULL	NULL	2	NULL	NULL
+1005380	NULL	NULL	NULL	12	NULL	NULL
+1005382	NULL	NULL	NULL	3	NULL	NULL
+1005386	NULL	NULL	NULL	2	NULL	NULL
+1005387	NULL	NULL	NULL	2	NULL	NULL
+1005390	NULL	NULL	NULL	3	NULL	NULL
+1005391	NULL	NULL	NULL	3	NULL	NULL
+1005395	NULL	NULL	NULL	2	NULL	NULL
+1005399	NULL	NULL	NULL	2	NULL	NULL
+1005400	NULL	NULL	NULL	2	NULL	NULL
+1005401	NULL	NULL	NULL	2	NULL	NULL
+1005403	NULL	NULL	NULL	2	NULL	NULL
+1005406	NULL	NULL	NULL	7	NULL	NULL
+1005408	NULL	NULL	NULL	11	NULL	NULL
+1005413	NULL	NULL	NULL	2	NULL	NULL
+1005414	NULL	NULL	NULL	2	NULL	NULL
+1005422	NULL	NULL	NULL	2	NULL	NULL
+1005423	NULL	NULL	NULL	4	NULL	NULL
+1005425	NULL	NULL	NULL	2	NULL	NULL
+1005428	NULL	NULL	NULL	5	NULL	NULL
+1005429	NULL	NULL	NULL	11	NULL	NULL
+1005430	NULL	NULL	NULL	2	NULL	NULL
+1005437	NULL	NULL	NULL	5	NULL	NULL
+1005444	NULL	NULL	NULL	2	NULL	NULL
+1005446	NULL	NULL	NULL	2	NULL	NULL
+1005447	NULL	NULL	NULL	2	NULL	NULL
+1005448	NULL	NULL	NULL	2	NULL	NULL
+1005449	NULL	NULL	NULL	7	NULL	NULL
+1005451	NULL	NULL	NULL	2	NULL	NULL
+1005454	NULL	NULL	NULL	4	NULL	NULL
+1005456	NULL	NULL	NULL	2	NULL	NULL
+1005457	NULL	NULL	NULL	2	NULL	NULL
+1005458	NULL	NULL	NULL	4	NULL	NULL
+1005462	NULL	NULL	NULL	7	NULL	NULL
+1005463	NULL	NULL	NULL	3	NULL	NULL
+1005465	NULL	NULL	NULL	8	NULL	NULL
+1005467	NULL	NULL	NULL	2	NULL	NULL
+1005469	NULL	NULL	NULL	2	NULL	NULL
+1005474	NULL	NULL	NULL	8	NULL	NULL
+1005475	NULL	NULL	NULL	2	NULL	NULL
+1005477	NULL	NULL	NULL	2	NULL	NULL
+1005479	NULL	NULL	NULL	2	NULL	NULL
+1005480	NULL	NULL	NULL	5	NULL	NULL
+1005482	NULL	NULL	NULL	3	NULL	NULL
+1005484	NULL	NULL	NULL	2	NULL	NULL
+1005487	NULL	NULL	NULL	2	NULL	NULL
+1005488	NULL	NULL	NULL	4	NULL	NULL
+1005489	NULL	NULL	NULL	2	NULL	NULL
+1005490	NULL	NULL	NULL	9	NULL	NULL
+1005491	NULL	NULL	NULL	2	NULL	NULL
+1005494	NULL	NULL	NULL	2	NULL	NULL
+1005496	NULL	NULL	NULL	2	NULL	NULL
+1005500	NULL	NULL	NULL	2	NULL	NULL
+1005501	NULL	NULL	NULL	2	NULL	NULL
+1005502	NULL	NULL	NULL	2	NULL	NULL
+1005503	NULL	NULL	NULL	2	NULL	NULL
+1005504	NULL	NULL	NULL	2	NULL	NULL
+1005507	NULL	NULL	NULL	2	NULL	NULL
+1005510	NULL	NULL	NULL	5	NULL	NULL
+1005514	NULL	NULL	NULL	2	NULL	NULL
+1005515	NULL	NULL	NULL	3	NULL	NULL
+1005516	NULL	NULL	NULL	3	NULL	NULL
+1005520	NULL	NULL	NULL	3	NULL	NULL
+1005522	NULL	NULL	NULL	2	NULL	NULL
+1005524	NULL	NULL	NULL	3	NULL	NULL
+1005528	NULL	NULL	NULL	12	NULL	NULL
+1005531	NULL	NULL	NULL	4	NULL	NULL
+1005532	NULL	NULL	NULL	2	NULL	NULL
+1005533	NULL	NULL	NULL	2	NULL	NULL
+1005536	NULL	NULL	NULL	3	NULL	NULL
+1005538	NULL	NULL	NULL	13	NULL	NULL
+1005539	NULL	NULL	NULL	2	NULL	NULL
+1005543	NULL	NULL	NULL	2	NULL	NULL
+1005546	NULL	NULL	NULL	4	NULL	NULL
+1005548	NULL	NULL	NULL	4	NULL	NULL
+1005551	NULL	NULL	NULL	11	NULL	NULL
+1005552	NULL	NULL	NULL	2	NULL	NULL
+1005555	NULL	NULL	NULL	11	NULL	NULL
+1005567	NULL	NULL	NULL	2	NULL	NULL
+1005568	NULL	NULL	NULL	11	NULL	NULL
+1005571	NULL	NULL	NULL	8	NULL	NULL
+1005574	NULL	NULL	NULL	4	NULL	NULL
+1005579	NULL	NULL	NULL	2	NULL	NULL
+1005580	NULL	NULL	NULL	2	NULL	NULL
+1005582	NULL	NULL	NULL	2	NULL	NULL
+1005585	NULL	NULL	NULL	3	NULL	NULL
+1005586	NULL	NULL	NULL	4	NULL	NULL
+1005587	NULL	NULL	NULL	2	NULL	NULL
+1005588	NULL	NULL	NULL	3	NULL	NULL
+1005591	NULL	NULL	NULL	3	NULL	NULL
+1005592	NULL	NULL	NULL	3	NULL	NULL
+1005593	NULL	NULL	NULL	6	NULL	NULL
+1005597	NULL	NULL	NULL	7	NULL	NULL
+1005600	NULL	NULL	NULL	4	NULL	NULL
+1005602	NULL	NULL	NULL	3	NULL	NULL
+1005604	NULL	NULL	NULL	4	NULL	NULL
+1005605	NULL	NULL	NULL	2	NULL	NULL
+1005609	NULL	NULL	NULL	5	NULL	NULL
+1005611	NULL	NULL	NULL	7	NULL	NULL
+1005612	NULL	NULL	NULL	2	NULL	NULL
+1005613	NULL	NULL	NULL	2	NULL	NULL
+1005617	NULL	NULL	NULL	2	NULL	NULL
+1005619	NULL	NULL	NULL	7	NULL	NULL
+1005621	NULL	NULL	NULL	3	NULL	NULL
+1005623	NULL	NULL	NULL	2	NULL	NULL
+1005627	NULL	NULL	NULL	2	NULL	NULL
+1005629	NULL	NULL	NULL	2	NULL	NULL
+1005632	NULL	NULL	NULL	2	NULL	NULL
+1005633	NULL	NULL	NULL	10	NULL	NULL
+1005635	NULL	NULL	NULL	7	NULL	NULL
+1005636	NULL	NULL	NULL	2	NULL	NULL
+1005638	NULL	NULL	NULL	5	NULL	NULL
+1005640	NULL	NULL	NULL	2	NULL	NULL
+1005642	NULL	NULL	NULL	3	NULL	NULL
+1005643	NULL	NULL	NULL	2	NULL	NULL
+1005645	NULL	NULL	NULL	2	NULL	NULL
+1005646	NULL	NULL	NULL	7	NULL	NULL
+1005649	NULL	NULL	NULL	2	NULL	NULL
+1005651	NULL	NULL	NULL	4	NULL	NULL
+1005652	NULL	NULL	NULL	24	NULL	NULL
+1005653	NULL	NULL	NULL	4	NULL	NULL
+1005662	NULL	NULL	NULL	3	NULL	NULL
+1005663	NULL	NULL	NULL	2	NULL	NULL
+1005664	NULL	NULL	NULL	2	NULL	NULL
+1005665	NULL	NULL	NULL	4	NULL	NULL
+1005668	NULL	NULL	NULL	12	NULL	NULL
+1005669	NULL	NULL	NULL	3	NULL	NULL
+1005675	NULL	NULL	NULL	4	NULL	NULL
+1005677	NULL	NULL	NULL	9	NULL	NULL
+1005680	NULL	NULL	NULL	2	NULL	NULL
+1005681	NULL	NULL	NULL	2	NULL	NULL
+1005682	NULL	NULL	NULL	2	NULL	NULL
+1005684	NULL	NULL	NULL	2	NULL	NULL
+1005685	NULL	NULL	NULL	2	NULL	NULL
+1005687	NULL	NULL	NULL	2	NULL	NULL
+1005688	NULL	NULL	NULL	2	NULL	NULL
+1005689	NULL	NULL	NULL	2	NULL	NULL
+1005690	NULL	NULL	NULL	2	NULL	NULL
+1005691	NULL	NULL	NULL	2	NULL	NULL
+1005692	NULL	NULL	NULL	2	NULL	NULL
+1005693	NULL	NULL	NULL	2	NULL	NULL
+1005695	NULL	NULL	NULL	19	NULL	NULL
+1005698	NULL	NULL	NULL	4	NULL	NULL
+1005702	NULL	NULL	NULL	3	NULL	NULL
+1005703	NULL	NULL	NULL	2	NULL	NULL
+1005705	NULL	NULL	NULL	2	NULL	NULL
+1005706	NULL	NULL	NULL	2	NULL	NULL
+1005707	NULL	NULL	NULL	3	NULL	NULL
+1005708	NULL	NULL	NULL	5	NULL	NULL
+1005709	NULL	NULL	NULL	5	NULL	NULL
+1005711	NULL	NULL	NULL	2	NULL	NULL
+1005714	NULL	NULL	NULL	2	NULL	NULL
+1005716	NULL	NULL	NULL	2	NULL	NULL
+1005720	NULL	NULL	NULL	2	NULL	NULL
+1005722	NULL	NULL	NULL	2	NULL	NULL
+1005726	NULL	NULL	NULL	5	NULL	NULL
+1005727	NULL	NULL	NULL	5	NULL	NULL
+1005734	NULL	NULL	NULL	2	NULL	NULL
+1005737	NULL	NULL	NULL	3	NULL	NULL
+1005738	NULL	NULL	NULL	8	NULL	NULL
+1005739	NULL	NULL	NULL	3	NULL	NULL
+1005744	NULL	NULL	NULL	4	NULL	NULL
+1005745	NULL	NULL	NULL	3	NULL	NULL
+1005746	NULL	NULL	NULL	2	NULL	NULL
+1005748	NULL	NULL	NULL	3	NULL	NULL
+1005749	NULL	NULL	NULL	2	NULL	NULL
+1005752	NULL	NULL	NULL	2	NULL	NULL
+1005753	NULL	NULL	NULL	4	NULL	NULL
+1005755	NULL	NULL	NULL	2	NULL	NULL
+1005757	NULL	NULL	NULL	2	NULL	NULL
+1005758	NULL	NULL	NULL	5	NULL	NULL
+1005759	NULL	NULL	NULL	2	NULL	NULL
+1005761	NULL	NULL	NULL	5	NULL	NULL
+1005764	NULL	NULL	NULL	2	NULL	NULL
+1005765	NULL	NULL	NULL	3	NULL	NULL
+1005768	NULL	NULL	NULL	2	NULL	NULL
+1005770	NULL	NULL	NULL	2	NULL	NULL
+1005772	NULL	NULL	NULL	5	NULL	NULL
+1005773	NULL	NULL	NULL	2	NULL	NULL
+1005776	NULL	NULL	NULL	11	NULL	NULL
+1005778	NULL	NULL	NULL	9	NULL	NULL
+1005779	NULL	NULL	NULL	8	NULL	NULL
+1005781	NULL	NULL	NULL	7	NULL	NULL
+1005787	NULL	NULL	NULL	2	NULL	NULL
+1005791	NULL	NULL	NULL	2	NULL	NULL
+1005796	NULL	NULL	NULL	2	NULL	NULL
+1005797	NULL	NULL	NULL	5	NULL	NULL
+1005799	NULL	NULL	NULL	2	NULL	NULL
+1005800	NULL	NULL	NULL	2	NULL	NULL
+1005801	NULL	NULL	NULL	3	NULL	NULL
+1005804	NULL	NULL	NULL	3	NULL	NULL
+1005820	NULL	NULL	NULL	2	NULL	NULL
+1005822	NULL	NULL	NULL	2	NULL	NULL
+1005823	NULL	NULL	NULL	2	NULL	NULL
+1005824	NULL	NULL	NULL	2	NULL	NULL
+1005825	NULL	NULL	NULL	2	NULL	NULL
+1005827	NULL	NULL	NULL	3	NULL	NULL
+1005828	NULL	NULL	NULL	2	NULL	NULL
+1005829	NULL	NULL	NULL	2	NULL	NULL
+1005830	NULL	NULL	NULL	2	NULL	NULL
+1005832	NULL	NULL	NULL	2	NULL	NULL
+1005833	NULL	NULL	NULL	2	NULL	NULL
+1005834	NULL	NULL	NULL	3	NULL	NULL
+1005835	NULL	NULL	NULL	2	NULL	NULL
+1005837	NULL	NULL	NULL	2	NULL	NULL
+1005839	NULL	NULL	NULL	2	NULL	NULL
+1005841	NULL	NULL	NULL	2	NULL	NULL
+1005842	NULL	NULL	NULL	2	NULL	NULL
+1005843	NULL	NULL	NULL	2	NULL	NULL
+1005844	NULL	NULL	NULL	2	NULL	NULL
+1005847	NULL	NULL	NULL	4	NULL	NULL
+1005848	NULL	NULL	NULL	2	NULL	NULL
+1005850	NULL	NULL	NULL	3	NULL	NULL
+1005851	NULL	NULL	NULL	2	NULL	NULL
+1005853	NULL	NULL	NULL	2	NULL	NULL
+1005856	NULL	NULL	NULL	8	NULL	NULL
+1005858	NULL	NULL	NULL	2	NULL	NULL
+1005860	NULL	NULL	NULL	2	NULL	NULL
+1005861	NULL	NULL	NULL	5	NULL	NULL
+1005862	NULL	NULL	NULL	3	NULL	NULL
+1005864	NULL	NULL	NULL	4	NULL	NULL
+1005866	NULL	NULL	NULL	2	NULL	NULL
+1005869	NULL	NULL	NULL	2	NULL	NULL
+1005870	NULL	NULL	NULL	2	NULL	NULL
+1005875	NULL	NULL	NULL	2	NULL	NULL
+1005877	NULL	NULL	NULL	2	NULL	NULL
+1005878	NULL	NULL	NULL	2	NULL	NULL
+1005879	NULL	NULL	NULL	2	NULL	NULL
+1005882	NULL	NULL	NULL	3	NULL	NULL
+1005885	NULL	NULL	NULL	2	NULL	NULL
+1005892	NULL	NULL	NULL	2	NULL	NULL
+1005893	NULL	NULL	NULL	2	NULL	NULL
+1005894	NULL	NULL	NULL	2	NULL	NULL
+1005895	NULL	NULL	NULL	2	NULL	NULL
+1005896	NULL	NULL	NULL	2	NULL	NULL
+1005906	NULL	NULL	NULL	3	NULL	NULL
+1005910	NULL	NULL	NULL	8	NULL	NULL
+1005915	NULL	NULL	NULL	3	NULL	NULL
+1005919	NULL	NULL	NULL	5	NULL	NULL
+1005920	NULL	NULL	NULL	6	NULL	NULL
+1005921	NULL	NULL	NULL	8	NULL	NULL
+1005922	NULL	NULL	NULL	5	NULL	NULL
+1005924	NULL	NULL	NULL	2	NULL	NULL
+1005926	NULL	NULL	NULL	2	NULL	NULL
+1005927	NULL	NULL	NULL	2	NULL	NULL
+1005930	NULL	NULL	NULL	2	NULL	NULL
+1005931	NULL	NULL	NULL	3	NULL	NULL
+1005935	NULL	NULL	NULL	2	NULL	NULL
+1005936	NULL	NULL	NULL	8	NULL	NULL
+1005938	NULL	NULL	NULL	3	NULL	NULL
+1005939	NULL	NULL	NULL	2	NULL	NULL
+1005940	NULL	NULL	NULL	7	NULL	NULL
+1005941	NULL	NULL	NULL	2	NULL	NULL
+1005942	NULL	NULL	NULL	2	NULL	NULL
+1005945	NULL	NULL	NULL	2	NULL	NULL
+1005948	NULL	NULL	NULL	2	NULL	NULL
+1005949	NULL	NULL	NULL	4	NULL	NULL
+1005951	NULL	NULL	NULL	2	NULL	NULL
+1005954	NULL	NULL	NULL	2	NULL	NULL
+1005955	NULL	NULL	NULL	3	NULL	NULL
+1005956	NULL	NULL	NULL	2	NULL	NULL
+1005957	NULL	NULL	NULL	3	NULL	NULL
+1005959	NULL	NULL	NULL	2	NULL	NULL
+1005960	NULL	NULL	NULL	2	NULL	NULL
+1005961	NULL	NULL	NULL	2	NULL	NULL
+1005962	NULL	NULL	NULL	2	NULL	NULL
+1005965	NULL	NULL	NULL	6	NULL	NULL
+1005966	NULL	NULL	NULL	4	NULL	NULL
+1005968	NULL	NULL	NULL	3	NULL	NULL
+1005969	NULL	NULL	NULL	2	NULL	NULL
+1005972	NULL	NULL	NULL	2	NULL	NULL
+1005973	NULL	NULL	NULL	5	NULL	NULL
+1005977	NULL	NULL	NULL	2	NULL	NULL
+1005978	NULL	NULL	NULL	2	NULL	NULL
+1005979	NULL	NULL	NULL	2	NULL	NULL
+1005980	NULL	NULL	NULL	3	NULL	NULL
+1005983	NULL	NULL	NULL	4	NULL	NULL
+1005985	NULL	NULL	NULL	2	NULL	NULL
+1005986	NULL	NULL	NULL	3	NULL	NULL
+1005992	NULL	NULL	NULL	7	NULL	NULL
+1005993	NULL	NULL	NULL	2	NULL	NULL
+1005994	NULL	NULL	NULL	2	NULL	NULL
+1005997	NULL	NULL	NULL	4	NULL	NULL
+1005999	NULL	NULL	NULL	2	NULL	NULL
+1006003	NULL	NULL	NULL	5	NULL	NULL
+1006004	NULL	NULL	NULL	3	NULL	NULL
+1006006	NULL	NULL	NULL	2	NULL	NULL
+1006007	NULL	NULL	NULL	2	NULL	NULL
+1006008	NULL	NULL	NULL	2	NULL	NULL
+1006009	NULL	NULL	NULL	2	NULL	NULL
+1006010	NULL	NULL	NULL	2	NULL	NULL
+1006011	NULL	NULL	NULL	2	NULL	NULL
+1006012	NULL	NULL	NULL	3	NULL	NULL
+1006014	NULL	NULL	NULL	3	NULL	NULL
+1006015	NULL	NULL	NULL	2	NULL	NULL
+1006017	NULL	NULL	NULL	3	NULL	NULL
+1006018	NULL	NULL	NULL	2	NULL	NULL
+1006021	NULL	NULL	NULL	3	NULL	NULL
+1006023	NULL	NULL	NULL	8	NULL	NULL
+1006026	NULL	NULL	NULL	2	NULL	NULL
+1006035	NULL	NULL	NULL	5	NULL	NULL
+1006037	NULL	NULL	NULL	3	NULL	NULL
+1006039	NULL	NULL	NULL	2	NULL	NULL
+1006041	NULL	NULL	NULL	2	NULL	NULL
+1006043	NULL	NULL	NULL	2	NULL	NULL
+1006044	NULL	NULL	NULL	2	NULL	NULL
+1006046	NULL	NULL	NULL	2	NULL	NULL
+1006047	NULL	NULL	NULL	2	NULL	NULL
+1006048	NULL	NULL	NULL	2	NULL	NULL
+1006049	NULL	NULL	NULL	2	NULL	NULL
+1006050	NULL	NULL	NULL	4	NULL	NULL
+1006053	NULL	NULL	NULL	3	NULL	NULL
+1006055	NULL	NULL	NULL	2	NULL	NULL
+1006057	NULL	NULL	NULL	2	NULL	NULL
+1006058	NULL	NULL	NULL	3	NULL	NULL
+1006070	NULL	NULL	NULL	2	NULL	NULL
+1006076	NULL	NULL	NULL	2	NULL	NULL
+1006077	NULL	NULL	NULL	3	NULL	NULL
+1006079	NULL	NULL	NULL	3	NULL	NULL
+1006083	NULL	NULL	NULL	3	NULL	NULL
+1006084	NULL	NULL	NULL	2	NULL	NULL
+1006085	NULL	NULL	NULL	3	NULL	NULL
+1006086	NULL	NULL	NULL	3	NULL	NULL
+1006088	NULL	NULL	NULL	2	NULL	NULL
+1006089	NULL	NULL	NULL	5	NULL	NULL
+1006090	NULL	NULL	NULL	2	NULL	NULL
+1006091	NULL	NULL	NULL	2	NULL	NULL
+1006092	NULL	NULL	NULL	7	NULL	NULL
+1006093	NULL	NULL	NULL	2	NULL	NULL
+1006094	NULL	NULL	NULL	2	NULL	NULL
+1006097	NULL	NULL	NULL	2	NULL	NULL
+1006099	NULL	NULL	NULL	4	NULL	NULL
+1006100	NULL	NULL	NULL	2	NULL	NULL
+1006101	NULL	NULL	NULL	3	NULL	NULL
+1006104	NULL	NULL	NULL	2	NULL	NULL
+1006107	NULL	NULL	NULL	2	NULL	NULL
+1006110	NULL	NULL	NULL	2	NULL	NULL
+1006111	NULL	NULL	NULL	2	NULL	NULL
+1006112	NULL	NULL	NULL	2	NULL	NULL
+1006115	NULL	NULL	NULL	6	NULL	NULL
+1006116	NULL	NULL	NULL	4	NULL	NULL
+1006117	NULL	NULL	NULL	14	NULL	NULL
+1006118	NULL	NULL	NULL	2	NULL	NULL
+1006119	NULL	NULL	NULL	4	NULL	NULL
+1006122	NULL	NULL	NULL	2	NULL	NULL
+1006123	NULL	NULL	NULL	3	NULL	NULL
+1006124	NULL	NULL	NULL	4	NULL	NULL
+1006127	NULL	NULL	NULL	2	NULL	NULL
+1006129	NULL	NULL	NULL	2	NULL	NULL
+1006131	NULL	NULL	NULL	2	NULL	NULL
+1006132	NULL	NULL	NULL	2	NULL	NULL
+1006133	NULL	NULL	NULL	5	NULL	NULL
+1006134	NULL	NULL	NULL	6	NULL	NULL
+1006136	NULL	NULL	NULL	4	NULL	NULL
+1006137	NULL	NULL	NULL	2	NULL	NULL
+1006138	NULL	NULL	NULL	2	NULL	NULL
+1006139	NULL	NULL	NULL	5	NULL	NULL
+1006140	NULL	NULL	NULL	5	NULL	NULL
+1006141	NULL	NULL	NULL	2	NULL	NULL
+1006142	NULL	NULL	NULL	2	NULL	NULL
+1006143	NULL	NULL	NULL	4	NULL	NULL
+1006144	NULL	NULL	NULL	10	NULL	NULL
+1006145	NULL	NULL	NULL	3	NULL	NULL
+1006147	NULL	NULL	NULL	4	NULL	NULL
+1006149	NULL	NULL	NULL	6	NULL	NULL
+1006150	NULL	NULL	NULL	6	NULL	NULL
+1006152	NULL	NULL	NULL	3	NULL	NULL
+1006153	NULL	NULL	NULL	7	NULL	NULL
+1006154	NULL	NULL	NULL	2	NULL	NULL
+1006155	NULL	NULL	NULL	2	NULL	NULL
+1006156	NULL	NULL	NULL	7	NULL	NULL
+1006157	NULL	NULL	NULL	2	NULL	NULL
+1006158	NULL	NULL	NULL	2	NULL	NULL
+1006159	NULL	NULL	NULL	2	NULL	NULL
+1006160	NULL	NULL	NULL	2	NULL	NULL
+1006161	NULL	NULL	NULL	2	NULL	NULL
+1006162	NULL	NULL	NULL	2	NULL	NULL
+1006164	NULL	NULL	NULL	4	NULL	NULL
+1006165	NULL	NULL	NULL	10	NULL	NULL
+1006166	NULL	NULL	NULL	8	NULL	NULL
+1006167	NULL	NULL	NULL	3	NULL	NULL
+1006170	NULL	NULL	NULL	5	NULL	NULL
+1006171	NULL	NULL	NULL	3	NULL	NULL
+1006172	NULL	NULL	NULL	2	NULL	NULL
+1006173	NULL	NULL	NULL	3	NULL	NULL
+1006175	NULL	NULL	NULL	2	NULL	NULL
+1006177	NULL	NULL	NULL	5	NULL	NULL
+1006178	NULL	NULL	NULL	6	NULL	NULL
+1006179	NULL	NULL	NULL	17	NULL	NULL
+1006180	NULL	NULL	NULL	2	NULL	NULL
+1006184	NULL	NULL	NULL	3	NULL	NULL
+1006187	NULL	NULL	NULL	2	NULL	NULL
+1006189	NULL	NULL	NULL	5	NULL	NULL
+1006192	NULL	NULL	NULL	2	NULL	NULL
+1006193	NULL	NULL	NULL	6	NULL	NULL
+1006194	NULL	NULL	NULL	3	NULL	NULL
+1006195	NULL	NULL	NULL	2	NULL	NULL
+1006196	NULL	NULL	NULL	8	NULL	NULL
+1006197	NULL	NULL	NULL	2	NULL	NULL
+1006198	NULL	NULL	NULL	2	NULL	NULL
+1006199	NULL	NULL	NULL	6	NULL	NULL
+1006200	NULL	NULL	NULL	2	NULL	NULL
+1006201	NULL	NULL	NULL	4	NULL	NULL
+1006202	NULL	NULL	NULL	2	NULL	NULL
+1006203	NULL	NULL	NULL	5	NULL	NULL
+1006204	NULL	NULL	NULL	2	NULL	NULL
+1006206	NULL	NULL	NULL	2	NULL	NULL
+1006210	NULL	NULL	NULL	2	NULL	NULL
+1006211	NULL	NULL	NULL	2	NULL	NULL
+1006213	NULL	NULL	NULL	10	NULL	NULL
+1006214	NULL	NULL	NULL	2	NULL	NULL
+1006215	NULL	NULL	NULL	2	NULL	NULL
+1006216	NULL	NULL	NULL	2	NULL	NULL
+1006217	NULL	NULL	NULL	6	NULL	NULL
+1006218	NULL	NULL	NULL	4	NULL	NULL
+1006220	NULL	NULL	NULL	5	NULL	NULL
+1006221	NULL	NULL	NULL	2	NULL	NULL
+1006222	NULL	NULL	NULL	2	NULL	NULL
+1006223	NULL	NULL	NULL	19	NULL	NULL
+1006225	NULL	NULL	NULL	2	NULL	NULL
+1006226	NULL	NULL	NULL	2	NULL	NULL
+1006227	NULL	NULL	NULL	5	NULL	NULL
+1006228	NULL	NULL	NULL	4	NULL	NULL
+1006229	NULL	NULL	NULL	5	NULL	NULL
+1006230	NULL	NULL	NULL	3	NULL	NULL
+1006231	NULL	NULL	NULL	2	NULL	NULL
+1006232	NULL	NULL	NULL	2	NULL	NULL
+1006235	NULL	NULL	NULL	3	NULL	NULL
+1006237	NULL	NULL	NULL	4	NULL	NULL
+1006240	NULL	NULL	NULL	5	NULL	NULL
+1006241	NULL	NULL	NULL	2	NULL	NULL
+1006242	NULL	NULL	NULL	2	NULL	NULL
+1006243	NULL	NULL	NULL	6	NULL	NULL
+1006244	NULL	NULL	NULL	4	NULL	NULL
+1006245	NULL	NULL	NULL	3	NULL	NULL
+1006250	NULL	NULL	NULL	2	NULL	NULL
+1006251	NULL	NULL	NULL	3	NULL	NULL
+1006253	NULL	NULL	NULL	2	NULL	NULL
+1006254	NULL	NULL	NULL	2	NULL	NULL
+1006258	NULL	NULL	NULL	3	NULL	NULL
+1006260	NULL	NULL	NULL	2	NULL	NULL
+1006261	NULL	NULL	NULL	2	NULL	NULL
+1006262	NULL	NULL	NULL	3	NULL	NULL
+1006263	NULL	NULL	NULL	3	NULL	NULL
+1006264	NULL	NULL	NULL	4	NULL	NULL
+1006266	NULL	NULL	NULL	2	NULL	NULL
+1006267	NULL	NULL	NULL	15	NULL	NULL
+1006268	NULL	NULL	NULL	4	NULL	NULL
+1006269	NULL	NULL	NULL	6	NULL	NULL
+1006270	NULL	NULL	NULL	10	NULL	NULL
+1006271	NULL	NULL	NULL	7	NULL	NULL
+1006272	NULL	NULL	NULL	2	NULL	NULL
+1006273	NULL	NULL	NULL	3	NULL	NULL
+1006274	NULL	NULL	NULL	3	NULL	NULL
+1006275	NULL	NULL	NULL	2	NULL	NULL
+1006276	NULL	NULL	NULL	2	NULL	NULL
+1006277	NULL	NULL	NULL	2	NULL	NULL
+1006278	NULL	NULL	NULL	2	NULL	NULL
+1006279	NULL	NULL	NULL	4	NULL	NULL
+1006280	NULL	NULL	NULL	4	NULL	NULL
+1006282	NULL	NULL	NULL	2	NULL	NULL
+1006283	NULL	NULL	NULL	4	NULL	NULL
+1006284	NULL	NULL	NULL	3	NULL	NULL
+1006285	NULL	NULL	NULL	6	NULL	NULL
+1006288	NULL	NULL	NULL	4	NULL	NULL
+1006289	NULL	NULL	NULL	2	NULL	NULL
+1006290	NULL	NULL	NULL	6	NULL	NULL
+1006291	NULL	NULL	NULL	2	NULL	NULL
+1006294	NULL	NULL	NULL	5	NULL	NULL
+1006297	NULL	NULL	NULL	4	NULL	NULL
+1006298	NULL	NULL	NULL	6	NULL	NULL
+1006299	NULL	NULL	NULL	8	NULL	NULL
+1006300	NULL	NULL	NULL	3	NULL	NULL
+1006301	NULL	NULL	NULL	2	NULL	NULL
+1006302	NULL	NULL	NULL	3	NULL	NULL
+1006303	NULL	NULL	NULL	2	NULL	NULL
+1006304	NULL	NULL	NULL	2	NULL	NULL
+1006305	NULL	NULL	NULL	11	NULL	NULL
+1006307	NULL	NULL	NULL	2	NULL	NULL
+1006308	NULL	NULL	NULL	4	NULL	NULL
+1006309	NULL	NULL	NULL	6	NULL	NULL
+1006310	NULL	NULL	NULL	3	NULL	NULL
+1006311	NULL	NULL	NULL	2	NULL	NULL
+1006312	NULL	NULL	NULL	2	NULL	NULL
+1006313	NULL	NULL	NULL	5	NULL	NULL
+1006315	NULL	NULL	NULL	3	NULL	NULL
+1006320	NULL	NULL	NULL	4	NULL	NULL
+1006322	NULL	NULL	NULL	5	NULL	NULL
+1006323	NULL	NULL	NULL	3	NULL	NULL
+1006325	NULL	NULL	NULL	4	NULL	NULL
+1006326	NULL	NULL	NULL	4	NULL	NULL
+1006327	NULL	NULL	NULL	2	NULL	NULL
+1006330	NULL	NULL	NULL	3	NULL	NULL
+1006331	NULL	NULL	NULL	3	NULL	NULL
+1006332	NULL	NULL	NULL	3	NULL	NULL
+1006333	NULL	NULL	NULL	2	NULL	NULL
+1006334	NULL	NULL	NULL	2	NULL	NULL
+1006335	NULL	NULL	NULL	4	NULL	NULL
+1006336	NULL	NULL	NULL	2	NULL	NULL
+1006338	NULL	NULL	NULL	5	NULL	NULL
+1006340	NULL	NULL	NULL	3	NULL	NULL
+1006343	NULL	NULL	NULL	2	NULL	NULL
+1006344	NULL	NULL	NULL	3	NULL	NULL
+1006345	NULL	NULL	NULL	4	NULL	NULL
+1006347	NULL	NULL	NULL	4	NULL	NULL
+1006349	NULL	NULL	NULL	2	NULL	NULL
+1006351	NULL	NULL	NULL	2	NULL	NULL
+1006352	NULL	NULL	NULL	2	NULL	NULL
+1006353	NULL	NULL	NULL	7	NULL	NULL
+1006355	NULL	NULL	NULL	2	NULL	NULL
+1006356	NULL	NULL	NULL	4	NULL	NULL
+1006357	NULL	NULL	NULL	3	NULL	NULL
+1006358	NULL	NULL	NULL	2	NULL	NULL
+1006359	NULL	NULL	NULL	2	NULL	NULL
+1006360	NULL	NULL	NULL	2	NULL	NULL
+1006361	NULL	NULL	NULL	2	NULL	NULL
+1006362	NULL	NULL	NULL	2	NULL	NULL
+1006363	NULL	NULL	NULL	3	NULL	NULL
+1006364	NULL	NULL	NULL	3	NULL	NULL
+1006365	NULL	NULL	NULL	3	NULL	NULL
+1006366	NULL	NULL	NULL	2	NULL	NULL
+1006367	NULL	NULL	NULL	3	NULL	NULL
+1006370	NULL	NULL	NULL	2	NULL	NULL
+1006371	NULL	NULL	NULL	3	NULL	NULL
+1006372	NULL	NULL	NULL	5	NULL	NULL
+1006373	NULL	NULL	NULL	2	NULL	NULL
+1006375	NULL	NULL	NULL	6	NULL	NULL
+1006378	NULL	NULL	NULL	2	NULL	NULL
+1006379	NULL	NULL	NULL	2	NULL	NULL
+1006380	NULL	NULL	NULL	2	NULL	NULL
+1006381	NULL	NULL	NULL	4	NULL	NULL
+1006383	NULL	NULL	NULL	2	NULL	NULL
+1006384	NULL	NULL	NULL	3	NULL	NULL
+1006386	NULL	NULL	NULL	9	NULL	NULL
+1006387	NULL	NULL	NULL	8	NULL	NULL
+1006388	NULL	NULL	NULL	2	NULL	NULL
+1006389	NULL	NULL	NULL	4	NULL	NULL
+1006391	NULL	NULL	NULL	2	NULL	NULL
+1006393	NULL	NULL	NULL	4	NULL	NULL
+1006394	NULL	NULL	NULL	4	NULL	NULL
+1006395	NULL	NULL	NULL	3	NULL	NULL
+1006396	NULL	NULL	NULL	7	NULL	NULL
+1006397	NULL	NULL	NULL	14	NULL	NULL
+1006400	NULL	NULL	NULL	2	NULL	NULL
+1006401	NULL	NULL	NULL	4	NULL	NULL
+1006403	NULL	NULL	NULL	2	NULL	NULL
+1006404	NULL	NULL	NULL	4	NULL	NULL
+1006405	NULL	NULL	NULL	2	NULL	NULL
+1006406	NULL	NULL	NULL	8	NULL	NULL
+1006407	NULL	NULL	NULL	5	NULL	NULL
+1006410	NULL	NULL	NULL	2	NULL	NULL
+1006411	NULL	NULL	NULL	11	NULL	NULL
+1006413	NULL	NULL	NULL	2	NULL	NULL
+1006416	NULL	NULL	NULL	3	NULL	NULL
+1006417	NULL	NULL	NULL	3	NULL	NULL
+1006423	NULL	NULL	NULL	8	NULL	NULL
+1006424	NULL	NULL	NULL	3	NULL	NULL
+1006425	NULL	NULL	NULL	4	NULL	NULL
+1006426	NULL	NULL	NULL	6	NULL	NULL
+1006427	NULL	NULL	NULL	2	NULL	NULL
+1006428	NULL	NULL	NULL	6	NULL	NULL
+1006429	NULL	NULL	NULL	8	NULL	NULL
+1006430	NULL	NULL	NULL	3	NULL	NULL
+1006431	NULL	NULL	NULL	2	NULL	NULL
+1006432	NULL	NULL	NULL	3	NULL	NULL
+1006434	NULL	NULL	NULL	3	NULL	NULL
+1006436	NULL	NULL	NULL	2	NULL	NULL
+1006437	NULL	NULL	NULL	10	NULL	NULL
+1006438	NULL	NULL	NULL	2	NULL	NULL
+1006439	NULL	NULL	NULL	6	NULL	NULL
+1006440	NULL	NULL	NULL	2	NULL	NULL
+1006441	NULL	NULL	NULL	2	NULL	NULL
+1006442	NULL	NULL	NULL	7	NULL	NULL
+1006443	NULL	NULL	NULL	2	NULL	NULL
+1006444	NULL	NULL	NULL	15	NULL	NULL
+1006449	NULL	NULL	NULL	2	NULL	NULL
+1006450	NULL	NULL	NULL	2	NULL	NULL
+1006453	NULL	NULL	NULL	6	NULL	NULL
+1006454	NULL	NULL	NULL	6	NULL	NULL
+1006455	NULL	NULL	NULL	8	NULL	NULL
+1006456	NULL	NULL	NULL	3	NULL	NULL
+1006457	NULL	NULL	NULL	11	NULL	NULL
+1006458	NULL	NULL	NULL	2	NULL	NULL
+1006460	NULL	NULL	NULL	6	NULL	NULL
+1006461	NULL	NULL	NULL	5	NULL	NULL
+1006463	NULL	NULL	NULL	7	NULL	NULL
+1006464	NULL	NULL	NULL	2	NULL	NULL
+1006466	NULL	NULL	NULL	12	NULL	NULL
+1006467	NULL	NULL	NULL	7	NULL	NULL
+1006468	NULL	NULL	NULL	6	NULL	NULL
+1006469	NULL	NULL	NULL	4	NULL	NULL
+1006470	NULL	NULL	NULL	7	NULL	NULL
+1006471	NULL	NULL	NULL	5	NULL	NULL
+1006472	NULL	NULL	NULL	11	NULL	NULL
+1006474	NULL	NULL	NULL	2	NULL	NULL
+1006475	NULL	NULL	NULL	3	NULL	NULL
+1006476	NULL	NULL	NULL	2	NULL	NULL
+1006477	NULL	NULL	NULL	2	NULL	NULL
+1006478	NULL	NULL	NULL	2	NULL	NULL
+1006479	NULL	NULL	NULL	2	NULL	NULL
+1006480	NULL	NULL	NULL	2	NULL	NULL
+1006481	NULL	NULL	NULL	5	NULL	NULL
+1006482	NULL	NULL	NULL	3	NULL	NULL
+1006483	NULL	NULL	NULL	2	NULL	NULL
+1006484	NULL	NULL	NULL	4	NULL	NULL
+1006486	NULL	NULL	NULL	2	NULL	NULL
+1006487	NULL	NULL	NULL	4	NULL	NULL
+1006488	NULL	NULL	NULL	3	NULL	NULL
+1006489	NULL	NULL	NULL	2	NULL	NULL
+1006490	NULL	NULL	NULL	2	NULL	NULL
+1006491	NULL	NULL	NULL	3	NULL	NULL
+1006492	NULL	NULL	NULL	2	NULL	NULL
+1006494	NULL	NULL	NULL	4	NULL	NULL
+1006495	NULL	NULL	NULL	2	NULL	NULL
+1006496	NULL	NULL	NULL	4	NULL	NULL
+1006497	NULL	NULL	NULL	8	NULL	NULL
+1006498	NULL	NULL	NULL	4	NULL	NULL
+1006499	NULL	NULL	NULL	4	NULL	NULL
+1006500	NULL	NULL	NULL	5	NULL	NULL
+1006501	NULL	NULL	NULL	2	NULL	NULL
+1006502	NULL	NULL	NULL	2	NULL	NULL
+1006504	NULL	NULL	NULL	6	NULL	NULL
+1006505	NULL	NULL	NULL	2	NULL	NULL
+1006506	NULL	NULL	NULL	8	NULL	NULL
+1006507	NULL	NULL	NULL	6	NULL	NULL
+1006508	NULL	NULL	NULL	2	NULL	NULL
+1006509	NULL	NULL	NULL	3	NULL	NULL
+1006510	NULL	NULL	NULL	2	NULL	NULL
+1006512	NULL	NULL	NULL	3	NULL	NULL
+1006515	NULL	NULL	NULL	3	NULL	NULL
+1006516	NULL	NULL	NULL	2	NULL	NULL
+1006521	NULL	NULL	NULL	8	NULL	NULL
+1006523	NULL	NULL	NULL	2	NULL	NULL
+1006525	NULL	NULL	NULL	5	NULL	NULL
+1006527	NULL	NULL	NULL	3	NULL	NULL
+1006528	NULL	NULL	NULL	2	NULL	NULL
+1006529	NULL	NULL	NULL	2	NULL	NULL
+1006530	NULL	NULL	NULL	4	NULL	NULL
+1006531	NULL	NULL	NULL	5	NULL	NULL
+1006532	NULL	NULL	NULL	4	NULL	NULL
+1006533	NULL	NULL	NULL	2	NULL	NULL
+1006534	NULL	NULL	NULL	4	NULL	NULL
+1006535	NULL	NULL	NULL	2	NULL	NULL
+1006536	NULL	NULL	NULL	4	NULL	NULL
+1006537	NULL	NULL	NULL	14	NULL	NULL
+1006538	NULL	NULL	NULL	3	NULL	NULL
+1006539	NULL	NULL	NULL	4	NULL	NULL
+1006540	NULL	NULL	NULL	2	NULL	NULL
+1006541	NULL	NULL	NULL	3	NULL	NULL
+1006542	NULL	NULL	NULL	2	NULL	NULL
+1006543	NULL	NULL	NULL	2	NULL	NULL
+1006544	NULL	NULL	NULL	2	NULL	NULL
+1006545	NULL	NULL	NULL	3	NULL	NULL
+1006546	NULL	NULL	NULL	2	NULL	NULL
+1006547	NULL	NULL	NULL	3	NULL	NULL
+1006548	NULL	NULL	NULL	3	NULL	NULL
+1006549	NULL	NULL	NULL	4	NULL	NULL
+1006550	NULL	NULL	NULL	4	NULL	NULL
+1006551	NULL	NULL	NULL	2	NULL	NULL
+1006552	NULL	NULL	NULL	2	NULL	NULL
+1006553	NULL	NULL	NULL	5	NULL	NULL
+1006555	NULL	NULL	NULL	2	NULL	NULL
+1006557	NULL	NULL	NULL	2	NULL	NULL
+1006558	NULL	NULL	NULL	4	NULL	NULL
+1006559	NULL	NULL	NULL	6	NULL	NULL
+1006561	NULL	NULL	NULL	4	NULL	NULL
+1006562	NULL	NULL	NULL	2	NULL	NULL
+1006566	NULL	NULL	NULL	4	NULL	NULL
+1006567	NULL	NULL	NULL	2	NULL	NULL
+1006569	NULL	NULL	NULL	7	NULL	NULL
+1006570	NULL	NULL	NULL	2	NULL	NULL
+1006571	NULL	NULL	NULL	5	NULL	NULL
+1006573	NULL	NULL	NULL	2	NULL	NULL
+1006574	NULL	NULL	NULL	2	NULL	NULL
+1006575	NULL	NULL	NULL	2	NULL	NULL
+1006576	NULL	NULL	NULL	2	NULL	NULL
+1006579	NULL	NULL	NULL	6	NULL	NULL
+1006582	NULL	NULL	NULL	2	NULL	NULL
+1006583	NULL	NULL	NULL	2	NULL	NULL
+1006585	NULL	NULL	NULL	2	NULL	NULL
+1006586	NULL	NULL	NULL	2	NULL	NULL
+1006589	NULL	NULL	NULL	3	NULL	NULL
+1006591	NULL	NULL	NULL	2	NULL	NULL
+1006592	NULL	NULL	NULL	2	NULL	NULL
+1006593	NULL	NULL	NULL	2	NULL	NULL
+1006594	NULL	NULL	NULL	2	NULL	NULL
+1006596	NULL	NULL	NULL	2	NULL	NULL
+1006597	NULL	NULL	NULL	2	NULL	NULL
+1006599	NULL	NULL	NULL	2	NULL	NULL
+1006600	NULL	NULL	NULL	2	NULL	NULL
+1006602	NULL	NULL	NULL	2	NULL	NULL
+1006603	NULL	NULL	NULL	2	NULL	NULL
+1006604	NULL	NULL	NULL	3	NULL	NULL
+1006605	NULL	NULL	NULL	2	NULL	NULL
+1006606	NULL	NULL	NULL	4	NULL	NULL
+1006607	NULL	NULL	NULL	4	NULL	NULL
+1006610	NULL	NULL	NULL	2	NULL	NULL
+1006611	NULL	NULL	NULL	2	NULL	NULL
+1006613	NULL	NULL	NULL	2	NULL	NULL
+1006616	NULL	NULL	NULL	2	NULL	NULL
+1006617	NULL	NULL	NULL	2	NULL	NULL
+1006618	NULL	NULL	NULL	2	NULL	NULL
+1006619	NULL	NULL	NULL	2	NULL	NULL
+1006621	NULL	NULL	NULL	3	NULL	NULL
+1006625	NULL	NULL	NULL	4	NULL	NULL
+1006626	NULL	NULL	NULL	2	NULL	NULL
+1006627	NULL	NULL	NULL	2	NULL	NULL
+1006629	NULL	NULL	NULL	4	NULL	NULL
+1006630	NULL	NULL	NULL	2	NULL	NULL
+1006631	NULL	NULL	NULL	2	NULL	NULL
+1006633	NULL	NULL	NULL	3	NULL	NULL
+1006635	NULL	NULL	NULL	3	NULL	NULL
+1006636	NULL	NULL	NULL	3	NULL	NULL
+1006637	NULL	NULL	NULL	6	NULL	NULL
+1006638	NULL	NULL	NULL	15	NULL	NULL
+1006640	NULL	NULL	NULL	7	NULL	NULL
+1006641	NULL	NULL	NULL	11	NULL	NULL
+1006643	NULL	NULL	NULL	6	NULL	NULL
+1006644	NULL	NULL	NULL	3	NULL	NULL
+1006645	NULL	NULL	NULL	8	NULL	NULL
+1006648	NULL	NULL	NULL	5	NULL	NULL
+1006654	NULL	NULL	NULL	5	NULL	NULL
+1006655	NULL	NULL	NULL	5	NULL	NULL
+1006656	NULL	NULL	NULL	2	NULL	NULL
+1006658	NULL	NULL	NULL	2	NULL	NULL
+1006659	NULL	NULL	NULL	3	NULL	NULL
+1006660	NULL	NULL	NULL	5	NULL	NULL
+1006661	NULL	NULL	NULL	2	NULL	NULL
+1006666	NULL	NULL	NULL	3	NULL	NULL
+1006667	NULL	NULL	NULL	7	NULL	NULL
+1006669	NULL	NULL	NULL	2	NULL	NULL
+1006670	NULL	NULL	NULL	4	NULL	NULL
+1006673	NULL	NULL	NULL	2	NULL	NULL
+1006674	NULL	NULL	NULL	3	NULL	NULL
+1006675	NULL	NULL	NULL	6	NULL	NULL
+1006676	NULL	NULL	NULL	2	NULL	NULL
+1006677	NULL	NULL	NULL	2	NULL	NULL
+1006679	NULL	NULL	NULL	2	NULL	NULL
+1006684	NULL	NULL	NULL	2	NULL	NULL
+1006685	NULL	NULL	NULL	3	NULL	NULL
+1006691	NULL	NULL	NULL	3	NULL	NULL
+1006692	NULL	NULL	NULL	2	NULL	NULL
+1006699	NULL	NULL	NULL	2	NULL	NULL
+1006704	NULL	NULL	NULL	2	NULL	NULL
+1006705	NULL	NULL	NULL	2	NULL	NULL
+1006706	NULL	NULL	NULL	2	NULL	NULL
+1006709	NULL	NULL	NULL	2	NULL	NULL
+1006710	NULL	NULL	NULL	2	NULL	NULL
+1006711	NULL	NULL	NULL	2	NULL	NULL
+1006713	NULL	NULL	NULL	2	NULL	NULL
+1006714	NULL	NULL	NULL	3	NULL	NULL
+1006715	NULL	NULL	NULL	2	NULL	NULL
+1006716	NULL	NULL	NULL	2	NULL	NULL
+1006718	NULL	NULL	NULL	2	NULL	NULL
+1006719	NULL	NULL	NULL	2	NULL	NULL
+1006720	NULL	NULL	NULL	2	NULL	NULL
+1006721	NULL	NULL	NULL	2	NULL	NULL
+1006723	NULL	NULL	NULL	3	NULL	NULL
+1006724	NULL	NULL	NULL	2	NULL	NULL
+1006725	NULL	NULL	NULL	5	NULL	NULL
+1006726	NULL	NULL	NULL	6	NULL	NULL
+1006728	NULL	NULL	NULL	7	NULL	NULL
+1006730	NULL	NULL	NULL	2	NULL	NULL
+1006731	NULL	NULL	NULL	2	NULL	NULL
+1006732	NULL	NULL	NULL	3	NULL	NULL
+1006733	NULL	NULL	NULL	2	NULL	NULL
+1006734	NULL	NULL	NULL	4	NULL	NULL
+1006735	NULL	NULL	NULL	5	NULL	NULL
+1006737	NULL	NULL	NULL	3	NULL	NULL
+1006741	NULL	NULL	NULL	3	NULL	NULL
+1006745	NULL	NULL	NULL	4	NULL	NULL
+1006748	NULL	NULL	NULL	2	NULL	NULL
+1006749	NULL	NULL	NULL	2	NULL	NULL
+1006750	NULL	NULL	NULL	6	NULL	NULL
+1006751	NULL	NULL	NULL	3	NULL	NULL
+1006752	NULL	NULL	NULL	2	NULL	NULL
+1006753	NULL	NULL	NULL	2	NULL	NULL
+1006755	NULL	NULL	NULL	4	NULL	NULL
+1006756	NULL	NULL	NULL	7	NULL	NULL
+1006757	NULL	NULL	NULL	9	NULL	NULL
+1006758	NULL	NULL	NULL	2	NULL	NULL
+1006760	NULL	NULL	NULL	2	NULL	NULL
+1006761	NULL	NULL	NULL	2	NULL	NULL
+1006763	NULL	NULL	NULL	5	NULL	NULL
+1006764	NULL	NULL	NULL	7	NULL	NULL
+1006765	NULL	NULL	NULL	4	NULL	NULL
+1006766	NULL	NULL	NULL	4	NULL	NULL
+1006767	NULL	NULL	NULL	11	NULL	NULL
+1006768	NULL	NULL	NULL	4	NULL	NULL
+1006769	NULL	NULL	NULL	4	NULL	NULL
+1006770	NULL	NULL	NULL	5	NULL	NULL
+1006771	NULL	NULL	NULL	4	NULL	NULL
+1006772	NULL	NULL	NULL	2	NULL	NULL
+1006773	NULL	NULL	NULL	2	NULL	NULL
+1006774	NULL	NULL	NULL	2	NULL	NULL
+1006776	NULL	NULL	NULL	4	NULL	NULL
+1006777	NULL	NULL	NULL	3	NULL	NULL
+1006778	NULL	NULL	NULL	6	NULL	NULL
+1006780	NULL	NULL	NULL	7	NULL	NULL
+1006781	NULL	NULL	NULL	2	NULL	NULL
+1006782	NULL	NULL	NULL	6	NULL	NULL
+1006783	NULL	NULL	NULL	4	NULL	NULL
+1006784	NULL	NULL	NULL	2	NULL	NULL
+1006785	NULL	NULL	NULL	2	NULL	NULL
+1006787	NULL	NULL	NULL	5	NULL	NULL
+1006788	NULL	NULL	NULL	6	NULL	NULL
+1006789	NULL	NULL	NULL	2	NULL	NULL
+1006790	NULL	NULL	NULL	3	NULL	NULL
+1006791	NULL	NULL	NULL	6	NULL	NULL
+1006793	NULL	NULL	NULL	2	NULL	NULL
+1006796	NULL	NULL	NULL	4	NULL	NULL
+1006798	NULL	NULL	NULL	6	NULL	NULL
+1006799	NULL	NULL	NULL	5	NULL	NULL
+1006800	NULL	NULL	NULL	2	NULL	NULL
+1006802	NULL	NULL	NULL	3	NULL	NULL
+1006803	NULL	NULL	NULL	6	NULL	NULL
+1006804	NULL	NULL	NULL	4	NULL	NULL
+1006805	NULL	NULL	NULL	12	NULL	NULL
+1006806	NULL	NULL	NULL	4	NULL	NULL
+1006807	NULL	NULL	NULL	2	NULL	NULL
+1006808	NULL	NULL	NULL	2	NULL	NULL
+1006809	NULL	NULL	NULL	4	NULL	NULL
+1006810	NULL	NULL	NULL	5	NULL	NULL
+1006811	NULL	NULL	NULL	5	NULL	NULL
+1006812	NULL	NULL	NULL	4	NULL	NULL
+1006814	NULL	NULL	NULL	4	NULL	NULL
+1006815	NULL	NULL	NULL	4	NULL	NULL
+1006818	NULL	NULL	NULL	3	NULL	NULL
+1006819	NULL	NULL	NULL	3	NULL	NULL
+1006820	NULL	NULL	NULL	3	NULL	NULL
+1006821	NULL	NULL	NULL	8	NULL	NULL
+1006823	NULL	NULL	NULL	9	NULL	NULL
+1006824	NULL	NULL	NULL	4	NULL	NULL
+1006826	NULL	NULL	NULL	2	NULL	NULL
+1006829	NULL	NULL	NULL	8	NULL	NULL
+1006830	NULL	NULL	NULL	2	NULL	NULL
+1006831	NULL	NULL	NULL	2	NULL	NULL
+1006832	NULL	NULL	NULL	4	NULL	NULL
+1006835	NULL	NULL	NULL	3	NULL	NULL
+1006836	NULL	NULL	NULL	2	NULL	NULL
+1006837	NULL	NULL	NULL	2	NULL	NULL
+1006838	NULL	NULL	NULL	3	NULL	NULL
+1006839	NULL	NULL	NULL	2	NULL	NULL
+1006840	NULL	NULL	NULL	2	NULL	NULL
+1006842	NULL	NULL	NULL	2	NULL	NULL
+1006843	NULL	NULL	NULL	2	NULL	NULL
+1006844	NULL	NULL	NULL	2	NULL	NULL
+1006846	NULL	NULL	NULL	3	NULL	NULL
+1006848	NULL	NULL	NULL	3	NULL	NULL
+1006849	NULL	NULL	NULL	3	NULL	NULL
+1006850	NULL	NULL	NULL	3	NULL	NULL
+1006852	NULL	NULL	NULL	3	NULL	NULL
+1006853	NULL	NULL	NULL	2	NULL	NULL
+1006856	NULL	NULL	NULL	2	NULL	NULL
+1006857	NULL	NULL	NULL	2	NULL	NULL
+1006859	NULL	NULL	NULL	2	NULL	NULL
+1006860	NULL	NULL	NULL	4	NULL	NULL
+1006861	NULL	NULL	NULL	2	NULL	NULL
+1006862	NULL	NULL	NULL	3	NULL	NULL
+1006864	NULL	NULL	NULL	2	NULL	NULL
+1006865	NULL	NULL	NULL	2	NULL	NULL
+1006866	NULL	NULL	NULL	3	NULL	NULL
+1006867	NULL	NULL	NULL	3	NULL	NULL
+1006868	NULL	NULL	NULL	3	NULL	NULL
+1006870	NULL	NULL	NULL	2	NULL	NULL
+1006872	NULL	NULL	NULL	2	NULL	NULL
+1006873	NULL	NULL	NULL	2	NULL	NULL
+1006874	NULL	NULL	NULL	3	NULL	NULL
+1006875	NULL	NULL	NULL	3	NULL	NULL
+1006876	NULL	NULL	NULL	3	NULL	NULL
+1006878	NULL	NULL	NULL	2	NULL	NULL
+1006879	NULL	NULL	NULL	4	NULL	NULL
+1006880	NULL	NULL	NULL	5	NULL	NULL
+1006882	NULL	NULL	NULL	3	NULL	NULL
+1006883	NULL	NULL	NULL	6	NULL	NULL
+1006884	NULL	NULL	NULL	4	NULL	NULL
+1006885	NULL	NULL	NULL	6	NULL	NULL
+1006886	NULL	NULL	NULL	5	NULL	NULL
+1006887	NULL	NULL	NULL	5	NULL	NULL
+1006888	NULL	NULL	NULL	3	NULL	NULL
+1006889	NULL	NULL	NULL	4	NULL	NULL
+1006890	NULL	NULL	NULL	5	NULL	NULL
+1006891	NULL	NULL	NULL	3	NULL	NULL
+1006892	NULL	NULL	NULL	2	NULL	NULL
+1006893	NULL	NULL	NULL	2	NULL	NULL
+1006894	NULL	NULL	NULL	2	NULL	NULL
+1006896	NULL	NULL	NULL	3	NULL	NULL
+1006897	NULL	NULL	NULL	2	NULL	NULL
+1006898	NULL	NULL	NULL	2	NULL	NULL
+1006899	NULL	NULL	NULL	2	NULL	NULL
+1006900	NULL	NULL	NULL	3	NULL	NULL
+1006901	NULL	NULL	NULL	8	NULL	NULL
+1006902	NULL	NULL	NULL	2	NULL	NULL
+1006903	NULL	NULL	NULL	2	NULL	NULL
+1006905	NULL	NULL	NULL	2	NULL	NULL
+1006906	NULL	NULL	NULL	2	NULL	NULL
+1006908	NULL	NULL	NULL	2	NULL	NULL
+1006909	NULL	NULL	NULL	2	NULL	NULL
+1006910	NULL	NULL	NULL	2	NULL	NULL
+1006911	NULL	NULL	NULL	2	NULL	NULL
+1006913	NULL	NULL	NULL	3	NULL	NULL
+1006915	NULL	NULL	NULL	8	NULL	NULL
+1006918	NULL	NULL	NULL	2	NULL	NULL
+1006919	NULL	NULL	NULL	2	NULL	NULL
+1006920	NULL	NULL	NULL	2	NULL	NULL
+1006921	NULL	NULL	NULL	4	NULL	NULL
+1006923	NULL	NULL	NULL	2	NULL	NULL
+1006924	NULL	NULL	NULL	11	NULL	NULL
+1006925	NULL	NULL	NULL	2	NULL	NULL
+1006926	NULL	NULL	NULL	2	NULL	NULL
+1006927	NULL	NULL	NULL	2	NULL	NULL
+1006929	NULL	NULL	NULL	4	NULL	NULL
+1006930	NULL	NULL	NULL	3	NULL	NULL
+1006932	NULL	NULL	NULL	2	NULL	NULL
+1006934	NULL	NULL	NULL	3	NULL	NULL
+1006935	NULL	NULL	NULL	2	NULL	NULL
+1006936	NULL	NULL	NULL	2	NULL	NULL
+1006938	NULL	NULL	NULL	3	NULL	NULL
+1006940	NULL	NULL	NULL	2	NULL	NULL
+1006941	NULL	NULL	NULL	2	NULL	NULL
+1006943	NULL	NULL	NULL	3	NULL	NULL
+1006946	NULL	NULL	NULL	7	NULL	NULL
+1006947	NULL	NULL	NULL	2	NULL	NULL
+1006948	NULL	NULL	NULL	2	NULL	NULL
+1006949	NULL	NULL	NULL	2	NULL	NULL
+1006950	NULL	NULL	NULL	3	NULL	NULL
+1006951	NULL	NULL	NULL	4	NULL	NULL
+1006955	NULL	NULL	NULL	2	NULL	NULL
+1006957	NULL	NULL	NULL	2	NULL	NULL
+1006963	NULL	NULL	NULL	2	NULL	NULL
+1006964	NULL	NULL	NULL	5	NULL	NULL
+1006965	NULL	NULL	NULL	2	NULL	NULL
+1006967	NULL	NULL	NULL	3	NULL	NULL
+1006968	NULL	NULL	NULL	3	NULL	NULL
+1006973	NULL	NULL	NULL	2	NULL	NULL
+1006974	NULL	NULL	NULL	5	NULL	NULL
+1006975	NULL	NULL	NULL	4	NULL	NULL
+1006977	NULL	NULL	NULL	2	NULL	NULL
+1006978	NULL	NULL	NULL	2	NULL	NULL
+1006979	NULL	NULL	NULL	3	NULL	NULL
+1006980	NULL	NULL	NULL	2	NULL	NULL
+1006981	NULL	NULL	NULL	3	NULL	NULL
+1006982	NULL	NULL	NULL	2	NULL	NULL
+1006983	NULL	NULL	NULL	13	NULL	NULL
+1006984	NULL	NULL	NULL	2	NULL	NULL
+1006985	NULL	NULL	NULL	2	NULL	NULL
+1006986	NULL	NULL	NULL	4	NULL	NULL
+1006987	NULL	NULL	NULL	2	NULL	NULL
+1006988	NULL	NULL	NULL	2	NULL	NULL
+1006990	NULL	NULL	NULL	2	NULL	NULL
+1006991	NULL	NULL	NULL	3	NULL	NULL
+1006992	NULL	NULL	NULL	3	NULL	NULL
+1006993	NULL	NULL	NULL	3	NULL	NULL
+1006994	NULL	NULL	NULL	6	NULL	NULL
+1006997	NULL	NULL	NULL	2	NULL	NULL
+1006998	NULL	NULL	NULL	2	NULL	NULL
+1006999	NULL	NULL	NULL	2	NULL	NULL
+1007000	NULL	NULL	NULL	5	NULL	NULL
+1007001	NULL	NULL	NULL	3	NULL	NULL
+1007002	NULL	NULL	NULL	2	NULL	NULL
+1007004	NULL	NULL	NULL	4	NULL	NULL
+1007006	NULL	NULL	NULL	2	NULL	NULL
+1007007	NULL	NULL	NULL	4	NULL	NULL
+1007009	NULL	NULL	NULL	3	NULL	NULL
+1007011	NULL	NULL	NULL	2	NULL	NULL
+1007014	NULL	NULL	NULL	2	NULL	NULL
+1007015	NULL	NULL	NULL	3	NULL	NULL
+1007016	NULL	NULL	NULL	3	NULL	NULL
+1007017	NULL	NULL	NULL	2	NULL	NULL
+1007018	NULL	NULL	NULL	2	NULL	NULL
+1007023	NULL	NULL	NULL	5	NULL	NULL
+1007024	NULL	NULL	NULL	3	NULL	NULL
+1007025	NULL	NULL	NULL	3	NULL	NULL
+1007026	NULL	NULL	NULL	3	NULL	NULL
+1007027	NULL	NULL	NULL	2	NULL	NULL
+1007028	NULL	NULL	NULL	6	NULL	NULL
+1007030	NULL	NULL	NULL	9	NULL	NULL
+1007032	NULL	NULL	NULL	2	NULL	NULL
+1007033	NULL	NULL	NULL	2	NULL	NULL
+1007034	NULL	NULL	NULL	2	NULL	NULL
+1007036	NULL	NULL	NULL	5	NULL	NULL
+1007037	NULL	NULL	NULL	5	NULL	NULL
+1007038	NULL	NULL	NULL	2	NULL	NULL
+1007040	NULL	NULL	NULL	2	NULL	NULL
+1007041	NULL	NULL	NULL	3	NULL	NULL
+1007044	NULL	NULL	NULL	2	NULL	NULL
+1007045	NULL	NULL	NULL	2	NULL	NULL
+1007046	NULL	NULL	NULL	12	NULL	NULL
+1007048	NULL	NULL	NULL	2	NULL	NULL
+1007049	NULL	NULL	NULL	2	NULL	NULL
+1007050	NULL	NULL	NULL	7	NULL	NULL
+1007052	NULL	NULL	NULL	2	NULL	NULL
+1007053	NULL	NULL	NULL	2	NULL	NULL
+1007054	NULL	NULL	NULL	2	NULL	NULL
+1007055	NULL	NULL	NULL	2	NULL	NULL
+1007056	NULL	NULL	NULL	2	NULL	NULL
+1007058	NULL	NULL	NULL	2	NULL	NULL
+1007059	NULL	NULL	NULL	5	NULL	NULL
+1007060	NULL	NULL	NULL	4	NULL	NULL
+1007061	NULL	NULL	NULL	2	NULL	NULL
+1007062	NULL	NULL	NULL	2	NULL	NULL
+1007063	NULL	NULL	NULL	4	NULL	NULL
+1007065	NULL	NULL	NULL	5	NULL	NULL
+1007066	NULL	NULL	NULL	3	NULL	NULL
+1007067	NULL	NULL	NULL	2	NULL	NULL
+1007071	NULL	NULL	NULL	5	NULL	NULL
+1007072	NULL	NULL	NULL	2	NULL	NULL
+1007073	NULL	NULL	NULL	6	NULL	NULL
+1007078	NULL	NULL	NULL	2	NULL	NULL
+1007079	NULL	NULL	NULL	6	NULL	NULL
+1007080	NULL	NULL	NULL	2	NULL	NULL
+1007081	NULL	NULL	NULL	2	NULL	NULL
+1007083	NULL	NULL	NULL	3	NULL	NULL
+1007084	NULL	NULL	NULL	2	NULL	NULL
+1007085	NULL	NULL	NULL	4	NULL	NULL
+1007086	NULL	NULL	NULL	2	NULL	NULL
+1007087	NULL	NULL	NULL	3	NULL	NULL
+1007089	NULL	NULL	NULL	6	NULL	NULL
+1007091	NULL	NULL	NULL	2	NULL	NULL
+1007092	NULL	NULL	NULL	3	NULL	NULL
+1007094	NULL	NULL	NULL	3	NULL	NULL
+1007095	NULL	NULL	NULL	2	NULL	NULL
+1007096	NULL	NULL	NULL	3	NULL	NULL
+1007097	NULL	NULL	NULL	2	NULL	NULL
+1007098	NULL	NULL	NULL	2	NULL	NULL
+1007099	NULL	NULL	NULL	2	NULL	NULL
+1007100	NULL	NULL	NULL	3	NULL	NULL
+1007101	NULL	NULL	NULL	5	NULL	NULL
+1007102	NULL	NULL	NULL	2	NULL	NULL
+1007105	NULL	NULL	NULL	4	NULL	NULL
+1007106	NULL	NULL	NULL	2	NULL	NULL
+1007107	NULL	NULL	NULL	2	NULL	NULL
+1007109	NULL	NULL	NULL	2	NULL	NULL
+1007110	NULL	NULL	NULL	2	NULL	NULL
+1007111	NULL	NULL	NULL	3	NULL	NULL
+1007112	NULL	NULL	NULL	4	NULL	NULL
+1007113	NULL	NULL	NULL	2	NULL	NULL
+1007114	NULL	NULL	NULL	6	NULL	NULL
+1007116	NULL	NULL	NULL	3	NULL	NULL
+1007117	NULL	NULL	NULL	2	NULL	NULL
+1007119	NULL	NULL	NULL	2	NULL	NULL
+1007120	NULL	NULL	NULL	3	NULL	NULL
+1007123	NULL	NULL	NULL	2	NULL	NULL
+1007124	NULL	NULL	NULL	5	NULL	NULL
+1007126	NULL	NULL	NULL	5	NULL	NULL
+1007127	NULL	NULL	NULL	4	NULL	NULL
+1007128	NULL	NULL	NULL	2	NULL	NULL
+1007129	NULL	NULL	NULL	2	NULL	NULL
+1007130	NULL	NULL	NULL	2	NULL	NULL
+1007131	NULL	NULL	NULL	2	NULL	NULL
+1007132	NULL	NULL	NULL	4	NULL	NULL
+1007133	NULL	NULL	NULL	2	NULL	NULL
+1007134	NULL	NULL	NULL	4	NULL	NULL
+1007135	NULL	NULL	NULL	2	NULL	NULL
+1007136	NULL	NULL	NULL	2	NULL	NULL
+1007137	NULL	NULL	NULL	3	NULL	NULL
+1007138	NULL	NULL	NULL	2	NULL	NULL
+1007140	NULL	NULL	NULL	2	NULL	NULL
+1007141	NULL	NULL	NULL	2	NULL	NULL
+1007143	NULL	NULL	NULL	2	NULL	NULL
+1007146	NULL	NULL	NULL	2	NULL	NULL
+1007148	NULL	NULL	NULL	5	NULL	NULL
+1007149	NULL	NULL	NULL	2	NULL	NULL
+1007150	NULL	NULL	NULL	2	NULL	NULL
+1007152	NULL	NULL	NULL	3	NULL	NULL
+1007153	NULL	NULL	NULL	3	NULL	NULL
+1007154	NULL	NULL	NULL	2	NULL	NULL
+1007155	NULL	NULL	NULL	2	NULL	NULL
+1007156	NULL	NULL	NULL	4	NULL	NULL
+1007157	NULL	NULL	NULL	2	NULL	NULL
+1007158	NULL	NULL	NULL	10	NULL	NULL
+1007164	NULL	NULL	NULL	4	NULL	NULL
+1007165	NULL	NULL	NULL	2	NULL	NULL
+1007167	NULL	NULL	NULL	4	NULL	NULL
+1007169	NULL	NULL	NULL	2	NULL	NULL
+1007170	NULL	NULL	NULL	2	NULL	NULL
+1007171	NULL	NULL	NULL	2	NULL	NULL
+1007172	NULL	NULL	NULL	4	NULL	NULL
+1007173	NULL	NULL	NULL	3	NULL	NULL
+1007174	NULL	NULL	NULL	2	NULL	NULL
+1007175	NULL	NULL	NULL	4	NULL	NULL
+1007177	NULL	NULL	NULL	2	NULL	NULL
+1007178	NULL	NULL	NULL	3	NULL	NULL
+1007179	NULL	NULL	NULL	2	NULL	NULL
+1007181	NULL	NULL	NULL	2	NULL	NULL
+1007182	NULL	NULL	NULL	3	NULL	NULL
+1007184	NULL	NULL	NULL	2	NULL	NULL
+1007185	NULL	NULL	NULL	3	NULL	NULL
+1007189	NULL	NULL	NULL	2	NULL	NULL
+1007191	NULL	NULL	NULL	2	NULL	NULL
+1007193	NULL	NULL	NULL	2	NULL	NULL
+1007194	NULL	NULL	NULL	2	NULL	NULL
+1007196	NULL	NULL	NULL	2	NULL	NULL
+1007197	NULL	NULL	NULL	2	NULL	NULL
+1007198	NULL	NULL	NULL	3	NULL	NULL
+1007199	NULL	NULL	NULL	3	NULL	NULL
+1007200	NULL	NULL	NULL	2	NULL	NULL
+1007201	NULL	NULL	NULL	6	NULL	NULL
+1007202	NULL	NULL	NULL	6	NULL	NULL
+1007204	NULL	NULL	NULL	2	NULL	NULL
+1007205	NULL	NULL	NULL	2	NULL	NULL
+1007209	NULL	NULL	NULL	2	NULL	NULL
+1007210	NULL	NULL	NULL	3	NULL	NULL
+1007213	NULL	NULL	NULL	8	NULL	NULL
+1007214	NULL	NULL	NULL	2	NULL	NULL
+1007217	NULL	NULL	NULL	2	NULL	NULL
+1007219	NULL	NULL	NULL	3	NULL	NULL
+1007222	NULL	NULL	NULL	3	NULL	NULL
+1007223	NULL	NULL	NULL	2	NULL	NULL
+1007225	NULL	NULL	NULL	4	NULL	NULL
+1007226	NULL	NULL	NULL	2	NULL	NULL
+1007227	NULL	NULL	NULL	3	NULL	NULL
+1007228	NULL	NULL	NULL	2	NULL	NULL
+1007229	NULL	NULL	NULL	4	NULL	NULL
+1007230	NULL	NULL	NULL	2	NULL	NULL
+1007231	NULL	NULL	NULL	2	NULL	NULL
+1007232	NULL	NULL	NULL	4	NULL	NULL
+1007233	NULL	NULL	NULL	4	NULL	NULL
+1007234	NULL	NULL	NULL	2	NULL	NULL
+1007235	NULL	NULL	NULL	5	NULL	NULL
+1007237	NULL	NULL	NULL	3	NULL	NULL
+1007238	NULL	NULL	NULL	2	NULL	NULL
+1007239	NULL	NULL	NULL	2	NULL	NULL
+1007240	NULL	NULL	NULL	3	NULL	NULL
+1007241	NULL	NULL	NULL	5	NULL	NULL
+1007242	NULL	NULL	NULL	2	NULL	NULL
+1007244	NULL	NULL	NULL	2	NULL	NULL
+1007245	NULL	NULL	NULL	2	NULL	NULL
+1007246	NULL	NULL	NULL	2	NULL	NULL
+1007249	NULL	NULL	NULL	3	NULL	NULL
+1007250	NULL	NULL	NULL	2	NULL	NULL
+1007251	NULL	NULL	NULL	4	NULL	NULL
+1007252	NULL	NULL	NULL	2	NULL	NULL
+1007253	NULL	NULL	NULL	2	NULL	NULL
+1007254	NULL	NULL	NULL	6	NULL	NULL
+1007255	NULL	NULL	NULL	7	NULL	NULL
+1007256	NULL	NULL	NULL	3	NULL	NULL
+1007258	NULL	NULL	NULL	2	NULL	NULL
+1007259	NULL	NULL	NULL	2	NULL	NULL
+1007261	NULL	NULL	NULL	2	NULL	NULL
+1007262	NULL	NULL	NULL	3	NULL	NULL
+1007263	NULL	NULL	NULL	4	NULL	NULL
+1007264	NULL	NULL	NULL	2	NULL	NULL
+1007265	NULL	NULL	NULL	2	NULL	NULL
+1007266	NULL	NULL	NULL	2	NULL	NULL
+1007268	NULL	NULL	NULL	2	NULL	NULL
+1007269	NULL	NULL	NULL	2	NULL	NULL
+1007270	NULL	NULL	NULL	3	NULL	NULL
+1007271	NULL	NULL	NULL	5	NULL	NULL
+1007272	NULL	NULL	NULL	152	NULL	NULL
+1007273	NULL	NULL	NULL	3	NULL	NULL
+1007276	NULL	NULL	NULL	3	NULL	NULL
+1007278	NULL	NULL	NULL	3	NULL	NULL
+1007279	NULL	NULL	NULL	3	NULL	NULL
+1007280	NULL	NULL	NULL	3	NULL	NULL
+1007281	NULL	NULL	NULL	2	NULL	NULL
+1007282	NULL	NULL	NULL	2	NULL	NULL
+1007283	NULL	NULL	NULL	2	NULL	NULL
+1007284	NULL	NULL	NULL	2	NULL	NULL
+1007285	NULL	NULL	NULL	4	NULL	NULL
+1007286	NULL	NULL	NULL	3	NULL	NULL
+1007288	NULL	NULL	NULL	6	NULL	NULL
+1007290	NULL	NULL	NULL	2	NULL	NULL
+1007291	NULL	NULL	NULL	4	NULL	NULL
+1007292	NULL	NULL	NULL	2	NULL	NULL
+1007293	NULL	NULL	NULL	3	NULL	NULL
+1007295	NULL	NULL	NULL	2	NULL	NULL
+1007297	NULL	NULL	NULL	2	NULL	NULL
+1007298	NULL	NULL	NULL	3	NULL	NULL
+1007299	NULL	NULL	NULL	3	NULL	NULL
+1007300	NULL	NULL	NULL	5	NULL	NULL
+1007302	NULL	NULL	NULL	2	NULL	NULL
+1007303	NULL	NULL	NULL	4	NULL	NULL
+1007305	NULL	NULL	NULL	4	NULL	NULL
+1007306	NULL	NULL	NULL	2	NULL	NULL
+1007307	NULL	NULL	NULL	2	NULL	NULL
+1007308	NULL	NULL	NULL	2	NULL	NULL
+1007309	NULL	NULL	NULL	2	NULL	NULL
+1007310	NULL	NULL	NULL	3	NULL	NULL
+1007312	NULL	NULL	NULL	2	NULL	NULL
+1007313	NULL	NULL	NULL	2	NULL	NULL
+1007315	NULL	NULL	NULL	2	NULL	NULL
+1007316	NULL	NULL	NULL	2	NULL	NULL
+1007317	NULL	NULL	NULL	2	NULL	NULL
+1007319	NULL	NULL	NULL	2	NULL	NULL
+1007321	NULL	NULL	NULL	2	NULL	NULL
+1007324	NULL	NULL	NULL	5	NULL	NULL
+1007326	NULL	NULL	NULL	6	NULL	NULL
+1007327	NULL	NULL	NULL	2	NULL	NULL
+1007328	NULL	NULL	NULL	2	NULL	NULL
+1007332	NULL	NULL	NULL	2	NULL	NULL
+1007333	NULL	NULL	NULL	2	NULL	NULL
+1007335	NULL	NULL	NULL	2	NULL	NULL
+1007338	NULL	NULL	NULL	2	NULL	NULL
+1007339	NULL	NULL	NULL	2	NULL	NULL
+1007340	NULL	NULL	NULL	3	NULL	NULL
+1007341	NULL	NULL	NULL	2	NULL	NULL
+1007342	NULL	NULL	NULL	2	NULL	NULL
+1007343	NULL	NULL	NULL	4	NULL	NULL
+1007344	NULL	NULL	NULL	3	NULL	NULL
+1007345	NULL	NULL	NULL	2	NULL	NULL
+1007346	NULL	NULL	NULL	4	NULL	NULL
+1007347	NULL	NULL	NULL	8	NULL	NULL
+1007348	NULL	NULL	NULL	2	NULL	NULL
+1007349	NULL	NULL	NULL	2	NULL	NULL
+1007354	NULL	NULL	NULL	3	NULL	NULL
+1007356	NULL	NULL	NULL	2	NULL	NULL
+1007361	NULL	NULL	NULL	2	NULL	NULL
+1007362	NULL	NULL	NULL	3	NULL	NULL
+1007363	NULL	NULL	NULL	6	NULL	NULL
+1007364	NULL	NULL	NULL	3	NULL	NULL
+1007365	NULL	NULL	NULL	2	NULL	NULL
+1007366	NULL	NULL	NULL	6	NULL	NULL
+1007367	NULL	NULL	NULL	2	NULL	NULL
+1007368	NULL	NULL	NULL	2	NULL	NULL
+1007369	NULL	NULL	NULL	4	NULL	NULL
+1007370	NULL	NULL	NULL	5	NULL	NULL
+1007371	NULL	NULL	NULL	2	NULL	NULL
+1007372	NULL	NULL	NULL	2	NULL	NULL
+1007374	NULL	NULL	NULL	3	NULL	NULL
+1007376	NULL	NULL	NULL	2	NULL	NULL
+1007377	NULL	NULL	NULL	2	NULL	NULL
+1007379	NULL	NULL	NULL	2	NULL	NULL
+1007380	NULL	NULL	NULL	3	NULL	NULL
+1007381	NULL	NULL	NULL	2	NULL	NULL
+1007383	NULL	NULL	NULL	2	NULL	NULL
+1007384	NULL	NULL	NULL	2	NULL	NULL
+1007385	NULL	NULL	NULL	2	NULL	NULL
+1007386	NULL	NULL	NULL	3	NULL	NULL
+1007388	NULL	NULL	NULL	2	NULL	NULL
+1007389	NULL	NULL	NULL	2	NULL	NULL
+1007391	NULL	NULL	NULL	2	NULL	NULL
+1007392	NULL	NULL	NULL	9	NULL	NULL
+1007395	NULL	NULL	NULL	2	NULL	NULL
+1007396	NULL	NULL	NULL	2	NULL	NULL
+1007397	NULL	NULL	NULL	4	NULL	NULL
+1007399	NULL	NULL	NULL	2	NULL	NULL
+1007400	NULL	NULL	NULL	4	NULL	NULL
+1007401	NULL	NULL	NULL	9	NULL	NULL
+1007402	NULL	NULL	NULL	6	NULL	NULL
+1007403	NULL	NULL	NULL	2	NULL	NULL
+1007404	NULL	NULL	NULL	2	NULL	NULL
+1007405	NULL	NULL	NULL	8	NULL	NULL
+1007406	NULL	NULL	NULL	2	NULL	NULL
+1007407	NULL	NULL	NULL	9	NULL	NULL
+1007408	NULL	NULL	NULL	4	NULL	NULL
+1007409	NULL	NULL	NULL	2	NULL	NULL
+1007411	NULL	NULL	NULL	2	NULL	NULL
+1007412	NULL	NULL	NULL	2	NULL	NULL
+1007413	NULL	NULL	NULL	2	NULL	NULL
+1007414	NULL	NULL	NULL	2	NULL	NULL
+1007415	NULL	NULL	NULL	2	NULL	NULL
+1007416	NULL	NULL	NULL	4	NULL	NULL
+1007417	NULL	NULL	NULL	3	NULL	NULL
+1007419	NULL	NULL	NULL	3	NULL	NULL
+1007420	NULL	NULL	NULL	3	NULL	NULL
+1007421	NULL	NULL	NULL	2	NULL	NULL
+1007423	NULL	NULL	NULL	2	NULL	NULL
+1007427	NULL	NULL	NULL	2	NULL	NULL
+1007428	NULL	NULL	NULL	2	NULL	NULL
+1007429	NULL	NULL	NULL	3	NULL	NULL
+1007430	NULL	NULL	NULL	2	NULL	NULL
+1007431	NULL	NULL	NULL	3	NULL	NULL
+1007432	NULL	NULL	NULL	6	NULL	NULL
+1007434	NULL	NULL	NULL	2	NULL	NULL
+1007436	NULL	NULL	NULL	3	NULL	NULL
+1007437	NULL	NULL	NULL	3	NULL	NULL
+1007438	NULL	NULL	NULL	6	NULL	NULL
+1007439	NULL	NULL	NULL	2	NULL	NULL
+1007440	NULL	NULL	NULL	2	NULL	NULL
+1007441	NULL	NULL	NULL	2	NULL	NULL
+1007442	NULL	NULL	NULL	2	NULL	NULL
+1007443	NULL	NULL	NULL	2	NULL	NULL
+1007444	NULL	NULL	NULL	3	NULL	NULL
+1007445	NULL	NULL	NULL	2	NULL	NULL
+1007446	NULL	NULL	NULL	3	NULL	NULL
+1007447	NULL	NULL	NULL	2	NULL	NULL
+1007448	NULL	NULL	NULL	4	NULL	NULL
+1007450	NULL	NULL	NULL	2	NULL	NULL
+1007451	NULL	NULL	NULL	3	NULL	NULL
+1007452	NULL	NULL	NULL	3	NULL	NULL
+1007453	NULL	NULL	NULL	2	NULL	NULL
+1007454	NULL	NULL	NULL	2	NULL	NULL
+1007456	NULL	NULL	NULL	5	NULL	NULL
+1007457	NULL	NULL	NULL	2	NULL	NULL
+1007458	NULL	NULL	NULL	4	NULL	NULL
+1007460	NULL	NULL	NULL	3	NULL	NULL
+1007461	NULL	NULL	NULL	3	NULL	NULL
+1007462	NULL	NULL	NULL	2	NULL	NULL
+1007463	NULL	NULL	NULL	4	NULL	NULL
+1007464	NULL	NULL	NULL	3	NULL	NULL
+1007466	NULL	NULL	NULL	2	NULL	NULL
+1007469	NULL	NULL	NULL	5	NULL	NULL
+1007470	NULL	NULL	NULL	5	NULL	NULL
+1007471	NULL	NULL	NULL	6	NULL	NULL
+1007472	NULL	NULL	NULL	3	NULL	NULL
+1007474	NULL	NULL	NULL	3	NULL	NULL
+1007475	NULL	NULL	NULL	2	NULL	NULL
+1007478	NULL	NULL	NULL	3	NULL	NULL
+1007479	NULL	NULL	NULL	2	NULL	NULL
+1007481	NULL	NULL	NULL	3	NULL	NULL
+1007482	NULL	NULL	NULL	3	NULL	NULL
+1007483	NULL	NULL	NULL	3	NULL	NULL
+1007484	NULL	NULL	NULL	2	NULL	NULL
+1007486	NULL	NULL	NULL	2	NULL	NULL
+1007487	NULL	NULL	NULL	2	NULL	NULL
+1007489	NULL	NULL	NULL	2	NULL	NULL
+1007491	NULL	NULL	NULL	3	NULL	NULL
+1007493	NULL	NULL	NULL	2	NULL	NULL
+1007494	NULL	NULL	NULL	2	NULL	NULL
+1007495	NULL	NULL	NULL	4	NULL	NULL
+1007496	NULL	NULL	NULL	3	NULL	NULL
+1007498	NULL	NULL	NULL	3	NULL	NULL
+1007499	NULL	NULL	NULL	2	NULL	NULL
+1007500	NULL	NULL	NULL	3	NULL	NULL
+1007501	NULL	NULL	NULL	2	NULL	NULL
+1007502	NULL	NULL	NULL	2	NULL	NULL
+1007503	NULL	NULL	NULL	2	NULL	NULL
+1007505	NULL	NULL	NULL	2	NULL	NULL
+1007507	NULL	NULL	NULL	2	NULL	NULL
+1007508	NULL	NULL	NULL	2	NULL	NULL
+1007509	NULL	NULL	NULL	2	NULL	NULL
+1007510	NULL	NULL	NULL	2	NULL	NULL
+1007511	NULL	NULL	NULL	2	NULL	NULL
+1007512	NULL	NULL	NULL	2	NULL	NULL
+1007515	NULL	NULL	NULL	2	NULL	NULL
+1007517	NULL	NULL	NULL	2	NULL	NULL
+1007518	NULL	NULL	NULL	2	NULL	NULL
+1007520	NULL	NULL	NULL	2	NULL	NULL
+1007521	NULL	NULL	NULL	2	NULL	NULL
+1007522	NULL	NULL	NULL	2	NULL	NULL
+1007523	NULL	NULL	NULL	2	NULL	NULL
+1007524	NULL	NULL	NULL	2	NULL	NULL
+1007525	NULL	NULL	NULL	2	NULL	NULL
+1007526	NULL	NULL	NULL	2	NULL	NULL
+1007528	NULL	NULL	NULL	2	NULL	NULL
+1007530	NULL	NULL	NULL	2	NULL	NULL
+1007531	NULL	NULL	NULL	2	NULL	NULL
+1007532	NULL	NULL	NULL	2	NULL	NULL
+1007533	NULL	NULL	NULL	2	NULL	NULL
+1007535	NULL	NULL	NULL	2	NULL	NULL
+1007536	NULL	NULL	NULL	6	NULL	NULL
+1007537	NULL	NULL	NULL	3	NULL	NULL
+1007538	NULL	NULL	NULL	2	NULL	NULL
+1007540	NULL	NULL	NULL	3	NULL	NULL
+1007541	NULL	NULL	NULL	2	NULL	NULL
+1007542	NULL	NULL	NULL	3	NULL	NULL
+1007545	NULL	NULL	NULL	2	NULL	NULL
+1007546	NULL	NULL	NULL	2	NULL	NULL
+1007548	NULL	NULL	NULL	3	NULL	NULL
+1007549	NULL	NULL	NULL	3	NULL	NULL
+1007550	NULL	NULL	NULL	4	NULL	NULL
+1007551	NULL	NULL	NULL	2	NULL	NULL
+1007555	NULL	NULL	NULL	2	NULL	NULL
+1007556	NULL	NULL	NULL	4	NULL	NULL
+1007557	NULL	NULL	NULL	8	NULL	NULL
+1007560	NULL	NULL	NULL	2	NULL	NULL
+1007563	NULL	NULL	NULL	2	NULL	NULL
+1007564	NULL	NULL	NULL	10	NULL	NULL
+1007568	NULL	NULL	NULL	2	NULL	NULL
+1007569	NULL	NULL	NULL	2	NULL	NULL
+1007573	NULL	NULL	NULL	2	NULL	NULL
+1007575	NULL	NULL	NULL	2	NULL	NULL
+1007576	NULL	NULL	NULL	2	NULL	NULL
+1007577	NULL	NULL	NULL	2	NULL	NULL
+1007578	NULL	NULL	NULL	2	NULL	NULL
+1007579	NULL	NULL	NULL	2	NULL	NULL
+1007580	NULL	NULL	NULL	2	NULL	NULL
+1007582	NULL	NULL	NULL	3	NULL	NULL
+1007585	NULL	NULL	NULL	2	NULL	NULL
+1007586	NULL	NULL	NULL	2	NULL	NULL
+1007587	NULL	NULL	NULL	2	NULL	NULL
+1007588	NULL	NULL	NULL	2	NULL	NULL
+1007589	NULL	NULL	NULL	2	NULL	NULL
+1007590	NULL	NULL	NULL	4	NULL	NULL
+1007591	NULL	NULL	NULL	6	NULL	NULL
+1007592	NULL	NULL	NULL	2	NULL	NULL
+1007593	NULL	NULL	NULL	3	NULL	NULL
+1007594	NULL	NULL	NULL	3	NULL	NULL
+1007596	NULL	NULL	NULL	2	NULL	NULL
+1007598	NULL	NULL	NULL	2	NULL	NULL
+1007599	NULL	NULL	NULL	2	NULL	NULL
+1007600	NULL	NULL	NULL	2	NULL	NULL
+1007601	NULL	NULL	NULL	3	NULL	NULL
+1007602	NULL	NULL	NULL	2	NULL	NULL
+1007604	NULL	NULL	NULL	3	NULL	NULL
+1007605	NULL	NULL	NULL	2	NULL	NULL
+1007606	NULL	NULL	NULL	3	NULL	NULL
+1007607	NULL	NULL	NULL	2	NULL	NULL
+1007610	NULL	NULL	NULL	2	NULL	NULL
+1007611	NULL	NULL	NULL	2	NULL	NULL
+1007612	NULL	NULL	NULL	2	NULL	NULL
+1007613	NULL	NULL	NULL	2	NULL	NULL
+1007616	NULL	NULL	NULL	3	NULL	NULL
+1007620	NULL	NULL	NULL	2	NULL	NULL
+1007622	NULL	NULL	NULL	2	NULL	NULL
+1007623	NULL	NULL	NULL	2	NULL	NULL
+1007624	NULL	NULL	NULL	2	NULL	NULL
+1007626	NULL	NULL	NULL	4	NULL	NULL
+1007627	NULL	NULL	NULL	3	NULL	NULL
+1007628	NULL	NULL	NULL	2	NULL	NULL
+1007630	NULL	NULL	NULL	2	NULL	NULL
+1007631	NULL	NULL	NULL	2	NULL	NULL
+1007632	NULL	NULL	NULL	6	NULL	NULL
+1007634	NULL	NULL	NULL	3	NULL	NULL
+1007635	NULL	NULL	NULL	3	NULL	NULL
+1007636	NULL	NULL	NULL	4	NULL	NULL
+1007638	NULL	NULL	NULL	4	NULL	NULL
+1007639	NULL	NULL	NULL	2	NULL	NULL
+1007640	NULL	NULL	NULL	2	NULL	NULL
+1007641	NULL	NULL	NULL	3	NULL	NULL
+1007642	NULL	NULL	NULL	3	NULL	NULL
+1007645	NULL	NULL	NULL	2	NULL	NULL
+1007646	NULL	NULL	NULL	2	NULL	NULL
+1007647	NULL	NULL	NULL	4	NULL	NULL
+1007648	NULL	NULL	NULL	2	NULL	NULL
+1007650	NULL	NULL	NULL	2	NULL	NULL
+1007651	NULL	NULL	NULL	4	NULL	NULL
+1007652	NULL	NULL	NULL	4	NULL	NULL
+1007653	NULL	NULL	NULL	2	NULL	NULL
+1007654	NULL	NULL	NULL	2	NULL	NULL
+1007656	NULL	NULL	NULL	3	NULL	NULL
+1007657	NULL	NULL	NULL	2	NULL	NULL
+1007658	NULL	NULL	NULL	4	NULL	NULL
+1007659	NULL	NULL	NULL	2	NULL	NULL
+1007661	NULL	NULL	NULL	3	NULL	NULL
+1007662	NULL	NULL	NULL	5	NULL	NULL
+1007663	NULL	NULL	NULL	2	NULL	NULL
+1007664	NULL	NULL	NULL	2	NULL	NULL
+1007665	NULL	NULL	NULL	2	NULL	NULL
+1007667	NULL	NULL	NULL	2	NULL	NULL
+1007668	NULL	NULL	NULL	3	NULL	NULL
+1007669	NULL	NULL	NULL	2	NULL	NULL
+1007670	NULL	NULL	NULL	2	NULL	NULL
+1007671	NULL	NULL	NULL	2	NULL	NULL
+1007672	NULL	NULL	NULL	4	NULL	NULL
+1007673	NULL	NULL	NULL	3	NULL	NULL
+1007674	NULL	NULL	NULL	2	NULL	NULL
+1007675	NULL	NULL	NULL	2	NULL	NULL
+1007676	NULL	NULL	NULL	5	NULL	NULL
+1007677	NULL	NULL	NULL	2	NULL	NULL
+1007678	NULL	NULL	NULL	2	NULL	NULL
+1007679	NULL	NULL	NULL	2	NULL	NULL
+1007681	NULL	NULL	NULL	2	NULL	NULL
+1007682	NULL	NULL	NULL	2	NULL	NULL
+1007683	NULL	NULL	NULL	2	NULL	NULL
+1007684	NULL	NULL	NULL	4	NULL	NULL
+1007686	NULL	NULL	NULL	3	NULL	NULL
+1007691	NULL	NULL	NULL	4	NULL	NULL
+1007693	NULL	NULL	NULL	7	NULL	NULL
+1007694	NULL	NULL	NULL	2	NULL	NULL
+1007696	NULL	NULL	NULL	4	NULL	NULL
+1007699	NULL	NULL	NULL	2	NULL	NULL
+1007702	NULL	NULL	NULL	2	NULL	NULL
+1007704	NULL	NULL	NULL	5	NULL	NULL
+1007705	NULL	NULL	NULL	4	NULL	NULL
+1007708	NULL	NULL	NULL	3	NULL	NULL
+1007709	NULL	NULL	NULL	2	NULL	NULL
+1007710	NULL	NULL	NULL	4	NULL	NULL
+1007711	NULL	NULL	NULL	3	NULL	NULL
+1007712	NULL	NULL	NULL	2	NULL	NULL
+1007713	NULL	NULL	NULL	2	NULL	NULL
+1007714	NULL	NULL	NULL	3	NULL	NULL
+1007715	NULL	NULL	NULL	2	NULL	NULL
+1007716	NULL	NULL	NULL	2	NULL	NULL
+1007717	NULL	NULL	NULL	2	NULL	NULL
+1007718	NULL	NULL	NULL	3	NULL	NULL
+1007719	NULL	NULL	NULL	2	NULL	NULL
+1007720	NULL	NULL	NULL	2	NULL	NULL
+1007721	NULL	NULL	NULL	2	NULL	NULL
+1007722	NULL	NULL	NULL	4	NULL	NULL
+1007723	NULL	NULL	NULL	2	NULL	NULL
+1007724	NULL	NULL	NULL	2	NULL	NULL
+1007725	NULL	NULL	NULL	2	NULL	NULL
+1007726	NULL	NULL	NULL	2	NULL	NULL
+1007727	NULL	NULL	NULL	3	NULL	NULL
+1007728	NULL	NULL	NULL	3	NULL	NULL
+1007729	NULL	NULL	NULL	2	NULL	NULL
+1007730	NULL	NULL	NULL	3	NULL	NULL
+1007731	NULL	NULL	NULL	3	NULL	NULL
+1007733	NULL	NULL	NULL	3	NULL	NULL
+1007734	NULL	NULL	NULL	4	NULL	NULL
+1007735	NULL	NULL	NULL	2	NULL	NULL
+1007736	NULL	NULL	NULL	2	NULL	NULL
+1007737	NULL	NULL	NULL	2	NULL	NULL
+1007738	NULL	NULL	NULL	2	NULL	NULL
+1007739	NULL	NULL	NULL	5	NULL	NULL
+1007740	NULL	NULL	NULL	2	NULL	NULL
+1007741	NULL	NULL	NULL	2	NULL	NULL
+1007742	NULL	NULL	NULL	4	NULL	NULL
+1007743	NULL	NULL	NULL	2	NULL	NULL
+1007744	NULL	NULL	NULL	4	NULL	NULL
+1007745	NULL	NULL	NULL	3	NULL	NULL
+1007746	NULL	NULL	NULL	2	NULL	NULL
+1007747	NULL	NULL	NULL	2	NULL	NULL
+1007748	NULL	NULL	NULL	2	NULL	NULL
+1007749	NULL	NULL	NULL	6	NULL	NULL
+1007750	NULL	NULL	NULL	2	NULL	NULL
+1007751	NULL	NULL	NULL	2	NULL	NULL
+1007755	NULL	NULL	NULL	2	NULL	NULL
+1007756	NULL	NULL	NULL	3	NULL	NULL
+1007758	NULL	NULL	NULL	2	NULL	NULL
+1007759	NULL	NULL	NULL	2	NULL	NULL
+1007760	NULL	NULL	NULL	2	NULL	NULL
+1007761	NULL	NULL	NULL	4	NULL	NULL
+1007762	NULL	NULL	NULL	2	NULL	NULL
+1007764	NULL	NULL	NULL	3	NULL	NULL
+1007765	NULL	NULL	NULL	2	NULL	NULL
+1007766	NULL	NULL	NULL	2	NULL	NULL
+1007767	NULL	NULL	NULL	2	NULL	NULL
+1007769	NULL	NULL	NULL	30	NULL	NULL
+1007770	NULL	NULL	NULL	3	NULL	NULL
+1007771	NULL	NULL	NULL	2	NULL	NULL
+1007772	NULL	NULL	NULL	3	NULL	NULL
+1007773	NULL	NULL	NULL	8	NULL	NULL
+1007775	NULL	NULL	NULL	5	NULL	NULL
+1007776	NULL	NULL	NULL	5	NULL	NULL
+1007778	NULL	NULL	NULL	2	NULL	NULL
+1007780	NULL	NULL	NULL	2	NULL	NULL
+1007781	NULL	NULL	NULL	5	NULL	NULL
+1007783	NULL	NULL	NULL	2	NULL	NULL
+1007786	NULL	NULL	NULL	2	NULL	NULL
+1007787	NULL	NULL	NULL	4	NULL	NULL
+1007788	NULL	NULL	NULL	2	NULL	NULL
+1007789	NULL	NULL	NULL	2	NULL	NULL
+1007790	NULL	NULL	NULL	4	NULL	NULL
+1007794	NULL	NULL	NULL	3	NULL	NULL
+1007795	NULL	NULL	NULL	2	NULL	NULL
+1007796	NULL	NULL	NULL	2	NULL	NULL
+1007797	NULL	NULL	NULL	4	NULL	NULL
+1007798	NULL	NULL	NULL	3	NULL	NULL
+1007799	NULL	NULL	NULL	3	NULL	NULL
+1007800	NULL	NULL	NULL	3	NULL	NULL
+1007801	NULL	NULL	NULL	2	NULL	NULL
+1007802	NULL	NULL	NULL	3	NULL	NULL
+1007803	NULL	NULL	NULL	4	NULL	NULL
+1007804	NULL	NULL	NULL	2	NULL	NULL
+1007805	NULL	NULL	NULL	3	NULL	NULL
+1007806	NULL	NULL	NULL	2	NULL	NULL
+1007807	NULL	NULL	NULL	4	NULL	NULL
+1007809	NULL	NULL	NULL	2	NULL	NULL
+1007817	NULL	NULL	NULL	2	NULL	NULL
+1007818	NULL	NULL	NULL	2	NULL	NULL
+1007819	NULL	NULL	NULL	2	NULL	NULL
+1007820	NULL	NULL	NULL	2	NULL	NULL
+1007822	NULL	NULL	NULL	3	NULL	NULL
+1007824	NULL	NULL	NULL	2	NULL	NULL
+1007825	NULL	NULL	NULL	2	NULL	NULL
+1007826	NULL	NULL	NULL	3	NULL	NULL
+1007835	NULL	NULL	NULL	2	NULL	NULL
+1007837	NULL	NULL	NULL	2	NULL	NULL
+1007841	NULL	NULL	NULL	2	NULL	NULL
+1007843	NULL	NULL	NULL	2	NULL	NULL
+1007844	NULL	NULL	NULL	2	NULL	NULL
+1007845	NULL	NULL	NULL	10	NULL	NULL
+1007846	NULL	NULL	NULL	2	NULL	NULL
+1007848	NULL	NULL	NULL	3	NULL	NULL
+1007849	NULL	NULL	NULL	2	NULL	NULL
+1007850	NULL	NULL	NULL	2	NULL	NULL
+1007852	NULL	NULL	NULL	3	NULL	NULL
+1007853	NULL	NULL	NULL	2	NULL	NULL
+1007855	NULL	NULL	NULL	5	NULL	NULL
+1007856	NULL	NULL	NULL	2	NULL	NULL
+1007858	NULL	NULL	NULL	3	NULL	NULL
+1007859	NULL	NULL	NULL	2	NULL	NULL
+1007861	NULL	NULL	NULL	3	NULL	NULL
+1007862	NULL	NULL	NULL	2	NULL	NULL
+1007863	NULL	NULL	NULL	2	NULL	NULL
+1007864	NULL	NULL	NULL	2	NULL	NULL
+1007865	NULL	NULL	NULL	6	NULL	NULL
+1007866	NULL	NULL	NULL	2	NULL	NULL
+1007867	NULL	NULL	NULL	3	NULL	NULL
+1007868	NULL	NULL	NULL	2	NULL	NULL
+1007870	NULL	NULL	NULL	3	NULL	NULL
+1007871	NULL	NULL	NULL	2	NULL	NULL
+1007872	NULL	NULL	NULL	3	NULL	NULL
+1007874	NULL	NULL	NULL	2	NULL	NULL
+1007877	NULL	NULL	NULL	2	NULL	NULL
+1007878	NULL	NULL	NULL	2	NULL	NULL
+1007879	NULL	NULL	NULL	4	NULL	NULL
+1007881	NULL	NULL	NULL	5	NULL	NULL
+1007882	NULL	NULL	NULL	3	NULL	NULL
+1007883	NULL	NULL	NULL	2	NULL	NULL
+1007884	NULL	NULL	NULL	4	NULL	NULL
+1007886	NULL	NULL	NULL	2	NULL	NULL
+1007887	NULL	NULL	NULL	2	NULL	NULL
+1007889	NULL	NULL	NULL	2	NULL	NULL
+1007890	NULL	NULL	NULL	2	NULL	NULL
+1007892	NULL	NULL	NULL	3	NULL	NULL
+1007894	NULL	NULL	NULL	2	NULL	NULL
+1007895	NULL	NULL	NULL	2	NULL	NULL
+1007896	NULL	NULL	NULL	2	NULL	NULL
+1007899	NULL	NULL	NULL	29	NULL	NULL
+1007900	NULL	NULL	NULL	2	NULL	NULL
+1007901	NULL	NULL	NULL	2	NULL	NULL
+1007902	NULL	NULL	NULL	3	NULL	NULL
+1007904	NULL	NULL	NULL	2	NULL	NULL
+1007905	NULL	NULL	NULL	2	NULL	NULL
+1007906	NULL	NULL	NULL	2	NULL	NULL
+1007907	NULL	NULL	NULL	2	NULL	NULL
+1007908	NULL	NULL	NULL	5	NULL	NULL
+1007909	NULL	NULL	NULL	2	NULL	NULL
+1007910	NULL	NULL	NULL	5	NULL	NULL
+1007911	NULL	NULL	NULL	2	NULL	NULL
+1007913	NULL	NULL	NULL	2	NULL	NULL
+1007915	NULL	NULL	NULL	3	NULL	NULL
+1007916	NULL	NULL	NULL	4	NULL	NULL
+1007918	NULL	NULL	NULL	3	NULL	NULL
+1007920	NULL	NULL	NULL	2	NULL	NULL
+1007921	NULL	NULL	NULL	2	NULL	NULL
+1007922	NULL	NULL	NULL	2	NULL	NULL
+1007923	NULL	NULL	NULL	3	NULL	NULL
+1007924	NULL	NULL	NULL	2	NULL	NULL
+1007925	NULL	NULL	NULL	2	NULL	NULL
+1007926	NULL	NULL	NULL	2	NULL	NULL
+1007927	NULL	NULL	NULL	2	NULL	NULL
+1007928	NULL	NULL	NULL	2	NULL	NULL
+1007930	NULL	NULL	NULL	2	NULL	NULL
+1007931	NULL	NULL	NULL	2	NULL	NULL
+1007932	NULL	NULL	NULL	4	NULL	NULL
+1007933	NULL	NULL	NULL	2	NULL	NULL
+1007934	NULL	NULL	NULL	2	NULL	NULL
+1007935	NULL	NULL	NULL	3	NULL	NULL
+1007936	NULL	NULL	NULL	2	NULL	NULL
+1007937	NULL	NULL	NULL	3	NULL	NULL
+1007938	NULL	NULL	NULL	2	NULL	NULL
+1007939	NULL	NULL	NULL	2	NULL	NULL
+1007940	NULL	NULL	NULL	2	NULL	NULL
+1007941	NULL	NULL	NULL	3	NULL	NULL
+1007942	NULL	NULL	NULL	4	NULL	NULL
+1007943	NULL	NULL	NULL	3	NULL	NULL
+1007945	NULL	NULL	NULL	3	NULL	NULL
+1007946	NULL	NULL	NULL	2	NULL	NULL
+1007948	NULL	NULL	NULL	2	NULL	NULL
+1007949	NULL	NULL	NULL	2	NULL	NULL
+1007950	NULL	NULL	NULL	2	NULL	NULL
+1007951	NULL	NULL	NULL	2	NULL	NULL
+1007952	NULL	NULL	NULL	2	NULL	NULL
+1007953	NULL	NULL	NULL	3	NULL	NULL
+1007955	NULL	NULL	NULL	4	NULL	NULL
+1007956	NULL	NULL	NULL	3	NULL	NULL
+1007958	NULL	NULL	NULL	2	NULL	NULL
+1007959	NULL	NULL	NULL	2	NULL	NULL
+1007960	NULL	NULL	NULL	2	NULL	NULL
+1007963	NULL	NULL	NULL	2	NULL	NULL
+1007964	NULL	NULL	NULL	2	NULL	NULL
+1007965	NULL	NULL	NULL	2	NULL	NULL
+1007968	NULL	NULL	NULL	3	NULL	NULL
+1007970	NULL	NULL	NULL	2	NULL	NULL
+1007971	NULL	NULL	NULL	2	NULL	NULL
+1007973	NULL	NULL	NULL	2	NULL	NULL
+1007974	NULL	NULL	NULL	2	NULL	NULL
+1007976	NULL	NULL	NULL	3	NULL	NULL
+1007977	NULL	NULL	NULL	2	NULL	NULL
+1007978	NULL	NULL	NULL	2	NULL	NULL
+1007980	NULL	NULL	NULL	2	NULL	NULL
+1007981	NULL	NULL	NULL	2	NULL	NULL
+1007982	NULL	NULL	NULL	4	NULL	NULL
+1007983	NULL	NULL	NULL	2	NULL	NULL
+1007984	NULL	NULL	NULL	3	NULL	NULL
+1007985	NULL	NULL	NULL	2	NULL	NULL
+1007986	NULL	NULL	NULL	3	NULL	NULL
+1007987	NULL	NULL	NULL	2	NULL	NULL
+1007988	NULL	NULL	NULL	3	NULL	NULL
+1007989	NULL	NULL	NULL	3	NULL	NULL
+1007992	NULL	NULL	NULL	4	NULL	NULL
+1007993	NULL	NULL	NULL	2	NULL	NULL
+1007994	NULL	NULL	NULL	3	NULL	NULL
+1007996	NULL	NULL	NULL	2	NULL	NULL
+1007997	NULL	NULL	NULL	2	NULL	NULL
+1007998	NULL	NULL	NULL	2	NULL	NULL
+1007999	NULL	NULL	NULL	2	NULL	NULL
+1008000	NULL	NULL	NULL	2	NULL	NULL
+1008002	NULL	NULL	NULL	2	NULL	NULL
+1008003	NULL	NULL	NULL	3	NULL	NULL
+1008004	NULL	NULL	NULL	2	NULL	NULL
+1008005	NULL	NULL	NULL	2	NULL	NULL
+1008006	NULL	NULL	NULL	2	NULL	NULL
+1008007	NULL	NULL	NULL	4	NULL	NULL
+1008008	NULL	NULL	NULL	2	NULL	NULL
+1008009	NULL	NULL	NULL	2	NULL	NULL
+1008011	NULL	NULL	NULL	3	NULL	NULL
+1008012	NULL	NULL	NULL	2	NULL	NULL
+1008013	NULL	NULL	NULL	3	NULL	NULL
+1008015	NULL	NULL	NULL	2	NULL	NULL
+1008016	NULL	NULL	NULL	2	NULL	NULL
+1008017	NULL	NULL	NULL	4	NULL	NULL
+1008018	NULL	NULL	NULL	3	NULL	NULL
+1008019	NULL	NULL	NULL	2	NULL	NULL
+1008021	NULL	NULL	NULL	8	NULL	NULL
+1008022	NULL	NULL	NULL	2	NULL	NULL
+1008023	NULL	NULL	NULL	2	NULL	NULL
+1008024	NULL	NULL	NULL	2	NULL	NULL
+1008025	NULL	NULL	NULL	2	NULL	NULL
+1008026	NULL	NULL	NULL	2	NULL	NULL
+1008027	NULL	NULL	NULL	2	NULL	NULL
+1008028	NULL	NULL	NULL	2	NULL	NULL
+1008029	NULL	NULL	NULL	3	NULL	NULL
+1008030	NULL	NULL	NULL	3	NULL	NULL
+1008031	NULL	NULL	NULL	2	NULL	NULL
+1008034	NULL	NULL	NULL	2	NULL	NULL
+1008035	NULL	NULL	NULL	2	NULL	NULL
+1008036	NULL	NULL	NULL	2	NULL	NULL
+1008039	NULL	NULL	NULL	2	NULL	NULL
+1008040	NULL	NULL	NULL	2	NULL	NULL
+1008043	NULL	NULL	NULL	5	NULL	NULL
+1008045	NULL	NULL	NULL	2	NULL	NULL
+1008048	NULL	NULL	NULL	2	NULL	NULL
+1008049	NULL	NULL	NULL	2	NULL	NULL
+1008051	NULL	NULL	NULL	2	NULL	NULL
+1008052	NULL	NULL	NULL	6	NULL	NULL
+1008053	NULL	NULL	NULL	2	NULL	NULL
+1008055	NULL	NULL	NULL	2	NULL	NULL
+1008056	NULL	NULL	NULL	2	NULL	NULL
+1008057	NULL	NULL	NULL	4	NULL	NULL
+1008058	NULL	NULL	NULL	6	NULL	NULL
+1008059	NULL	NULL	NULL	2	NULL	NULL
+1008064	NULL	NULL	NULL	2	NULL	NULL
+1008065	NULL	NULL	NULL	4	NULL	NULL
+1008068	NULL	NULL	NULL	2	NULL	NULL
+1008069	NULL	NULL	NULL	3	NULL	NULL
+1008072	NULL	NULL	NULL	3	NULL	NULL
+1008073	NULL	NULL	NULL	2	NULL	NULL
+1008074	NULL	NULL	NULL	4	NULL	NULL
+1008077	NULL	NULL	NULL	2	NULL	NULL
+1008078	NULL	NULL	NULL	2	NULL	NULL
+1008080	NULL	NULL	NULL	3	NULL	NULL
+1008082	NULL	NULL	NULL	2	NULL	NULL
+1008083	NULL	NULL	NULL	2	NULL	NULL
+1008087	NULL	NULL	NULL	8	NULL	NULL
+1008088	NULL	NULL	NULL	2	NULL	NULL
+1008089	NULL	NULL	NULL	3	NULL	NULL
+1008090	NULL	NULL	NULL	6	NULL	NULL
+1008091	NULL	NULL	NULL	3	NULL	NULL
+1008093	NULL	NULL	NULL	3	NULL	NULL
+1008095	NULL	NULL	NULL	2	NULL	NULL
+1008096	NULL	NULL	NULL	12	NULL	NULL
+1008098	NULL	NULL	NULL	2	NULL	NULL
+1008099	NULL	NULL	NULL	2	NULL	NULL
+1008100	NULL	NULL	NULL	2	NULL	NULL
+1008102	NULL	NULL	NULL	2	NULL	NULL
+1008103	NULL	NULL	NULL	2	NULL	NULL
+1008104	NULL	NULL	NULL	2	NULL	NULL
+1008105	NULL	NULL	NULL	2	NULL	NULL
+1008106	NULL	NULL	NULL	7	NULL	NULL
+1008107	NULL	NULL	NULL	3	NULL	NULL
+1008109	NULL	NULL	NULL	2	NULL	NULL
+1008110	NULL	NULL	NULL	2	NULL	NULL
+1008111	NULL	NULL	NULL	2	NULL	NULL
+1008112	NULL	NULL	NULL	2	NULL	NULL
+1008116	NULL	NULL	NULL	4	NULL	NULL
+1008117	NULL	NULL	NULL	5	NULL	NULL
+1008118	NULL	NULL	NULL	2	NULL	NULL
+1008119	NULL	NULL	NULL	3	NULL	NULL
+1008121	NULL	NULL	NULL	3	NULL	NULL
+1008122	NULL	NULL	NULL	2	NULL	NULL
+1008123	NULL	NULL	NULL	2	NULL	NULL
+1008124	NULL	NULL	NULL	2	NULL	NULL
+1008125	NULL	NULL	NULL	4	NULL	NULL
+1008126	NULL	NULL	NULL	2	NULL	NULL
+1008127	NULL	NULL	NULL	2	NULL	NULL
+1008128	NULL	NULL	NULL	7	NULL	NULL
+1008131	NULL	NULL	NULL	2	NULL	NULL
+1008132	NULL	NULL	NULL	3	NULL	NULL
+1008133	NULL	NULL	NULL	2	NULL	NULL
+1008135	NULL	NULL	NULL	3	NULL	NULL
+1008140	NULL	NULL	NULL	2	NULL	NULL
+1008141	NULL	NULL	NULL	2	NULL	NULL
+1008142	NULL	NULL	NULL	2	NULL	NULL
+1008144	NULL	NULL	NULL	7	NULL	NULL
+1008145	NULL	NULL	NULL	4	NULL	NULL
+1008146	NULL	NULL	NULL	2	NULL	NULL
+1008147	NULL	NULL	NULL	3	NULL	NULL
+1008148	NULL	NULL	NULL	2	NULL	NULL
+1008150	NULL	NULL	NULL	2	NULL	NULL
+1008152	NULL	NULL	NULL	2	NULL	NULL
+1008153	NULL	NULL	NULL	2	NULL	NULL
+1008156	NULL	NULL	NULL	2	NULL	NULL
+1008158	NULL	NULL	NULL	4	NULL	NULL
+1008159	NULL	NULL	NULL	3	NULL	NULL
+1008162	NULL	NULL	NULL	4	NULL	NULL
+1008164	NULL	NULL	NULL	2	NULL	NULL
+1008166	NULL	NULL	NULL	2	NULL	NULL
+1008167	NULL	NULL	NULL	3	NULL	NULL
+1008168	NULL	NULL	NULL	2	NULL	NULL
+1008169	NULL	NULL	NULL	2	NULL	NULL
+1008171	NULL	NULL	NULL	2	NULL	NULL
+1008172	NULL	NULL	NULL	2	NULL	NULL
+1008174	NULL	NULL	NULL	2	NULL	NULL
+1008175	NULL	NULL	NULL	2	NULL	NULL
+1008176	NULL	NULL	NULL	2	NULL	NULL
+1008177	NULL	NULL	NULL	2	NULL	NULL
+1008178	NULL	NULL	NULL	3	NULL	NULL
+1008179	NULL	NULL	NULL	2	NULL	NULL
+1008181	NULL	NULL	NULL	2	NULL	NULL
+1008182	NULL	NULL	NULL	2	NULL	NULL
+1008185	NULL	NULL	NULL	6	NULL	NULL
+1008186	NULL	NULL	NULL	2	NULL	NULL
+1008187	NULL	NULL	NULL	3	NULL	NULL
+1008188	NULL	NULL	NULL	2	NULL	NULL
+1008189	NULL	NULL	NULL	2	NULL	NULL
+1008190	NULL	NULL	NULL	2	NULL	NULL
+1008191	NULL	NULL	NULL	2	NULL	NULL
+1008193	NULL	NULL	NULL	2	NULL	NULL
+1008194	NULL	NULL	NULL	2	NULL	NULL
+1008195	NULL	NULL	NULL	2	NULL	NULL
+1008197	NULL	NULL	NULL	2	NULL	NULL
+1008198	NULL	NULL	NULL	2	NULL	NULL
+1008199	NULL	NULL	NULL	5	NULL	NULL
+1008201	NULL	NULL	NULL	2	NULL	NULL
+1008202	NULL	NULL	NULL	2	NULL	NULL
+1008203	NULL	NULL	NULL	2	NULL	NULL
+1008205	NULL	NULL	NULL	4	NULL	NULL
+1008206	NULL	NULL	NULL	2	NULL	NULL
+1008207	NULL	NULL	NULL	2	NULL	NULL
+1008208	NULL	NULL	NULL	2	NULL	NULL
+1008209	NULL	NULL	NULL	2	NULL	NULL
+1008210	NULL	NULL	NULL	2	NULL	NULL
+1008213	NULL	NULL	NULL	2	NULL	NULL
+1008215	NULL	NULL	NULL	2	NULL	NULL
+1008216	NULL	NULL	NULL	4	NULL	NULL
+1008217	NULL	NULL	NULL	2	NULL	NULL
+1008219	NULL	NULL	NULL	2	NULL	NULL
+1008220	NULL	NULL	NULL	2	NULL	NULL
+1008221	NULL	NULL	NULL	2	NULL	NULL
+1008222	NULL	NULL	NULL	2	NULL	NULL
+1008224	NULL	NULL	NULL	2	NULL	NULL
+1008227	NULL	NULL	NULL	4	NULL	NULL
+1008228	NULL	NULL	NULL	2	NULL	NULL
+1008229	NULL	NULL	NULL	2	NULL	NULL
+1008230	NULL	NULL	NULL	2	NULL	NULL
+1008232	NULL	NULL	NULL	3	NULL	NULL
+1008233	NULL	NULL	NULL	2	NULL	NULL
+1008234	NULL	NULL	NULL	2	NULL	NULL
+1008235	NULL	NULL	NULL	2	NULL	NULL
+1008236	NULL	NULL	NULL	2	NULL	NULL
+1008237	NULL	NULL	NULL	3	NULL	NULL
+1008238	NULL	NULL	NULL	2	NULL	NULL
+1008239	NULL	NULL	NULL	2	NULL	NULL
+1008240	NULL	NULL	NULL	5	NULL	NULL
+1008241	NULL	NULL	NULL	2	NULL	NULL
+1008242	NULL	NULL	NULL	3	NULL	NULL
+1008243	NULL	NULL	NULL	2	NULL	NULL
+1008244	NULL	NULL	NULL	2	NULL	NULL
+1008245	NULL	NULL	NULL	2	NULL	NULL
+1008246	NULL	NULL	NULL	2	NULL	NULL
+1008247	NULL	NULL	NULL	2	NULL	NULL
+1008248	NULL	NULL	NULL	3	NULL	NULL
+1008249	NULL	NULL	NULL	2	NULL	NULL
+1008251	NULL	NULL	NULL	2	NULL	NULL
+1008252	NULL	NULL	NULL	2	NULL	NULL
+1008254	NULL	NULL	NULL	3	NULL	NULL
+1008255	NULL	NULL	NULL	3	NULL	NULL
+1008256	NULL	NULL	NULL	2	NULL	NULL
+1008257	NULL	NULL	NULL	2	NULL	NULL
+1008258	NULL	NULL	NULL	2	NULL	NULL
+1008259	NULL	NULL	NULL	2	NULL	NULL
+1008262	NULL	NULL	NULL	2	NULL	NULL
+1008263	NULL	NULL	NULL	4	NULL	NULL
+1008264	NULL	NULL	NULL	5	NULL	NULL
+1008265	NULL	NULL	NULL	4	NULL	NULL
+1008266	NULL	NULL	NULL	3	NULL	NULL
+1008267	NULL	NULL	NULL	2	NULL	NULL
+1008268	NULL	NULL	NULL	3	NULL	NULL
+1008270	NULL	NULL	NULL	2	NULL	NULL
+1008272	NULL	NULL	NULL	2	NULL	NULL
+1008273	NULL	NULL	NULL	2	NULL	NULL
+1008274	NULL	NULL	NULL	2	NULL	NULL
+1008275	NULL	NULL	NULL	2	NULL	NULL
+1008276	NULL	NULL	NULL	2	NULL	NULL
+1008277	NULL	NULL	NULL	2	NULL	NULL
+1008278	NULL	NULL	NULL	2	NULL	NULL
+1008280	NULL	NULL	NULL	2	NULL	NULL
+1008281	NULL	NULL	NULL	3	NULL	NULL
+1008282	NULL	NULL	NULL	3	NULL	NULL
+1008283	NULL	NULL	NULL	2	NULL	NULL
+1008284	NULL	NULL	NULL	3	NULL	NULL
+1008286	NULL	NULL	NULL	2	NULL	NULL
+1008287	NULL	NULL	NULL	2	NULL	NULL
+1008288	NULL	NULL	NULL	3	NULL	NULL
+1008289	NULL	NULL	NULL	2	NULL	NULL
+1008290	NULL	NULL	NULL	2	NULL	NULL
+1008291	NULL	NULL	NULL	2	NULL	NULL
+1008292	NULL	NULL	NULL	2	NULL	NULL
+1008293	NULL	NULL	NULL	2	NULL	NULL
+1008294	NULL	NULL	NULL	2	NULL	NULL
+1008295	NULL	NULL	NULL	5	NULL	NULL
+1008296	NULL	NULL	NULL	2	NULL	NULL
+1008297	NULL	NULL	NULL	2	NULL	NULL
+1008298	NULL	NULL	NULL	5	NULL	NULL
+1008301	NULL	NULL	NULL	2	NULL	NULL
+1008302	NULL	NULL	NULL	2	NULL	NULL
+1008303	NULL	NULL	NULL	4	NULL	NULL
+1008304	NULL	NULL	NULL	2	NULL	NULL
+1008305	NULL	NULL	NULL	2	NULL	NULL
+1008306	NULL	NULL	NULL	2	NULL	NULL
+1008308	NULL	NULL	NULL	3	NULL	NULL
+1008309	NULL	NULL	NULL	2	NULL	NULL
+1008312	NULL	NULL	NULL	3	NULL	NULL
+1008314	NULL	NULL	NULL	2	NULL	NULL
+1008315	NULL	NULL	NULL	5	NULL	NULL
+1008316	NULL	NULL	NULL	6	NULL	NULL
+1008317	NULL	NULL	NULL	3	NULL	NULL
+1008318	NULL	NULL	NULL	2	NULL	NULL
+1008321	NULL	NULL	NULL	2	NULL	NULL
+1008322	NULL	NULL	NULL	8	NULL	NULL
+1008324	NULL	NULL	NULL	2	NULL	NULL
+1008325	NULL	NULL	NULL	4	NULL	NULL
+1008326	NULL	NULL	NULL	3	NULL	NULL
+1008329	NULL	NULL	NULL	2	NULL	NULL
+1008330	NULL	NULL	NULL	2	NULL	NULL
+1008332	NULL	NULL	NULL	6	NULL	NULL
+1008333	NULL	NULL	NULL	2	NULL	NULL
+1008335	NULL	NULL	NULL	3	NULL	NULL
+1008336	NULL	NULL	NULL	23	NULL	NULL
+1008338	NULL	NULL	NULL	2	NULL	NULL
+1008340	NULL	NULL	NULL	4	NULL	NULL
+1008342	NULL	NULL	NULL	2	NULL	NULL
+1008343	NULL	NULL	NULL	4	NULL	NULL
+1008345	NULL	NULL	NULL	2	NULL	NULL
+1008347	NULL	NULL	NULL	2	NULL	NULL
+1008350	NULL	NULL	NULL	2	NULL	NULL
+1008351	NULL	NULL	NULL	2	NULL	NULL
+1008352	NULL	NULL	NULL	5	NULL	NULL
+1008353	NULL	NULL	NULL	2	NULL	NULL
+1008355	NULL	NULL	NULL	2	NULL	NULL
+1008358	NULL	NULL	NULL	2	NULL	NULL
+1008364	NULL	NULL	NULL	2	NULL	NULL
+1008365	NULL	NULL	NULL	2	NULL	NULL
+1008367	NULL	NULL	NULL	2	NULL	NULL
+1008368	NULL	NULL	NULL	9	NULL	NULL
+1008369	NULL	NULL	NULL	12	NULL	NULL
+1008370	NULL	NULL	NULL	4	NULL	NULL
+1008372	NULL	NULL	NULL	2	NULL	NULL
+1008373	NULL	NULL	NULL	2	NULL	NULL
+1008376	NULL	NULL	NULL	2	NULL	NULL
+1008377	NULL	NULL	NULL	3	NULL	NULL
+1008378	NULL	NULL	NULL	2	NULL	NULL
+1008381	NULL	NULL	NULL	2	NULL	NULL
+1008382	NULL	NULL	NULL	2	NULL	NULL
+1008383	NULL	NULL	NULL	2	NULL	NULL
+1008385	NULL	NULL	NULL	2	NULL	NULL
+1008386	NULL	NULL	NULL	2	NULL	NULL
+1008387	NULL	NULL	NULL	3	NULL	NULL
+1008388	NULL	NULL	NULL	3	NULL	NULL
+1008389	NULL	NULL	NULL	5	NULL	NULL
+1008390	NULL	NULL	NULL	2	NULL	NULL
+1008392	NULL	NULL	NULL	2	NULL	NULL
+1008394	NULL	NULL	NULL	2	NULL	NULL
+1008395	NULL	NULL	NULL	2	NULL	NULL
+1008396	NULL	NULL	NULL	2	NULL	NULL
+1008401	NULL	NULL	NULL	2	NULL	NULL
+1008403	NULL	NULL	NULL	2	NULL	NULL
+1008406	NULL	NULL	NULL	2	NULL	NULL
+1008409	NULL	NULL	NULL	2	NULL	NULL
+1008416	NULL	NULL	NULL	3	NULL	NULL
+1008418	NULL	NULL	NULL	3	NULL	NULL
+1008419	NULL	NULL	NULL	2	NULL	NULL
+1008421	NULL	NULL	NULL	3	NULL	NULL
+1008422	NULL	NULL	NULL	2	NULL	NULL
+1008424	NULL	NULL	NULL	4	NULL	NULL
+1008425	NULL	NULL	NULL	2	NULL	NULL
+1008428	NULL	NULL	NULL	3	NULL	NULL
+1008429	NULL	NULL	NULL	6	NULL	NULL
+1008431	NULL	NULL	NULL	2	NULL	NULL
+1008433	NULL	NULL	NULL	3	NULL	NULL
+1008434	NULL	NULL	NULL	2	NULL	NULL
+1008435	NULL	NULL	NULL	4	NULL	NULL
+1008436	NULL	NULL	NULL	2	NULL	NULL
+1008438	NULL	NULL	NULL	2	NULL	NULL
+1008439	NULL	NULL	NULL	2	NULL	NULL
+1008440	NULL	NULL	NULL	2	NULL	NULL
+1008441	NULL	NULL	NULL	2	NULL	NULL
+1008444	NULL	NULL	NULL	2	NULL	NULL
+1008445	NULL	NULL	NULL	2	NULL	NULL
+1008447	NULL	NULL	NULL	2	NULL	NULL
+1008448	NULL	NULL	NULL	3	NULL	NULL
+1008449	NULL	NULL	NULL	2	NULL	NULL
+1008450	NULL	NULL	NULL	2	NULL	NULL
+1008451	NULL	NULL	NULL	2	NULL	NULL
+1008452	NULL	NULL	NULL	2	NULL	NULL
+1008453	NULL	NULL	NULL	3	NULL	NULL
+1008454	NULL	NULL	NULL	2	NULL	NULL
+1008457	NULL	NULL	NULL	2	NULL	NULL
+1008458	NULL	NULL	NULL	2	NULL	NULL
+1008462	NULL	NULL	NULL	2	NULL	NULL
+1008464	NULL	NULL	NULL	2	NULL	NULL
+1008465	NULL	NULL	NULL	2	NULL	NULL
+1008466	NULL	NULL	NULL	2	NULL	NULL
+1008467	NULL	NULL	NULL	2	NULL	NULL
+1008469	NULL	NULL	NULL	2	NULL	NULL
+1008470	NULL	NULL	NULL	2	NULL	NULL
+1008471	NULL	NULL	NULL	4	NULL	NULL
+1008472	NULL	NULL	NULL	9	NULL	NULL
+1008474	NULL	NULL	NULL	2	NULL	NULL
+1008476	NULL	NULL	NULL	3	NULL	NULL
+1008477	NULL	NULL	NULL	2	NULL	NULL
+1008479	NULL	NULL	NULL	2	NULL	NULL
+1008480	NULL	NULL	NULL	2	NULL	NULL
+1008481	NULL	NULL	NULL	2	NULL	NULL
+1008482	NULL	NULL	NULL	2	NULL	NULL
+1008484	NULL	NULL	NULL	2	NULL	NULL
+1008485	NULL	NULL	NULL	7	NULL	NULL
+1008486	NULL	NULL	NULL	2	NULL	NULL
+1008487	NULL	NULL	NULL	2	NULL	NULL
+1008488	NULL	NULL	NULL	2	NULL	NULL
+1008493	NULL	NULL	NULL	4	NULL	NULL
+1008494	NULL	NULL	NULL	3	NULL	NULL
+1008496	NULL	NULL	NULL	3	NULL	NULL
+1008497	NULL	NULL	NULL	2	NULL	NULL
+1008498	NULL	NULL	NULL	2	NULL	NULL
+1008500	NULL	NULL	NULL	4	NULL	NULL
+1008501	NULL	NULL	NULL	4	NULL	NULL
+1008502	NULL	NULL	NULL	2	NULL	NULL
+1008503	NULL	NULL	NULL	2	NULL	NULL
+1008504	NULL	NULL	NULL	4	NULL	NULL
+1008505	NULL	NULL	NULL	2	NULL	NULL
+1008508	NULL	NULL	NULL	2	NULL	NULL
+1008509	NULL	NULL	NULL	3	NULL	NULL
+1008510	NULL	NULL	NULL	3	NULL	NULL
+1008511	NULL	NULL	NULL	2	NULL	NULL
+1008513	NULL	NULL	NULL	2	NULL	NULL
+1008514	NULL	NULL	NULL	3	NULL	NULL
+1008515	NULL	NULL	NULL	2	NULL	NULL
+1008516	NULL	NULL	NULL	14	NULL	NULL
+1008518	NULL	NULL	NULL	2	NULL	NULL
+1008519	NULL	NULL	NULL	2	NULL	NULL
+1008520	NULL	NULL	NULL	3	NULL	NULL
+1008521	NULL	NULL	NULL	3	NULL	NULL
+1008522	NULL	NULL	NULL	4	NULL	NULL
+1008523	NULL	NULL	NULL	2	NULL	NULL
+1008524	NULL	NULL	NULL	4	NULL	NULL
+1008525	NULL	NULL	NULL	3	NULL	NULL
+1008527	NULL	NULL	NULL	2	NULL	NULL
+1008528	NULL	NULL	NULL	2	NULL	NULL
+1008529	NULL	NULL	NULL	3	NULL	NULL
+1008530	NULL	NULL	NULL	2	NULL	NULL
+1008531	NULL	NULL	NULL	3	NULL	NULL
+1008532	NULL	NULL	NULL	2	NULL	NULL
+1008533	NULL	NULL	NULL	3	NULL	NULL
+1008534	NULL	NULL	NULL	2	NULL	NULL
+1008535	NULL	NULL	NULL	3	NULL	NULL
+1008536	NULL	NULL	NULL	2	NULL	NULL
+1008538	NULL	NULL	NULL	2	NULL	NULL
+1008539	NULL	NULL	NULL	3	NULL	NULL
+1008540	NULL	NULL	NULL	2	NULL	NULL
+1008541	NULL	NULL	NULL	2	NULL	NULL
+1008542	NULL	NULL	NULL	2	NULL	NULL
+1008543	NULL	NULL	NULL	2	NULL	NULL
+1008544	NULL	NULL	NULL	2	NULL	NULL
+1008545	NULL	NULL	NULL	5	NULL	NULL
+1008546	NULL	NULL	NULL	2	NULL	NULL
+1008547	NULL	NULL	NULL	3	NULL	NULL
+1008551	NULL	NULL	NULL	2	NULL	NULL
+1008552	NULL	NULL	NULL	2	NULL	NULL
+1008553	NULL	NULL	NULL	2	NULL	NULL
+1008554	NULL	NULL	NULL	2	NULL	NULL
+1008555	NULL	NULL	NULL	3	NULL	NULL
+1008556	NULL	NULL	NULL	4	NULL	NULL
+1008557	NULL	NULL	NULL	2	NULL	NULL
+1008558	NULL	NULL	NULL	2	NULL	NULL
+1008559	NULL	NULL	NULL	2	NULL	NULL
+1008562	NULL	NULL	NULL	2	NULL	NULL
+1008563	NULL	NULL	NULL	2	NULL	NULL
+1008565	NULL	NULL	NULL	2	NULL	NULL
+1008566	NULL	NULL	NULL	2	NULL	NULL
+1008567	NULL	NULL	NULL	2	NULL	NULL
+1008568	NULL	NULL	NULL	2	NULL	NULL
+1008569	NULL	NULL	NULL	2	NULL	NULL
+1008570	NULL	NULL	NULL	2	NULL	NULL
+1008576	NULL	NULL	NULL	2	NULL	NULL
+1008577	NULL	NULL	NULL	2	NULL	NULL
+1008581	NULL	NULL	NULL	2	NULL	NULL
+1008584	NULL	NULL	NULL	2	NULL	NULL
+1008585	NULL	NULL	NULL	2	NULL	NULL
+1008586	NULL	NULL	NULL	2	NULL	NULL
+1008588	NULL	NULL	NULL	2	NULL	NULL
+1008589	NULL	NULL	NULL	4	NULL	NULL
+1008590	NULL	NULL	NULL	8	NULL	NULL
+1008591	NULL	NULL	NULL	9	NULL	NULL
+1008595	NULL	NULL	NULL	9	NULL	NULL
+1008596	NULL	NULL	NULL	23	NULL	NULL
+1008597	NULL	NULL	NULL	2	NULL	NULL
+1008598	NULL	NULL	NULL	2	NULL	NULL
+1008602	NULL	NULL	NULL	5	NULL	NULL
+1008604	NULL	NULL	NULL	2	NULL	NULL
+1008605	NULL	NULL	NULL	6	NULL	NULL
+1008606	NULL	NULL	NULL	6	NULL	NULL
+1008607	NULL	NULL	NULL	2	NULL	NULL
+1008609	NULL	NULL	NULL	2	NULL	NULL
+1008615	NULL	NULL	NULL	2	NULL	NULL
+1008619	NULL	NULL	NULL	2	NULL	NULL
+1008621	NULL	NULL	NULL	2	NULL	NULL
+1008624	NULL	NULL	NULL	2	NULL	NULL
+1008625	NULL	NULL	NULL	2	NULL	NULL
+1008626	NULL	NULL	NULL	2	NULL	NULL
+1008627	NULL	NULL	NULL	3	NULL	NULL
+1008628	NULL	NULL	NULL	2	NULL	NULL
+1008629	NULL	NULL	NULL	2	NULL	NULL
+1008630	NULL	NULL	NULL	2	NULL	NULL
+1008631	NULL	NULL	NULL	2	NULL	NULL
+1008633	NULL	NULL	NULL	2	NULL	NULL
+1008634	NULL	NULL	NULL	4	NULL	NULL
+1008635	NULL	NULL	NULL	5	NULL	NULL
+1008636	NULL	NULL	NULL	3	NULL	NULL
+1008637	NULL	NULL	NULL	4	NULL	NULL
+1008638	NULL	NULL	NULL	11	NULL	NULL
+1008640	NULL	NULL	NULL	2	NULL	NULL
+1008641	NULL	NULL	NULL	2	NULL	NULL
+1008642	NULL	NULL	NULL	2	NULL	NULL
+1008643	NULL	NULL	NULL	2	NULL	NULL
+1008644	NULL	NULL	NULL	2	NULL	NULL
+1008645	NULL	NULL	NULL	2	NULL	NULL
+1008646	NULL	NULL	NULL	3	NULL	NULL
+1008648	NULL	NULL	NULL	2	NULL	NULL
+1008649	NULL	NULL	NULL	2	NULL	NULL
+1008650	NULL	NULL	NULL	13	NULL	NULL
+1008651	NULL	NULL	NULL	2	NULL	NULL
+1008653	NULL	NULL	NULL	2	NULL	NULL
+1008654	NULL	NULL	NULL	2	NULL	NULL
+1008655	NULL	NULL	NULL	2	NULL	NULL
+1008658	NULL	NULL	NULL	3	NULL	NULL
+1008660	NULL	NULL	NULL	3	NULL	NULL
+1008664	NULL	NULL	NULL	2	NULL	NULL
+1008665	NULL	NULL	NULL	3	NULL	NULL
+1008666	NULL	NULL	NULL	2	NULL	NULL
+1008669	NULL	NULL	NULL	2	NULL	NULL
+1008671	NULL	NULL	NULL	28	NULL	NULL
+1008672	NULL	NULL	NULL	6	NULL	NULL
+1008673	NULL	NULL	NULL	2	NULL	NULL
+1008674	NULL	NULL	NULL	2	NULL	NULL
+1008675	NULL	NULL	NULL	2	NULL	NULL
+1008676	NULL	NULL	NULL	2	NULL	NULL
+1008677	NULL	NULL	NULL	2	NULL	NULL
+1008678	NULL	NULL	NULL	2	NULL	NULL
+1008679	NULL	NULL	NULL	2	NULL	NULL
+1008680	NULL	NULL	NULL	4	NULL	NULL
+1008681	NULL	NULL	NULL	2	NULL	NULL
+1008682	NULL	NULL	NULL	3	NULL	NULL
+1008683	NULL	NULL	NULL	6	NULL	NULL
+1008684	NULL	NULL	NULL	7	NULL	NULL
+1008685	NULL	NULL	NULL	3	NULL	NULL
+1008686	NULL	NULL	NULL	3	NULL	NULL
+1008688	NULL	NULL	NULL	4	NULL	NULL
+1008689	NULL	NULL	NULL	2	NULL	NULL
+1008691	NULL	NULL	NULL	12	NULL	NULL
+1008694	NULL	NULL	NULL	2	NULL	NULL
+1008695	NULL	NULL	NULL	6	NULL	NULL
+1008696	NULL	NULL	NULL	4	NULL	NULL
+1008699	NULL	NULL	NULL	2	NULL	NULL
+1008703	NULL	NULL	NULL	2	NULL	NULL
+1008704	NULL	NULL	NULL	2	NULL	NULL
+1008705	NULL	NULL	NULL	2	NULL	NULL
+1008706	NULL	NULL	NULL	2	NULL	NULL
+1008707	NULL	NULL	NULL	4	NULL	NULL
+1008709	NULL	NULL	NULL	2	NULL	NULL
+1008710	NULL	NULL	NULL	2	NULL	NULL
+1008711	NULL	NULL	NULL	2	NULL	NULL
+1008713	NULL	NULL	NULL	2	NULL	NULL
+1008714	NULL	NULL	NULL	2	NULL	NULL
+1008715	NULL	NULL	NULL	2	NULL	NULL
+1008717	NULL	NULL	NULL	6	NULL	NULL
+1008719	NULL	NULL	NULL	2	NULL	NULL
+1008720	NULL	NULL	NULL	3	NULL	NULL
+1008721	NULL	NULL	NULL	10	NULL	NULL
+1008723	NULL	NULL	NULL	2	NULL	NULL
+1008725	NULL	NULL	NULL	2	NULL	NULL
+1008726	NULL	NULL	NULL	3	NULL	NULL
+1008728	NULL	NULL	NULL	2	NULL	NULL
+1008729	NULL	NULL	NULL	2	NULL	NULL
+1008730	NULL	NULL	NULL	2	NULL	NULL
+1008731	NULL	NULL	NULL	2	NULL	NULL
+1008732	NULL	NULL	NULL	4	NULL	NULL
+1008733	NULL	NULL	NULL	2	NULL	NULL
+1008734	NULL	NULL	NULL	2	NULL	NULL
+1008736	NULL	NULL	NULL	2	NULL	NULL
+1008737	NULL	NULL	NULL	2	NULL	NULL
+1008738	NULL	NULL	NULL	2	NULL	NULL
+1008740	NULL	NULL	NULL	2	NULL	NULL
+1008741	NULL	NULL	NULL	2	NULL	NULL
+1008743	NULL	NULL	NULL	2	NULL	NULL
+1008744	NULL	NULL	NULL	2	NULL	NULL
+1008746	NULL	NULL	NULL	3	NULL	NULL
+1008748	NULL	NULL	NULL	3	NULL	NULL
+1008750	NULL	NULL	NULL	2	NULL	NULL
+1008751	NULL	NULL	NULL	2	NULL	NULL
+1008752	NULL	NULL	NULL	2	NULL	NULL
+1008753	NULL	NULL	NULL	2	NULL	NULL
+1008754	NULL	NULL	NULL	2	NULL	NULL
+1008755	NULL	NULL	NULL	3	NULL	NULL
+1008757	NULL	NULL	NULL	3	NULL	NULL
+1008758	NULL	NULL	NULL	8	NULL	NULL
+1008759	NULL	NULL	NULL	2	NULL	NULL
+1008760	NULL	NULL	NULL	2	NULL	NULL
+1008761	NULL	NULL	NULL	2	NULL	NULL
+1008762	NULL	NULL	NULL	3	NULL	NULL
+1008763	NULL	NULL	NULL	4	NULL	NULL
+1008765	NULL	NULL	NULL	2	NULL	NULL
+1008766	NULL	NULL	NULL	2	NULL	NULL
+1008767	NULL	NULL	NULL	2	NULL	NULL
+1008768	NULL	NULL	NULL	2	NULL	NULL
+1008769	NULL	NULL	NULL	2	NULL	NULL
+1008771	NULL	NULL	NULL	2	NULL	NULL
+1008772	NULL	NULL	NULL	2	NULL	NULL
+1008774	NULL	NULL	NULL	3	NULL	NULL
+1008775	NULL	NULL	NULL	2	NULL	NULL
+1008776	NULL	NULL	NULL	2	NULL	NULL
+1008779	NULL	NULL	NULL	3	NULL	NULL
+1008780	NULL	NULL	NULL	2	NULL	NULL
+1008781	NULL	NULL	NULL	2	NULL	NULL
+1008783	NULL	NULL	NULL	2	NULL	NULL
+1008785	NULL	NULL	NULL	2	NULL	NULL
+1008786	NULL	NULL	NULL	2	NULL	NULL
+1008788	NULL	NULL	NULL	2	NULL	NULL
+1008789	NULL	NULL	NULL	2	NULL	NULL
+1008791	NULL	NULL	NULL	2	NULL	NULL
+1008792	NULL	NULL	NULL	2	NULL	NULL
+1008793	NULL	NULL	NULL	2	NULL	NULL
+1008796	NULL	NULL	NULL	2	NULL	NULL
+1008798	NULL	NULL	NULL	2	NULL	NULL
+1008799	NULL	NULL	NULL	4	NULL	NULL
+1008800	NULL	NULL	NULL	2	NULL	NULL
+1008801	NULL	NULL	NULL	4	NULL	NULL
+1008802	NULL	NULL	NULL	3	NULL	NULL
+1008804	NULL	NULL	NULL	2	NULL	NULL
+1008806	NULL	NULL	NULL	2	NULL	NULL
+1008807	NULL	NULL	NULL	2	NULL	NULL
+1008808	NULL	NULL	NULL	2	NULL	NULL
+1008809	NULL	NULL	NULL	2	NULL	NULL
+1008810	NULL	NULL	NULL	4	NULL	NULL
+1008811	NULL	NULL	NULL	2	NULL	NULL
+1008812	NULL	NULL	NULL	2	NULL	NULL
+1008813	NULL	NULL	NULL	2	NULL	NULL
+1008814	NULL	NULL	NULL	3	NULL	NULL
+1008815	NULL	NULL	NULL	2	NULL	NULL
+1008816	NULL	NULL	NULL	2	NULL	NULL
+1008818	NULL	NULL	NULL	2	NULL	NULL
+1008819	NULL	NULL	NULL	2	NULL	NULL
+1008821	NULL	NULL	NULL	2	NULL	NULL
+1008822	NULL	NULL	NULL	5	NULL	NULL
+1008823	NULL	NULL	NULL	2	NULL	NULL
+1008824	NULL	NULL	NULL	2	NULL	NULL
+1008825	NULL	NULL	NULL	2	NULL	NULL
+1008826	NULL	NULL	NULL	2	NULL	NULL
+1008827	NULL	NULL	NULL	2	NULL	NULL
+1008828	NULL	NULL	NULL	2	NULL	NULL
+1008829	NULL	NULL	NULL	2	NULL	NULL
+1008830	NULL	NULL	NULL	2	NULL	NULL
+1008831	NULL	NULL	NULL	2	NULL	NULL
+1008832	NULL	NULL	NULL	2	NULL	NULL
+1008833	NULL	NULL	NULL	3	NULL	NULL
+1008834	NULL	NULL	NULL	3	NULL	NULL
+1008835	NULL	NULL	NULL	2	NULL	NULL
+1008837	NULL	NULL	NULL	10	NULL	NULL
+1008838	NULL	NULL	NULL	2	NULL	NULL
+1008840	NULL	NULL	NULL	3	NULL	NULL
+1008841	NULL	NULL	NULL	2	NULL	NULL
+1008843	NULL	NULL	NULL	2	NULL	NULL
+1008845	NULL	NULL	NULL	2	NULL	NULL
+1008846	NULL	NULL	NULL	2	NULL	NULL
+1008847	NULL	NULL	NULL	2	NULL	NULL
+1008848	NULL	NULL	NULL	2	NULL	NULL
+1008849	NULL	NULL	NULL	2	NULL	NULL
+1008850	NULL	NULL	NULL	2	NULL	NULL
+1008851	NULL	NULL	NULL	2	NULL	NULL
+1008852	NULL	NULL	NULL	4	NULL	NULL
+1008853	NULL	NULL	NULL	2	NULL	NULL
+1008854	NULL	NULL	NULL	2	NULL	NULL
+1008856	NULL	NULL	NULL	2	NULL	NULL
+1008859	NULL	NULL	NULL	2	NULL	NULL
+1008860	NULL	NULL	NULL	2	NULL	NULL
+1008861	NULL	NULL	NULL	2	NULL	NULL
+1008862	NULL	NULL	NULL	4	NULL	NULL
+1008863	NULL	NULL	NULL	3	NULL	NULL
+1008864	NULL	NULL	NULL	4	NULL	NULL
+1008866	NULL	NULL	NULL	4	NULL	NULL
+1008867	NULL	NULL	NULL	2	NULL	NULL
+1008868	NULL	NULL	NULL	2	NULL	NULL
+1008870	NULL	NULL	NULL	2	NULL	NULL
+1008871	NULL	NULL	NULL	3	NULL	NULL
+1008872	NULL	NULL	NULL	2	NULL	NULL
+1008873	NULL	NULL	NULL	3	NULL	NULL
+1008874	NULL	NULL	NULL	2	NULL	NULL
+1008876	NULL	NULL	NULL	5	NULL	NULL
+1008877	NULL	NULL	NULL	2	NULL	NULL
+1008878	NULL	NULL	NULL	7	NULL	NULL
+1008879	NULL	NULL	NULL	2	NULL	NULL
+1008880	NULL	NULL	NULL	7	NULL	NULL
+1008881	NULL	NULL	NULL	3	NULL	NULL
+1008884	NULL	NULL	NULL	2	NULL	NULL
+1008885	NULL	NULL	NULL	3	NULL	NULL
+1008886	NULL	NULL	NULL	2	NULL	NULL
+1008887	NULL	NULL	NULL	2	NULL	NULL
+1008891	NULL	NULL	NULL	2	NULL	NULL
+1008892	NULL	NULL	NULL	2	NULL	NULL
+1008893	NULL	NULL	NULL	2	NULL	NULL
+1008894	NULL	NULL	NULL	2	NULL	NULL
+1008897	NULL	NULL	NULL	2	NULL	NULL
+1008898	NULL	NULL	NULL	8	NULL	NULL
+1008899	NULL	NULL	NULL	4	NULL	NULL
+1008900	NULL	NULL	NULL	2	NULL	NULL
+1008902	NULL	NULL	NULL	2	NULL	NULL
+1008904	NULL	NULL	NULL	29	NULL	NULL
+1008906	NULL	NULL	NULL	2	NULL	NULL
+1008907	NULL	NULL	NULL	3	NULL	NULL
+1008908	NULL	NULL	NULL	2	NULL	NULL
+1008910	NULL	NULL	NULL	4	NULL	NULL
+1008911	NULL	NULL	NULL	2	NULL	NULL
+1008913	NULL	NULL	NULL	3	NULL	NULL
+1008915	NULL	NULL	NULL	2	NULL	NULL
+1008916	NULL	NULL	NULL	2	NULL	NULL
+1008917	NULL	NULL	NULL	2	NULL	NULL
+1008918	NULL	NULL	NULL	2	NULL	NULL
+1008919	NULL	NULL	NULL	2	NULL	NULL
+1008921	NULL	NULL	NULL	3	NULL	NULL
+1008922	NULL	NULL	NULL	2	NULL	NULL
+1008923	NULL	NULL	NULL	2	NULL	NULL
+1008924	NULL	NULL	NULL	2	NULL	NULL
+1008925	NULL	NULL	NULL	2	NULL	NULL
+1008926	NULL	NULL	NULL	2	NULL	NULL
+1008927	NULL	NULL	NULL	2	NULL	NULL
+1008929	NULL	NULL	NULL	9	NULL	NULL
+1008930	NULL	NULL	NULL	2	NULL	NULL
+1008931	NULL	NULL	NULL	2	NULL	NULL
+1008933	NULL	NULL	NULL	2	NULL	NULL
+1008934	NULL	NULL	NULL	2	NULL	NULL
+1008935	NULL	NULL	NULL	2	NULL	NULL
+1008936	NULL	NULL	NULL	2	NULL	NULL
+1008937	NULL	NULL	NULL	3	NULL	NULL
+1008938	NULL	NULL	NULL	2	NULL	NULL
+1008939	NULL	NULL	NULL	2	NULL	NULL
+1008940	NULL	NULL	NULL	2	NULL	NULL
+1008941	NULL	NULL	NULL	2	NULL	NULL
+1008942	NULL	NULL	NULL	2	NULL	NULL
+1008944	NULL	NULL	NULL	2	NULL	NULL
+1008945	NULL	NULL	NULL	2	NULL	NULL
+1008946	NULL	NULL	NULL	5	NULL	NULL
+1008947	NULL	NULL	NULL	3	NULL	NULL
+1008948	NULL	NULL	NULL	58	NULL	NULL
+1008949	NULL	NULL	NULL	7	NULL	NULL
+1008950	NULL	NULL	NULL	2	NULL	NULL
+1008951	NULL	NULL	NULL	6	NULL	NULL
+1008952	NULL	NULL	NULL	2	NULL	NULL
+1008953	NULL	NULL	NULL	2	NULL	NULL
+1008955	NULL	NULL	NULL	3	NULL	NULL
+1008956	NULL	NULL	NULL	8	NULL	NULL
+1008957	NULL	NULL	NULL	5	NULL	NULL
+1008958	NULL	NULL	NULL	2	NULL	NULL
+1008960	NULL	NULL	NULL	2	NULL	NULL
+1008964	NULL	NULL	NULL	2	NULL	NULL
+1008965	NULL	NULL	NULL	4	NULL	NULL
+1008966	NULL	NULL	NULL	13	NULL	NULL
+1008967	NULL	NULL	NULL	39	NULL	NULL
+1008969	NULL	NULL	NULL	2	NULL	NULL
+1008972	NULL	NULL	NULL	2	NULL	NULL
+1008974	NULL	NULL	NULL	2	NULL	NULL
+1008975	NULL	NULL	NULL	3	NULL	NULL
+1008976	NULL	NULL	NULL	3	NULL	NULL
+1008979	NULL	NULL	NULL	2	NULL	NULL
+1008980	NULL	NULL	NULL	7	NULL	NULL
+1008981	NULL	NULL	NULL	4	NULL	NULL
+1008982	NULL	NULL	NULL	2	NULL	NULL
+1008985	NULL	NULL	NULL	2	NULL	NULL
+1008986	NULL	NULL	NULL	2	NULL	NULL
+1008987	NULL	NULL	NULL	2	NULL	NULL
+1008988	NULL	NULL	NULL	3	NULL	NULL
+1008989	NULL	NULL	NULL	2	NULL	NULL
+1008990	NULL	NULL	NULL	2	NULL	NULL
+1008991	NULL	NULL	NULL	12	NULL	NULL
+1008992	NULL	NULL	NULL	2	NULL	NULL
+1008993	NULL	NULL	NULL	2	NULL	NULL
+1008994	NULL	NULL	NULL	4	NULL	NULL
+1008996	NULL	NULL	NULL	2	NULL	NULL
+1008997	NULL	NULL	NULL	3	NULL	NULL
+1008998	NULL	NULL	NULL	2	NULL	NULL
+1008999	NULL	NULL	NULL	2	NULL	NULL
+1009000	NULL	NULL	NULL	2	NULL	NULL
+1009001	NULL	NULL	NULL	2	NULL	NULL
+1009003	NULL	NULL	NULL	2	NULL	NULL
+1009004	NULL	NULL	NULL	2	NULL	NULL
+1009006	NULL	NULL	NULL	2	NULL	NULL
+1009007	NULL	NULL	NULL	6	NULL	NULL
+1009009	NULL	NULL	NULL	5	NULL	NULL
+1009010	NULL	NULL	NULL	2	NULL	NULL
+1009011	NULL	NULL	NULL	2	NULL	NULL
+1009012	NULL	NULL	NULL	5	NULL	NULL
+1009013	NULL	NULL	NULL	5	NULL	NULL
+1009015	NULL	NULL	NULL	2	NULL	NULL
+1009016	NULL	NULL	NULL	2	NULL	NULL
+1009018	NULL	NULL	NULL	2	NULL	NULL
+1009021	NULL	NULL	NULL	2	NULL	NULL
+1009022	NULL	NULL	NULL	2	NULL	NULL
+1009023	NULL	NULL	NULL	3	NULL	NULL
+1009024	NULL	NULL	NULL	2	NULL	NULL
+1009027	NULL	NULL	NULL	3	NULL	NULL
+1009028	NULL	NULL	NULL	2	NULL	NULL
+1009029	NULL	NULL	NULL	2	NULL	NULL
+1009030	NULL	NULL	NULL	2	NULL	NULL
+1009032	NULL	NULL	NULL	43	NULL	NULL
+1009033	NULL	NULL	NULL	2	NULL	NULL
+1009034	NULL	NULL	NULL	3	NULL	NULL
+1009035	NULL	NULL	NULL	2	NULL	NULL
+1009036	NULL	NULL	NULL	2	NULL	NULL
+1009037	NULL	NULL	NULL	2	NULL	NULL
+1009038	NULL	NULL	NULL	5	NULL	NULL
+1009039	NULL	NULL	NULL	2	NULL	NULL
+1009040	NULL	NULL	NULL	12	NULL	NULL
+1009042	NULL	NULL	NULL	2	NULL	NULL
+1009044	NULL	NULL	NULL	5	NULL	NULL
+1009045	NULL	NULL	NULL	2	NULL	NULL
+1009047	NULL	NULL	NULL	2	NULL	NULL
+1009048	NULL	NULL	NULL	13	NULL	NULL
+1009049	NULL	NULL	NULL	2	NULL	NULL
+1009051	NULL	NULL	NULL	22	NULL	NULL
+1009053	NULL	NULL	NULL	2	NULL	NULL
+1009055	NULL	NULL	NULL	3	NULL	NULL
+1009056	NULL	NULL	NULL	4	NULL	NULL
+1009058	NULL	NULL	NULL	2	NULL	NULL
+1009059	NULL	NULL	NULL	2	NULL	NULL
+1009060	NULL	NULL	NULL	2	NULL	NULL
+1009061	NULL	NULL	NULL	2	NULL	NULL
+1009062	NULL	NULL	NULL	6	NULL	NULL
+1009063	NULL	NULL	NULL	4	NULL	NULL
+1009064	NULL	NULL	NULL	3	NULL	NULL
+1009065	NULL	NULL	NULL	2	NULL	NULL
+1009066	NULL	NULL	NULL	2	NULL	NULL
+1009067	NULL	NULL	NULL	2	NULL	NULL
+1009070	NULL	NULL	NULL	2	NULL	NULL
+1009071	NULL	NULL	NULL	2	NULL	NULL
+1009072	NULL	NULL	NULL	2	NULL	NULL
+1009073	NULL	NULL	NULL	9	NULL	NULL
+1009074	NULL	NULL	NULL	2	NULL	NULL
+1009076	NULL	NULL	NULL	2	NULL	NULL
+1009077	NULL	NULL	NULL	2	NULL	NULL
+1009078	NULL	NULL	NULL	3	NULL	NULL
+1009079	NULL	NULL	NULL	2	NULL	NULL
+1009080	NULL	NULL	NULL	2	NULL	NULL
+1009081	NULL	NULL	NULL	2	NULL	NULL
+1009082	NULL	NULL	NULL	2	NULL	NULL
+1009083	NULL	NULL	NULL	2	NULL	NULL
+1009084	NULL	NULL	NULL	2	NULL	NULL
+1009086	NULL	NULL	NULL	11	NULL	NULL
+1009087	NULL	NULL	NULL	2	NULL	NULL
+1009090	NULL	NULL	NULL	15	NULL	NULL
+1009091	NULL	NULL	NULL	5	NULL	NULL
+1009092	NULL	NULL	NULL	3	NULL	NULL
+1009093	NULL	NULL	NULL	2	NULL	NULL
+1009094	NULL	NULL	NULL	2	NULL	NULL
+1009095	NULL	NULL	NULL	3	NULL	NULL
+1009096	NULL	NULL	NULL	2	NULL	NULL
+1009098	NULL	NULL	NULL	2	NULL	NULL
+1009099	NULL	NULL	NULL	7	NULL	NULL
+1009101	NULL	NULL	NULL	2	NULL	NULL
+1009103	NULL	NULL	NULL	3	NULL	NULL
+1009104	NULL	NULL	NULL	2	NULL	NULL
+1009105	NULL	NULL	NULL	4	NULL	NULL
+1009106	NULL	NULL	NULL	2	NULL	NULL
+1009109	NULL	NULL	NULL	2	NULL	NULL
+1009110	NULL	NULL	NULL	6	NULL	NULL
+1009112	NULL	NULL	NULL	9	NULL	NULL
+1009113	NULL	NULL	NULL	2	NULL	NULL
+1009114	NULL	NULL	NULL	25	NULL	NULL
+1009115	NULL	NULL	NULL	2	NULL	NULL
+1009116	NULL	NULL	NULL	6	NULL	NULL
+1009119	NULL	NULL	NULL	2	NULL	NULL
+1009120	NULL	NULL	NULL	2	NULL	NULL
+1009121	NULL	NULL	NULL	4	NULL	NULL
+1009122	NULL	NULL	NULL	6	NULL	NULL
+1009124	NULL	NULL	NULL	2	NULL	NULL
+1009125	NULL	NULL	NULL	10	NULL	NULL
+1009126	NULL	NULL	NULL	2	NULL	NULL
+1009127	NULL	NULL	NULL	2	NULL	NULL
+1009132	NULL	NULL	NULL	3	NULL	NULL
+1009133	NULL	NULL	NULL	3	NULL	NULL
+1009134	NULL	NULL	NULL	2	NULL	NULL
+1009135	NULL	NULL	NULL	2	NULL	NULL
+1009136	NULL	NULL	NULL	4	NULL	NULL
+1009138	NULL	NULL	NULL	2	NULL	NULL
+1009141	NULL	NULL	NULL	3	NULL	NULL
+1009142	NULL	NULL	NULL	3	NULL	NULL
+1009143	NULL	NULL	NULL	2	NULL	NULL
+1009144	NULL	NULL	NULL	2	NULL	NULL
+1009145	NULL	NULL	NULL	2	NULL	NULL
+1009146	NULL	NULL	NULL	3	NULL	NULL
+1009147	NULL	NULL	NULL	9	NULL	NULL
+1009148	NULL	NULL	NULL	3	NULL	NULL
+1009149	NULL	NULL	NULL	3	NULL	NULL
+1009150	NULL	NULL	NULL	2	NULL	NULL
+1009151	NULL	NULL	NULL	5	NULL	NULL
+1009152	NULL	NULL	NULL	2	NULL	NULL
+1009153	NULL	NULL	NULL	4	NULL	NULL
+1009154	NULL	NULL	NULL	2	NULL	NULL
+1009155	NULL	NULL	NULL	2	NULL	NULL
+1009156	NULL	NULL	NULL	4	NULL	NULL
+1009157	NULL	NULL	NULL	2	NULL	NULL
+1009158	NULL	NULL	NULL	2	NULL	NULL
+1009159	NULL	NULL	NULL	2	NULL	NULL
+1009160	NULL	NULL	NULL	2	NULL	NULL
+1009161	NULL	NULL	NULL	2	NULL	NULL
+1009162	NULL	NULL	NULL	2	NULL	NULL
+1009164	NULL	NULL	NULL	2	NULL	NULL
+1009165	NULL	NULL	NULL	2	NULL	NULL
+1009166	NULL	NULL	NULL	2	NULL	NULL
+1009167	NULL	NULL	NULL	3	NULL	NULL
+1009168	NULL	NULL	NULL	4	NULL	NULL
+1009169	NULL	NULL	NULL	2	NULL	NULL
+1009170	NULL	NULL	NULL	5	NULL	NULL
+1009171	NULL	NULL	NULL	3	NULL	NULL
+1009172	NULL	NULL	NULL	2	NULL	NULL
+1009173	NULL	NULL	NULL	2	NULL	NULL
+1009175	NULL	NULL	NULL	2	NULL	NULL
+1009176	NULL	NULL	NULL	2	NULL	NULL
+1009177	NULL	NULL	NULL	4	NULL	NULL
+1009178	NULL	NULL	NULL	2	NULL	NULL
+1009179	NULL	NULL	NULL	2	NULL	NULL
+1009180	NULL	NULL	NULL	2	NULL	NULL
+1009181	NULL	NULL	NULL	6	NULL	NULL
+1009182	NULL	NULL	NULL	6	NULL	NULL
+1009183	NULL	NULL	NULL	2	NULL	NULL
+1009185	NULL	NULL	NULL	2	NULL	NULL
+1009186	NULL	NULL	NULL	6	NULL	NULL
+1009187	NULL	NULL	NULL	10	NULL	NULL
+1009188	NULL	NULL	NULL	7	NULL	NULL
+1009189	NULL	NULL	NULL	5	NULL	NULL
+1009191	NULL	NULL	NULL	2	NULL	NULL
+1009192	NULL	NULL	NULL	2	NULL	NULL
+1009193	NULL	NULL	NULL	2	NULL	NULL
+1009194	NULL	NULL	NULL	2	NULL	NULL
+1009195	NULL	NULL	NULL	8	NULL	NULL
+1009198	NULL	NULL	NULL	4	NULL	NULL
+1009201	NULL	NULL	NULL	44	NULL	NULL
+1009202	NULL	NULL	NULL	3	NULL	NULL
+1009203	NULL	NULL	NULL	2	NULL	NULL
+1009204	NULL	NULL	NULL	2	NULL	NULL
+1009205	NULL	NULL	NULL	2	NULL	NULL
+1009207	NULL	NULL	NULL	2	NULL	NULL
+1009208	NULL	NULL	NULL	3	NULL	NULL
+1009209	NULL	NULL	NULL	2	NULL	NULL
+1009210	NULL	NULL	NULL	3	NULL	NULL
+1009211	NULL	NULL	NULL	3	NULL	NULL
+1009213	NULL	NULL	NULL	2	NULL	NULL
+1009214	NULL	NULL	NULL	2	NULL	NULL
+1009215	NULL	NULL	NULL	2	NULL	NULL
+1009217	NULL	NULL	NULL	2	NULL	NULL
+1009218	NULL	NULL	NULL	2	NULL	NULL
+1009219	NULL	NULL	NULL	3	NULL	NULL
+1009220	NULL	NULL	NULL	2	NULL	NULL
+1009222	NULL	NULL	NULL	2	NULL	NULL
+1009223	NULL	NULL	NULL	2	NULL	NULL
+1009224	NULL	NULL	NULL	2	NULL	NULL
+1009225	NULL	NULL	NULL	2	NULL	NULL
+1009227	NULL	NULL	NULL	11	NULL	NULL
+1009228	NULL	NULL	NULL	2	NULL	NULL
+1009229	NULL	NULL	NULL	2	NULL	NULL
+1009230	NULL	NULL	NULL	3	NULL	NULL
+1009232	NULL	NULL	NULL	2	NULL	NULL
+1009233	NULL	NULL	NULL	2	NULL	NULL
+1009234	NULL	NULL	NULL	2	NULL	NULL
+1009235	NULL	NULL	NULL	2	NULL	NULL
+1009236	NULL	NULL	NULL	2	NULL	NULL
+1009239	NULL	NULL	NULL	4	NULL	NULL
+1009240	NULL	NULL	NULL	2	NULL	NULL
+1009241	NULL	NULL	NULL	7	NULL	NULL
+1009243	NULL	NULL	NULL	2	NULL	NULL
+1009245	NULL	NULL	NULL	8	NULL	NULL
+1009246	NULL	NULL	NULL	4	NULL	NULL
+1009247	NULL	NULL	NULL	2	NULL	NULL
+1009248	NULL	NULL	NULL	2	NULL	NULL
+1009250	NULL	NULL	NULL	2	NULL	NULL
+1009251	NULL	NULL	NULL	2	NULL	NULL
+1009252	NULL	NULL	NULL	2	NULL	NULL
+1009253	NULL	NULL	NULL	3	NULL	NULL
+1009255	NULL	NULL	NULL	2	NULL	NULL
+1009257	NULL	NULL	NULL	63	NULL	NULL
+1009258	NULL	NULL	NULL	2	NULL	NULL
+1009259	NULL	NULL	NULL	2	NULL	NULL
+1009260	NULL	NULL	NULL	2	NULL	NULL
+1009261	NULL	NULL	NULL	2	NULL	NULL
+1009262	NULL	NULL	NULL	16	NULL	NULL
+1009263	NULL	NULL	NULL	2	NULL	NULL
+1009264	NULL	NULL	NULL	2	NULL	NULL
+1009265	NULL	NULL	NULL	2	NULL	NULL
+1009266	NULL	NULL	NULL	6	NULL	NULL
+1009267	NULL	NULL	NULL	5	NULL	NULL
+1009268	NULL	NULL	NULL	2	NULL	NULL
+1009269	NULL	NULL	NULL	8	NULL	NULL
+1009270	NULL	NULL	NULL	3	NULL	NULL
+1009272	NULL	NULL	NULL	3	NULL	NULL
+1009273	NULL	NULL	NULL	2	NULL	NULL
+1009274	NULL	NULL	NULL	2	NULL	NULL
+1009275	NULL	NULL	NULL	67	NULL	NULL
+1009276	NULL	NULL	NULL	3	NULL	NULL
+1009278	NULL	NULL	NULL	19	NULL	NULL
+1009279	NULL	NULL	NULL	2	NULL	NULL
+1009280	NULL	NULL	NULL	2	NULL	NULL
+1009282	NULL	NULL	NULL	2	NULL	NULL
+1009283	NULL	NULL	NULL	2	NULL	NULL
+1009284	NULL	NULL	NULL	2	NULL	NULL
+1009285	NULL	NULL	NULL	2	NULL	NULL
+1009286	NULL	NULL	NULL	2	NULL	NULL
+1009287	NULL	NULL	NULL	3	NULL	NULL
+1009288	NULL	NULL	NULL	4	NULL	NULL
+1009289	NULL	NULL	NULL	2	NULL	NULL
+1009290	NULL	NULL	NULL	2	NULL	NULL
+1009291	NULL	NULL	NULL	5	NULL	NULL
+1009292	NULL	NULL	NULL	2	NULL	NULL
+1009293	NULL	NULL	NULL	3	NULL	NULL
+1009295	NULL	NULL	NULL	2	NULL	NULL
+1009296	NULL	NULL	NULL	2	NULL	NULL
+1009297	NULL	NULL	NULL	76	NULL	NULL
+1009298	NULL	NULL	NULL	2	NULL	NULL
+1009300	NULL	NULL	NULL	2	NULL	NULL
+1009301	NULL	NULL	NULL	13	NULL	NULL
+1009302	NULL	NULL	NULL	9	NULL	NULL
+1009303	NULL	NULL	NULL	25	NULL	NULL
+1009304	NULL	NULL	NULL	6	NULL	NULL
+1009305	NULL	NULL	NULL	9	NULL	NULL
+1009306	NULL	NULL	NULL	17	NULL	NULL
+1009308	NULL	NULL	NULL	29	NULL	NULL
+1009309	NULL	NULL	NULL	4	NULL	NULL
+1009310	NULL	NULL	NULL	4	NULL	NULL
+1009311	NULL	NULL	NULL	5	NULL	NULL
+1009312	NULL	NULL	NULL	4	NULL	NULL
+1009314	NULL	NULL	NULL	4	NULL	NULL
+1009315	NULL	NULL	NULL	3	NULL	NULL
+1009316	NULL	NULL	NULL	10	NULL	NULL
+1009317	NULL	NULL	NULL	11	NULL	NULL
+1009318	NULL	NULL	NULL	4	NULL	NULL
+1009319	NULL	NULL	NULL	22	NULL	NULL
+1009321	NULL	NULL	NULL	19	NULL	NULL
+1009322	NULL	NULL	NULL	20	NULL	NULL
+1009323	NULL	NULL	NULL	19	NULL	NULL
+1009324	NULL	NULL	NULL	17	NULL	NULL
+1009325	NULL	NULL	NULL	10	NULL	NULL
+1009326	NULL	NULL	NULL	18	NULL	NULL
+1009327	NULL	NULL	NULL	3	NULL	NULL
+1009328	NULL	NULL	NULL	4	NULL	NULL
+1009330	NULL	NULL	NULL	19	NULL	NULL
+1009331	NULL	NULL	NULL	17	NULL	NULL
+1009332	NULL	NULL	NULL	8	NULL	NULL
+1009333	NULL	NULL	NULL	9	NULL	NULL
+1009334	NULL	NULL	NULL	6	NULL	NULL
+1009335	NULL	NULL	NULL	9	NULL	NULL
+1009336	NULL	NULL	NULL	6	NULL	NULL
+1009337	NULL	NULL	NULL	4	NULL	NULL
+1009338	NULL	NULL	NULL	4	NULL	NULL
+1009339	NULL	NULL	NULL	6	NULL	NULL
+1009340	NULL	NULL	NULL	17	NULL	NULL
+1009341	NULL	NULL	NULL	17	NULL	NULL
+1009344	NULL	NULL	NULL	15	NULL	NULL
+1009345	NULL	NULL	NULL	17	NULL	NULL
+1009346	NULL	NULL	NULL	13	NULL	NULL
+1009348	NULL	NULL	NULL	24	NULL	NULL
+1009350	NULL	NULL	NULL	10	NULL	NULL
+1009351	NULL	NULL	NULL	6	NULL	NULL
+1009352	NULL	NULL	NULL	7	NULL	NULL
+1009353	NULL	NULL	NULL	23	NULL	NULL
+1009355	NULL	NULL	NULL	5	NULL	NULL
+1009356	NULL	NULL	NULL	16	NULL	NULL
+1009357	NULL	NULL	NULL	3	NULL	NULL
+1009358	NULL	NULL	NULL	4	NULL	NULL
+1009359	NULL	NULL	NULL	9	NULL	NULL
+1009360	NULL	NULL	NULL	5	NULL	NULL
+1009361	NULL	NULL	NULL	6	NULL	NULL
+1009362	NULL	NULL	NULL	8	NULL	NULL
+1009363	NULL	NULL	NULL	6	NULL	NULL
+1009364	NULL	NULL	NULL	3	NULL	NULL
+1009365	NULL	NULL	NULL	5	NULL	NULL
+1009366	NULL	NULL	NULL	3	NULL	NULL
+1009367	NULL	NULL	NULL	4	NULL	NULL
+1009368	NULL	NULL	NULL	6	NULL	NULL
+1009369	NULL	NULL	NULL	4	NULL	NULL
+1009370	NULL	NULL	NULL	5	NULL	NULL
+1009371	NULL	NULL	NULL	2	NULL	NULL
+1009372	NULL	NULL	NULL	2	NULL	NULL
+1009373	NULL	NULL	NULL	4	NULL	NULL
+1009374	NULL	NULL	NULL	2	NULL	NULL
+1009375	NULL	NULL	NULL	2	NULL	NULL
+1009376	NULL	NULL	NULL	3	NULL	NULL
+1009377	NULL	NULL	NULL	2	NULL	NULL
+1009378	NULL	NULL	NULL	5	NULL	NULL
+1009379	NULL	NULL	NULL	2	NULL	NULL
+1009380	NULL	NULL	NULL	4	NULL	NULL
+1009381	NULL	NULL	NULL	16	NULL	NULL
+1009382	NULL	NULL	NULL	3	NULL	NULL
+1009383	NULL	NULL	NULL	9	NULL	NULL
+1009384	NULL	NULL	NULL	8	NULL	NULL
+1009385	NULL	NULL	NULL	22	NULL	NULL
+1009386	NULL	NULL	NULL	3	NULL	NULL
+1009387	NULL	NULL	NULL	3	NULL	NULL
+1009388	NULL	NULL	NULL	2	NULL	NULL
+1009389	NULL	NULL	NULL	4	NULL	NULL
+1009390	NULL	NULL	NULL	2	NULL	NULL
+1009392	NULL	NULL	NULL	6	NULL	NULL
+1009393	NULL	NULL	NULL	3	NULL	NULL
+1009394	NULL	NULL	NULL	3	NULL	NULL
+1009395	NULL	NULL	NULL	9	NULL	NULL
+1009396	NULL	NULL	NULL	5	NULL	NULL
+1009397	NULL	NULL	NULL	8	NULL	NULL
+1009398	NULL	NULL	NULL	9	NULL	NULL
+1009399	NULL	NULL	NULL	5	NULL	NULL
+1009400	NULL	NULL	NULL	4	NULL	NULL
+1009401	NULL	NULL	NULL	3	NULL	NULL
+1009402	NULL	NULL	NULL	3	NULL	NULL
+1009403	NULL	NULL	NULL	6	NULL	NULL
+1009404	NULL	NULL	NULL	3	NULL	NULL
+1009405	NULL	NULL	NULL	16	NULL	NULL
+1009406	NULL	NULL	NULL	11	NULL	NULL
+1009408	NULL	NULL	NULL	3	NULL	NULL
+1009409	NULL	NULL	NULL	8	NULL	NULL
+1009410	NULL	NULL	NULL	2	NULL	NULL
+1009411	NULL	NULL	NULL	8	NULL	NULL
+1009412	NULL	NULL	NULL	3	NULL	NULL
+1009413	NULL	NULL	NULL	3	NULL	NULL
+1009415	NULL	NULL	NULL	9	NULL	NULL
+1009416	NULL	NULL	NULL	8	NULL	NULL
+1009417	NULL	NULL	NULL	2	NULL	NULL
+1009418	NULL	NULL	NULL	8	NULL	NULL
+1009419	NULL	NULL	NULL	2	NULL	NULL
+1009420	NULL	NULL	NULL	3	NULL	NULL
+1009421	NULL	NULL	NULL	2	NULL	NULL
+1009422	NULL	NULL	NULL	3	NULL	NULL
+1009423	NULL	NULL	NULL	3	NULL	NULL
+1009424	NULL	NULL	NULL	3	NULL	NULL
+1009425	NULL	NULL	NULL	3	NULL	NULL
+1009426	NULL	NULL	NULL	4	NULL	NULL
+1009427	NULL	NULL	NULL	3	NULL	NULL
+1009428	NULL	NULL	NULL	3	NULL	NULL
+1009429	NULL	NULL	NULL	3	NULL	NULL
+1009430	NULL	NULL	NULL	5	NULL	NULL
+1009431	NULL	NULL	NULL	3	NULL	NULL
+1009432	NULL	NULL	NULL	3	NULL	NULL
+1009433	NULL	NULL	NULL	7	NULL	NULL
+1009434	NULL	NULL	NULL	2	NULL	NULL
+1009435	NULL	NULL	NULL	2	NULL	NULL
+1009436	NULL	NULL	NULL	2	NULL	NULL
+1009437	NULL	NULL	NULL	10	NULL	NULL
+1009438	NULL	NULL	NULL	4	NULL	NULL
+1009439	NULL	NULL	NULL	2	NULL	NULL
+1009440	NULL	NULL	NULL	3	NULL	NULL
+1009441	NULL	NULL	NULL	16	NULL	NULL
+1009442	NULL	NULL	NULL	7	NULL	NULL
+1009443	NULL	NULL	NULL	3	NULL	NULL
+1009444	NULL	NULL	NULL	7	NULL	NULL
+1009445	NULL	NULL	NULL	4	NULL	NULL
+1009446	NULL	NULL	NULL	12	NULL	NULL
+1009447	NULL	NULL	NULL	3	NULL	NULL
+1009448	NULL	NULL	NULL	2	NULL	NULL
+1009449	NULL	NULL	NULL	3	NULL	NULL
+1009450	NULL	NULL	NULL	5	NULL	NULL
+1009451	NULL	NULL	NULL	4	NULL	NULL
+1009452	NULL	NULL	NULL	2	NULL	NULL
+1009453	NULL	NULL	NULL	3	NULL	NULL
+1009454	NULL	NULL	NULL	2	NULL	NULL
+1009455	NULL	NULL	NULL	2	NULL	NULL
+1009456	NULL	NULL	NULL	4	NULL	NULL
+1009457	NULL	NULL	NULL	5	NULL	NULL
+1009459	NULL	NULL	NULL	6	NULL	NULL
+1009460	NULL	NULL	NULL	2	NULL	NULL
+1009461	NULL	NULL	NULL	6	NULL	NULL
+1009462	NULL	NULL	NULL	5	NULL	NULL
+1009463	NULL	NULL	NULL	3	NULL	NULL
+1009464	NULL	NULL	NULL	4	NULL	NULL
+1009465	NULL	NULL	NULL	4	NULL	NULL
+1009466	NULL	NULL	NULL	2	NULL	NULL
+1009467	NULL	NULL	NULL	2	NULL	NULL
+1009468	NULL	NULL	NULL	3	NULL	NULL
+1009469	NULL	NULL	NULL	3	NULL	NULL
+1009470	NULL	NULL	NULL	2	NULL	NULL
+1009471	NULL	NULL	NULL	3	NULL	NULL
+1009472	NULL	NULL	NULL	2	NULL	NULL
+1009473	NULL	NULL	NULL	2	NULL	NULL
+1009475	NULL	NULL	NULL	4	NULL	NULL
+1009476	NULL	NULL	NULL	3	NULL	NULL
+1009477	NULL	NULL	NULL	2	NULL	NULL
+1009478	NULL	NULL	NULL	8	NULL	NULL
+1009479	NULL	NULL	NULL	2	NULL	NULL
+1009480	NULL	NULL	NULL	2	NULL	NULL
+1009482	NULL	NULL	NULL	2	NULL	NULL
+1009484	NULL	NULL	NULL	3	NULL	NULL
+1009485	NULL	NULL	NULL	7	NULL	NULL
+1009487	NULL	NULL	NULL	3	NULL	NULL
+1009488	NULL	NULL	NULL	2	NULL	NULL
+1009489	NULL	NULL	NULL	3	NULL	NULL
+1009490	NULL	NULL	NULL	4	NULL	NULL
+1009491	NULL	NULL	NULL	3	NULL	NULL
+1009492	NULL	NULL	NULL	2	NULL	NULL
+1009493	NULL	NULL	NULL	6	NULL	NULL
+1009494	NULL	NULL	NULL	4	NULL	NULL
+1009495	NULL	NULL	NULL	7	NULL	NULL
+1009496	NULL	NULL	NULL	3	NULL	NULL
+1009497	NULL	NULL	NULL	2	NULL	NULL
+1009498	NULL	NULL	NULL	3	NULL	NULL
+1009499	NULL	NULL	NULL	4	NULL	NULL
+1009500	NULL	NULL	NULL	2	NULL	NULL
+1009503	NULL	NULL	NULL	2	NULL	NULL
+1009504	NULL	NULL	NULL	2	NULL	NULL
+1009506	NULL	NULL	NULL	2	NULL	NULL
+1009507	NULL	NULL	NULL	2	NULL	NULL
+1009508	NULL	NULL	NULL	2	NULL	NULL
+1009509	NULL	NULL	NULL	2	NULL	NULL
+1009510	NULL	NULL	NULL	2	NULL	NULL
+1009512	NULL	NULL	NULL	2	NULL	NULL
+1009514	NULL	NULL	NULL	3	NULL	NULL
+1009515	NULL	NULL	NULL	2	NULL	NULL
+1009516	NULL	NULL	NULL	4	NULL	NULL
+1009517	NULL	NULL	NULL	2	NULL	NULL
+1009518	NULL	NULL	NULL	2	NULL	NULL
+1009519	NULL	NULL	NULL	3	NULL	NULL
+1009520	NULL	NULL	NULL	3	NULL	NULL
+1009522	NULL	NULL	NULL	2	NULL	NULL
+1009523	NULL	NULL	NULL	5	NULL	NULL
+1009524	NULL	NULL	NULL	3	NULL	NULL
+1009525	NULL	NULL	NULL	2	NULL	NULL
+1009526	NULL	NULL	NULL	2	NULL	NULL
+1009527	NULL	NULL	NULL	2	NULL	NULL
+1009528	NULL	NULL	NULL	3	NULL	NULL
+1009529	NULL	NULL	NULL	2	NULL	NULL
+1009530	NULL	NULL	NULL	2	NULL	NULL
+1009531	NULL	NULL	NULL	4	NULL	NULL
+1009533	NULL	NULL	NULL	2	NULL	NULL
+1009534	NULL	NULL	NULL	5	NULL	NULL
+1009535	NULL	NULL	NULL	2	NULL	NULL
+1009536	NULL	NULL	NULL	2	NULL	NULL
+1009537	NULL	NULL	NULL	2	NULL	NULL
+1009538	NULL	NULL	NULL	2	NULL	NULL
+1009540	NULL	NULL	NULL	3	NULL	NULL
+1009541	NULL	NULL	NULL	4	NULL	NULL
+1009542	NULL	NULL	NULL	2	NULL	NULL
+1009543	NULL	NULL	NULL	2	NULL	NULL
+1009544	NULL	NULL	NULL	3	NULL	NULL
+1009545	NULL	NULL	NULL	2	NULL	NULL
+1009546	NULL	NULL	NULL	2	NULL	NULL
+1009547	NULL	NULL	NULL	2	NULL	NULL
+1009548	NULL	NULL	NULL	2	NULL	NULL
+1009549	NULL	NULL	NULL	3	NULL	NULL
+1009550	NULL	NULL	NULL	2	NULL	NULL
+1009551	NULL	NULL	NULL	2	NULL	NULL
+1009552	NULL	NULL	NULL	2	NULL	NULL
+1009554	NULL	NULL	NULL	4	NULL	NULL
+1009555	NULL	NULL	NULL	2	NULL	NULL
+1009556	NULL	NULL	NULL	9	NULL	NULL
+1009557	NULL	NULL	NULL	3	NULL	NULL
+1009558	NULL	NULL	NULL	2	NULL	NULL
+1009559	NULL	NULL	NULL	2	NULL	NULL
+1009561	NULL	NULL	NULL	3	NULL	NULL
+1009562	NULL	NULL	NULL	2	NULL	NULL
+1009563	NULL	NULL	NULL	2	NULL	NULL
+1009564	NULL	NULL	NULL	11	NULL	NULL
+1009565	NULL	NULL	NULL	5	NULL	NULL
+1009566	NULL	NULL	NULL	2	NULL	NULL
+1009567	NULL	NULL	NULL	5	NULL	NULL
+1009568	NULL	NULL	NULL	3	NULL	NULL
+1009569	NULL	NULL	NULL	17	NULL	NULL
+1009570	NULL	NULL	NULL	18	NULL	NULL
+1009571	NULL	NULL	NULL	10	NULL	NULL
+1009572	NULL	NULL	NULL	6	NULL	NULL
+1009573	NULL	NULL	NULL	2	NULL	NULL
+1009575	NULL	NULL	NULL	3	NULL	NULL
+1009576	NULL	NULL	NULL	2	NULL	NULL
+1009578	NULL	NULL	NULL	3	NULL	NULL
+1009579	NULL	NULL	NULL	3	NULL	NULL
+1009580	NULL	NULL	NULL	3	NULL	NULL
+1009581	NULL	NULL	NULL	2	NULL	NULL
+1009582	NULL	NULL	NULL	2	NULL	NULL
+1009583	NULL	NULL	NULL	2	NULL	NULL
+1009584	NULL	NULL	NULL	3	NULL	NULL
+1009585	NULL	NULL	NULL	2	NULL	NULL
+1009586	NULL	NULL	NULL	3	NULL	NULL
+1009587	NULL	NULL	NULL	2	NULL	NULL
+1009588	NULL	NULL	NULL	7	NULL	NULL
+1009589	NULL	NULL	NULL	4	NULL	NULL
+1009590	NULL	NULL	NULL	6	NULL	NULL
+1009591	NULL	NULL	NULL	2	NULL	NULL
+1009592	NULL	NULL	NULL	3	NULL	NULL
+1009593	NULL	NULL	NULL	3	NULL	NULL
+1009594	NULL	NULL	NULL	3	NULL	NULL
+1009595	NULL	NULL	NULL	3	NULL	NULL
+1009596	NULL	NULL	NULL	3	NULL	NULL
+1009597	NULL	NULL	NULL	3	NULL	NULL
+1009598	NULL	NULL	NULL	3	NULL	NULL
+1009599	NULL	NULL	NULL	3	NULL	NULL
+1009600	NULL	NULL	NULL	3	NULL	NULL
+1009601	NULL	NULL	NULL	4	NULL	NULL
+1009602	NULL	NULL	NULL	3	NULL	NULL
+1009603	NULL	NULL	NULL	2	NULL	NULL
+1009604	NULL	NULL	NULL	2	NULL	NULL
+1009605	NULL	NULL	NULL	3	NULL	NULL
+1009606	NULL	NULL	NULL	3	NULL	NULL
+1009607	NULL	NULL	NULL	2	NULL	NULL
+1009608	NULL	NULL	NULL	3	NULL	NULL
+1009609	NULL	NULL	NULL	2	NULL	NULL
+1009610	NULL	NULL	NULL	2	NULL	NULL
+1009611	NULL	NULL	NULL	2	NULL	NULL
+1009612	NULL	NULL	NULL	2	NULL	NULL

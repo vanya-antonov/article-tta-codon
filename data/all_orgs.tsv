@@ -1,0 +1,358 @@
+id	name	genus	kingdom	phylum	num_annotated_genes	num_fshifts	num_tta_genes	num_tta_fs_genes	virus_host_name	virus_host
+1170	Streptomyces acidiscabies 84-104	Streptomyces	Bacteria	Actinobacteria	9900	1717	335	20	NULL	NULL
+5189	Streptomyces aidingensis	Streptomyces	Bacteria	Actinobacteria	5611	373	116	6	NULL	NULL
+2771	Streptomyces albidoflavus	Streptomyces	Bacteria	Actinobacteria	6128	530	87	6	NULL	NULL
+4663	Streptomyces albireticuli	Streptomyces	Bacteria	Actinobacteria	6885	394	258	26	NULL	NULL
+4661	Streptomyces alboflavus	Streptomyces	Bacteria	Actinobacteria	8691	1507	212	64	NULL	NULL
+3121	Streptomyces albus	Streptomyces	Bacteria	Actinobacteria	6837	352	138	11	NULL	NULL
+2770	Streptomyces albus subsp. albus	Streptomyces	Bacteria	Actinobacteria	5842	660	208	2	NULL	NULL
+5206	Streptomyces alni	Streptomyces	Bacteria	Actinobacteria	7044	986	181	11	NULL	NULL
+2908	Streptomyces atratus	Streptomyces	Bacteria	Actinobacteria	6766	797	172	21	NULL	NULL
+2751	Streptomyces atroolivaceus	Streptomyces	Bacteria	Actinobacteria	7303	773	165	19	NULL	NULL
+3609	Streptomyces aurantiacus	Streptomyces	Bacteria	Actinobacteria	8317	1079	281	12	NULL	NULL
+1301	Streptomyces auratus AGR0001	Streptomyces	Bacteria	Actinobacteria	6781	534	252	12	NULL	NULL
+4449	Streptomyces autolyticus	Streptomyces	Bacteria	Actinobacteria	8221	1073	361	19	NULL	NULL
+167	Streptomyces avermitilis MA-4680 = NBRC 14893	Streptomyces	Bacteria	Actinobacteria	8025	1188	274	29	NULL	NULL
+3459	Streptomyces azureus	Streptomyces	Bacteria	Actinobacteria	8341	930	261	22	NULL	NULL
+590	Streptomyces bingchenggensis BCW-1	Streptomyces	Bacteria	Actinobacteria	10072	730	560	48	NULL	NULL
+3415	Streptomyces caatingaensis	Streptomyces	Bacteria	Actinobacteria	6069	669	154	10	NULL	NULL
+4634	Streptomyces cacaoi subsp. cacaoi	Streptomyces	Bacteria	Actinobacteria	7046	533	98	3	NULL	NULL
+3812	Streptomyces canus	Streptomyces	Bacteria	Actinobacteria	8859	1010	214	19	NULL	NULL
+2758	Streptomyces catenulae	Streptomyces	Bacteria	Actinobacteria	6044	655	124	8	NULL	NULL
+1154	Streptomyces cattleya NRRL 8057 = DSM 46488	Streptomyces	Bacteria	Actinobacteria	7215	414	194	22	NULL	NULL
+4194	Streptomyces clavuligerus	Streptomyces	Bacteria	Actinobacteria	6262	712	215	12	NULL	NULL
+972	Streptomyces coelicolor A3(2)	Streptomyces	Bacteria	Actinobacteria	8152	847	160	12	NULL	NULL
+2226	Streptomyces collinus Tu 365	Streptomyces	Bacteria	Actinobacteria	7275	713	136	7	NULL	NULL
+1636	Streptomyces davaonensis JCM 4913	Streptomyces	Bacteria	Actinobacteria	8614	1365	342	18	NULL	NULL
+2152	Streptomyces flavidovirens DSM 40150	Streptomyces	Bacteria	Actinobacteria	6448	938	205	21	NULL	NULL
+2800	Streptomyces flavovariabilis	Streptomyces	Bacteria	Actinobacteria	8049	769	196	12	NULL	NULL
+2762	Streptomyces fulvoviolaceus	Streptomyces	Bacteria	Actinobacteria	10730	1611	299	30	NULL	NULL
+4323	Streptomyces gilvigriseus	Streptomyces	Bacteria	Actinobacteria	4614	525	86	3	NULL	NULL
+2976	Streptomyces glaucescens	Streptomyces	Bacteria	Actinobacteria	6629	277	137	14	NULL	NULL
+5715	Streptomyces glauciniger	Streptomyces	Bacteria	Actinobacteria	8722	732	156	16	NULL	NULL
+981	Streptomyces griseoaurantiacus M045	Streptomyces	Bacteria	Actinobacteria	6785	645	144	10	NULL	NULL
+3832	Streptomyces griseochromogenes	Streptomyces	Bacteria	Actinobacteria	9745	614	345	32	NULL	NULL
+2764	Streptomyces griseofuscus	Streptomyces	Bacteria	Actinobacteria	8239	827	256	13	NULL	NULL
+3613	Streptomyces griseoplanus	Streptomyces	Bacteria	Actinobacteria	7499	370	94	3	NULL	NULL
+3614	Streptomyces griseoruber	Streptomyces	Bacteria	Actinobacteria	9468	1189	246	10	NULL	NULL
+185	Streptomyces griseus subsp. griseus NBRC 13350	Streptomyces	Bacteria	Actinobacteria	7197	307	158	21	NULL	NULL
+4951	Streptomyces guanduensis	Streptomyces	Bacteria	Actinobacteria	6786	653	126	11	NULL	NULL
+709	Streptomyces himastatinicus ATCC 53653	Streptomyces	Bacteria	Actinobacteria	9561	0	608	0	NULL	NULL
+1738	Streptomyces hokutonensis	Streptomyces	Bacteria	Actinobacteria	10788	1616	331	23	NULL	NULL
+4839	Streptomyces indicus	Streptomyces	Bacteria	Actinobacteria	7368	957	129	4	NULL	NULL
+4104	Streptomyces jeddahensis	Streptomyces	Bacteria	Actinobacteria	7513	855	196	23	NULL	NULL
+4515	Streptomyces katrae	Streptomyces	Bacteria	Actinobacteria	7154	675	170	13	NULL	NULL
+4370	Streptomyces kebangsaanensis	Streptomyces	Bacteria	Actinobacteria	7667	369	194	6	NULL	NULL
+3325	Streptomyces leeuwenhoekii	Streptomyces	Bacteria	Actinobacteria	7056	410	173	26	NULL	NULL
+4179	Streptomyces lincolnensis	Streptomyces	Bacteria	Actinobacteria	9239	501	274	17	NULL	NULL
+4252	Streptomyces lydicus	Streptomyces	Bacteria	Actinobacteria	7220	295	243	25	NULL	NULL
+2767	Streptomyces megasporus	Streptomyces	Bacteria	Actinobacteria	5350	379	123	4	NULL	NULL
+4996	Streptomyces melanosporofaciens	Streptomyces	Bacteria	Actinobacteria	9244	887	421	60	NULL	NULL
+1614	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Streptomyces	Bacteria	Actinobacteria	6498	728	160	8	NULL	NULL
+2747	Streptomyces monomycini	Streptomyces	Bacteria	Actinobacteria	8086	521	317	17	NULL	NULL
+4277	Streptomyces nanshensis	Streptomyces	Bacteria	Actinobacteria	6825	533	193	2	NULL	NULL
+4490	Streptomyces niveus	Streptomyces	Bacteria	Actinobacteria	6987	331	197	14	NULL	NULL
+3097	Streptomyces nodosus	Streptomyces	Bacteria	Actinobacteria	6808	331	190	22	NULL	NULL
+4216	Streptomyces noursei ATCC 11455	Streptomyces	Bacteria	Actinobacteria	8622	557	365	17	NULL	NULL
+4276	Streptomyces oceani	Streptomyces	Bacteria	Actinobacteria	5311	363	140	14	NULL	NULL
+2780	Streptomyces olivaceus	Streptomyces	Bacteria	Actinobacteria	7669	924	165	12	NULL	NULL
+3813	Streptomyces olivochromogenes	Streptomyces	Bacteria	Actinobacteria	10651	1393	336	31	NULL	NULL
+3611	Streptomyces ossamyceticus	Streptomyces	Bacteria	Actinobacteria	8577	960	240	17	NULL	NULL
+3612	Streptomyces pathocidini	Streptomyces	Bacteria	Actinobacteria	5139	571	136	8	NULL	NULL
+5466	Streptomyces paucisporeus	Streptomyces	Bacteria	Actinobacteria	7040	714	234	12	NULL	NULL
+3615	Streptomyces phaeochromogenes	Streptomyces	Bacteria	Actinobacteria	9758	1618	290	24	NULL	NULL
+3058	Streptomyces pluripotens	Streptomyces	Bacteria	Actinobacteria	6428	412	220	17	NULL	NULL
+3617	Streptomyces prasinopilosus	Streptomyces	Bacteria	Actinobacteria	6211	459	165	12	NULL	NULL
+3477	Streptomyces pristinaespiralis	Streptomyces	Bacteria	Actinobacteria	7356	333	151	15	NULL	NULL
+4258	Streptomyces puniciscabiei	Streptomyces	Bacteria	Actinobacteria	8674	722	304	57	NULL	NULL
+1858	Streptomyces purpureus KA281	Streptomyces	Bacteria	Actinobacteria	6763	353	184	15	NULL	NULL
+5146	Streptomyces qinglanensis	Streptomyces	Bacteria	Actinobacteria	6167	335	76	5	NULL	NULL
+5126	Streptomyces radiopugnans	Streptomyces	Bacteria	Actinobacteria	5425	552	108	3	NULL	NULL
+2754	Streptomyces rimosus subsp. rimosus	Streptomyces	Bacteria	Actinobacteria	8438	839	293	16	NULL	NULL
+4637	Streptomyces rochei	Streptomyces	Bacteria	Actinobacteria	7241	641	125	5	NULL	NULL
+2769	Streptomyces roseoverticillatus	Streptomyces	Bacteria	Actinobacteria	6251	812	216	6	NULL	NULL
+5110	Streptomyces rubidus	Streptomyces	Bacteria	Actinobacteria	7734	839	175	9	NULL	NULL
+570	Streptomyces scabiei 87.22	Streptomyces	Bacteria	Actinobacteria	8870	461	243	27	NULL	NULL
+1681	Streptomyces scabrisporus DSM 41855	Streptomyces	Bacteria	Actinobacteria	9988	846	261	12	NULL	NULL
+2761	Streptomyces scopuliridis RB72	Streptomyces	Bacteria	Actinobacteria	7198	1122	274	22	NULL	NULL
+4441	Streptomyces silaceus	Streptomyces	Bacteria	Actinobacteria	7465	400	146	15	NULL	NULL
+5985	Streptomyces sp. C	Streptomyces	Bacteria	Actinobacteria	NULL	NULL	NULL	NULL	NULL	NULL
+4218	Streptomyces sparsogenes	Streptomyces	Bacteria	Actinobacteria	7917	942	310	20	NULL	NULL
+3803	Streptomyces specialis	Streptomyces	Bacteria	Actinobacteria	5409	690	198	5	NULL	NULL
+1818	Streptomyces sulphureus DSM 40104	Streptomyces	Bacteria	Actinobacteria	6126	788	101	2	NULL	NULL
+3840	Streptomyces thermoautotrophicus	Streptomyces	Bacteria	Actinobacteria	4682	606	277	27	NULL	NULL
+2294	Streptomyces thermolilacinus SPC6	Streptomyces	Bacteria	Actinobacteria	5634	731	117	6	NULL	NULL
+4638	Streptomyces thermovulgaris	Streptomyces	Bacteria	Actinobacteria	5487	439	150	8	NULL	NULL
+4485	Streptomyces tsukubensis	Streptomyces	Bacteria	Actinobacteria	7019	898	197	9	NULL	NULL
+1356	Streptomyces tsukubensis NRRL18488	Streptomyces	Bacteria	Actinobacteria	6781	1039	246	23	NULL	NULL
+1535	Streptomyces turgidiscabies Car8	Streptomyces	Bacteria	Actinobacteria	9776	1656	326	23	NULL	NULL
+4369	Streptomyces uncialis	Streptomyces	Bacteria	Actinobacteria	7461	888	178	12	NULL	NULL
+2766	Streptomyces varsoviensis	Streptomyces	Bacteria	Actinobacteria	7321	933	217	14	NULL	NULL
+3718	Streptomyces venezuelae	Streptomyces	Bacteria	Actinobacteria	8119	501	199	24	NULL	NULL
+3141	Streptomyces vietnamensis	Streptomyces	Bacteria	Actinobacteria	8250	1091	135	9	NULL	NULL
+2756	Streptomyces violens	Streptomyces	Bacteria	Actinobacteria	7000	826	185	13	NULL	NULL
+2776	Streptomyces virginiae	Streptomyces	Bacteria	Actinobacteria	7542	678	140	7	NULL	NULL
+689	Streptomyces viridosporus ATCC 14672	Streptomyces	Bacteria	Actinobacteria	7811	433	214	15	NULL	NULL
+1808	Streptomyces vitaminophilus DSM 41686	Streptomyces	Bacteria	Actinobacteria	5512	401	251	12	NULL	NULL
+4931	Streptomyces wuyuanensis	Streptomyces	Bacteria	Actinobacteria	7205	647	98	13	NULL	NULL
+3306	Streptomyces xiamenensis	Streptomyces	Bacteria	Actinobacteria	5373	277	130	9	NULL	NULL
+2750	Streptomyces yerevanensis	Streptomyces	Bacteria	Actinobacteria	10255	1334	423	34	NULL	NULL
+1081	Streptomyces zinciresistens K42	Streptomyces	Bacteria	Actinobacteria	7635	715	156	4	NULL	NULL
+5938	Streptomyces phage Aaronocolus	Likavirus	Viruses	Duplodnaviria	73	2	1	0	185	NULL
+5944	Streptomyces phage AbbeyMikolon	Streptomyces virus AbbeyMikolon	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5753	Streptomyces phage Abt2graduatex2	unclassified Woodruffvirus	Viruses	Duplodnaviria	71	3	0	0	185	NULL
+5868	Streptomyces phage Alderaan	unclassified bacterial viruses	Viruses	unclassified viruses	50	4	0	0	3718	NULL
+5940	Streptomyces phage Alsaber	unclassified Camvirus	Viruses	Duplodnaviria	76	6	2	0	3459	NULL
+5974	Streptomyces phage Alvy	unclassified Arequatrovirus	Viruses	Duplodnaviria	89	5	1	0	1170	NULL
+5908	Streptomyces phage Amela	Camvirus	Viruses	Duplodnaviria	75	2	2	0	3718	NULL
+5933	Streptomyces phage Amethyst	unclassified Arequatrovirus	Viruses	Duplodnaviria	79	4	0	0	1170	NULL
+5838	Streptomyces phage Animus	unclassified Arequatrovirus	Viruses	Duplodnaviria	77	4	0	0	185	NULL
+5954	Streptomyces phage Annadreamy	Siphoviridae	Viruses	Duplodnaviria	229	0	6	0	185	NULL
+5840	Streptomyces phage Araceli	Siphoviridae	Viruses	Duplodnaviria	81	1	0	0	185	NULL
+5806	Streptomyces phage Asten	unclassified Likavirus	Viruses	Duplodnaviria	73	1	1	0	185	NULL
+5945	Streptomyces phage Attoomi	Streptomyces virus Attoomi	Viruses	Duplodnaviria	53	2	0	0	3459	NULL
+5967	Streptomyces phage Austintatious	Streptomyces virus Austintatious	Viruses	Duplodnaviria	53	4	0	0	3718	NULL
+5739	Streptomyces phage BabyGotBac	unclassified Woodruffvirus	Viruses	Duplodnaviria	72	1	0	0	185	NULL
+5795	Streptomyces phage BartholomewSD	unclassified Arequatrovirus	Viruses	Duplodnaviria	87	5	1	0	1170	NULL
+5892	Streptomyces phage Battuta	Siphoviridae	Viruses	Duplodnaviria	239	0	13	0	1170	NULL
+5774	Streptomyces phage BayC	unclassified Woodruffvirus	Viruses	Duplodnaviria	71	1	0	0	185	NULL
+5744	Streptomyces phage BeardedLady	unclassified Likavirus	Viruses	Duplodnaviria	74	3	1	0	1170	NULL
+5888	Streptomyces phage Belfort	Siphoviridae	Viruses	Duplodnaviria	234	0	6	0	1170	NULL
+5880	Streptomyces phage Beuffert	Siphoviridae	Viruses	Duplodnaviria	240	0	2	0	185	NULL
+5948	Streptomyces phage BillNye	Streptomyces virus BillNye	Viruses	Duplodnaviria	217	0	4	0	1170	NULL
+5949	Streptomyces phage Bing	Streptomyces virus Bing	Viruses	Duplodnaviria	87	2	1	0	1170	NULL
+5737	Streptomyces phage Bioscum	unclassified Austintatiousvirus	Viruses	Duplodnaviria	54	4	0	0	3718	NULL
+5821	Streptomyces phage Birchlyn	Siphoviridae	Viruses	Duplodnaviria	240	0	15	0	185	NULL
+5955	Streptomyces phage Blueeyedbeauty	Siphoviridae	Viruses	Duplodnaviria	240	0	4	0	185	NULL
+5859	Streptomyces phage Bmoc	unclassified Samistivirus	Viruses	Duplodnaviria	235	0	4	0	2764	NULL
+5798	Streptomyces phage BoomerJR	Siphoviridae	Viruses	Duplodnaviria	242	0	17	0	1170	NULL
+5847	Streptomyces phage Bordeaux	Siphoviridae	Viruses	Duplodnaviria	238	0	11	0	185	NULL
+5810	Streptomyces phage Bovely	unclassified Likavirus	Viruses	Duplodnaviria	73	2	1	0	185	NULL
+5799	Streptomyces phage Bowden	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	5	0	0	1170	NULL
+5824	Streptomyces phage Braelyn	unclassified Samistivirus	Viruses	Duplodnaviria	228	0	3	0	185	NULL
+5734	Streptomyces phage Brataylor	unclassified Likavirus	Viruses	Duplodnaviria	77	2	1	0	3718	NULL
+5922	Streptomyces phage BRock	Myoviridae	Viruses	Duplodnaviria	188	0	5	0	1170	NULL
+5745	Streptomyces phage BryanRecycles	unclassified Likavirus	Viruses	Duplodnaviria	75	2	1	0	185	NULL
+5970	Streptomyces phage Caelum	unclassified Arequatrovirus	Viruses	Duplodnaviria	84	2	1	0	1170	NULL
+5909	Streptomyces phage Caliburn	Likavirus	Viruses	Duplodnaviria	72	2	1	0	185	NULL
+5746	Streptomyces phage Celeste	unclassified Likavirus	Viruses	Duplodnaviria	76	3	1	0	1170	NULL
+5972	Streptomyces phage Celia	Siphoviridae	Viruses	Duplodnaviria	77	3	0	0	1170	NULL
+5833	Streptomyces phage CherryBlossom	unclassified Rimavirus	Viruses	Duplodnaviria	86	1	1	0	185	NULL
+5733	Streptomyces phage Chymera	Siphoviridae	Viruses	Duplodnaviria	55	2	0	0	3718	NULL
+5813	Streptomyces phage Circinus	unclassified Wilnyevirus	Viruses	Duplodnaviria	216	0	5	0	2764	NULL
+5857	Streptomyces phage ClubPenguin	unclassified Bingvirus	Viruses	Duplodnaviria	91	2	1	0	1170	NULL
+5961	Streptomyces phage Comrade	Siphoviridae	Viruses	Duplodnaviria	229	0	4	0	185	NULL
+5869	Streptomyces phage Coruscant	unclassified bacterial viruses	Viruses	unclassified viruses	248	0	20	0	3718	NULL
+5729	Streptomyces phage CricKo	unclassified Bingvirus	Viruses	Duplodnaviria	94	0	5	0	570	NULL
+5780	Streptomyces phage Crosby	Siphoviridae	Viruses	Duplodnaviria	82	1	2	0	185	NULL
+5893	Streptomyces phage Cross	unclassified Samistivirus	Viruses	Duplodnaviria	227	0	2	0	1170	NULL
+5862	Streptomyces phage Cumberbatch	Siphoviridae	Viruses	Duplodnaviria	59	1	0	0	1170	NULL
+5918	Streptomyces phage Danzina	Likavirus	Viruses	Duplodnaviria	76	2	1	0	3718	NULL
+5964	Streptomyces phage Darolandstone	Streptomyces virus Darolandstone	Viruses	Duplodnaviria	55	3	2	0	1170	NULL
+5747	Streptomyces phage Dattran	unclassified Likavirus	Viruses	Duplodnaviria	77	2	1	0	3718	NULL
+5846	Streptomyces phage Daubenski	unclassified Samistivirus	Viruses	Duplodnaviria	226	2	10	0	185	NULL
+5934	Streptomyces phage Daudau	unclassified Arequatrovirus	Viruses	Duplodnaviria	83	4	1	0	1170	NULL
+5935	Streptomyces phage Diane	unclassified Arequatrovirus	Viruses	Duplodnaviria	79	4	0	0	1170	NULL
+5932	Streptomyces phage DrGrey	Strepomyces virus Drgrey	Viruses	Duplodnaviria	82	1	0	0	185	NULL
+5865	Streptomyces phage Dryad	Siphoviridae	Viruses	Duplodnaviria	109	7	0	0	1170	NULL
+5822	Streptomyces phage Dubu	Siphoviridae	Viruses	Duplodnaviria	47	4	0	0	1170	NULL
+5889	Streptomyces phage Dwayne	unclassified Likavirus	Viruses	Duplodnaviria	73	2	1	0	1170	NULL
+5772	Streptomyces phage Eddasa	unclassified Likavirus	Viruses	Duplodnaviria	76	2	1	0	185	NULL
+5811	Streptomyces phage EGole	unclassified Samistivirus	Viruses	Duplodnaviria	228	0	1	0	185	NULL
+5884	Streptomyces phage EhyElimayoE	Siphoviridae	Viruses	Duplodnaviria	328	17	0	0	1170	NULL
+5867	Streptomyces phage Eklok	Siphoviridae	Viruses	Duplodnaviria	58	1	0	0	1170	NULL
+5977	Streptomyces phage Endor1	unclassified Camvirus	Viruses	Duplodnaviria	75	3	1	0	972	NULL
+5978	Streptomyces phage Endor2	unclassified Camvirus	Viruses	Duplodnaviria	74	3	3	0	972	NULL
+5828	Streptomyces phage Esketit	unclassified Rimavirus	Viruses	Duplodnaviria	82	2	1	0	185	NULL
+5748	Streptomyces phage Esperer	unclassified Likavirus	Viruses	Duplodnaviria	74	4	1	0	1170	NULL
+5793	Streptomyces phage Euratis	unclassified Lomovskayavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5823	Streptomyces phage Evy	unclassified Samistivirus	Viruses	Duplodnaviria	226	0	3	0	185	NULL
+5843	Streptomyces phage Fabian	Podoviridae	Viruses	Duplodnaviria	68	8	1	0	570	NULL
+5872	Streptomyces phage Faust	Siphoviridae	Viruses	Duplodnaviria	239	0	1	0	1170	NULL
+5853	Streptomyces phage FidgetOrca	unclassified Rimavirus	Viruses	Duplodnaviria	88	2	1	0	185	NULL
+5951	Streptomyces phage FlowerPower	Podoviridae	Viruses	Duplodnaviria	66	8	1	0	570	NULL
+5814	Streptomyces phage Forthebois	unclassified Tectiviridae	Viruses	Varidnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5852	Streptomyces phage FrodoSwaggins	unclassified Rimavirus	Viruses	Duplodnaviria	84	1	0	0	185	NULL
+5861	Streptomyces phage Galactica	unclassified Hiyaavirus	Viruses	Duplodnaviria	115	4	1	0	1170	NULL
+5797	Streptomyces phage Genie2	Siphoviridae	Viruses	Duplodnaviria	242	0	17	0	1170	NULL
+5829	Streptomyces phage Geostin	Podoviridae	Viruses	Duplodnaviria	66	8	1	0	570	NULL
+5792	Streptomyces phage Gibson	Siphoviridae	Viruses	Duplodnaviria	105	3	0	0	185	NULL
+5839	Streptomyces phage Gilgamesh	Siphoviridae	Viruses	Duplodnaviria	156	8	5	0	1170	NULL
+5966	Streptomyces phage Gilson	Siphoviridae	Viruses	Duplodnaviria	231	0	4	0	2764	NULL
+5830	Streptomyces phage GirlPower	unclassified Rimavirus	Viruses	Duplodnaviria	79	1	1	0	185	NULL
+5952	Streptomyces phage Goby	unclassified Likavirus	Viruses	Duplodnaviria	76	2	1	0	1170	NULL
+5735	Streptomyces phage Godpower	unclassified Likavirus	Viruses	Duplodnaviria	76	2	2	0	3718	NULL
+5784	Streptomyces phage Haizum	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	4	0	0	1170	NULL
+5960	Streptomyces phage Hank144	unclassified Arequatrovirus	Viruses	Duplodnaviria	78	3	0	0	1170	NULL
+5754	Streptomyces phage HaugeAnator	Podoviridae	Viruses	Duplodnaviria	64	3	0	0	185	NULL
+5816	Streptomyces phage Heather	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5776	Streptomyces phage Henoccus	Siphoviridae	Viruses	Duplodnaviria	82	0	0	0	185	NULL
+5890	Streptomyces phage Hippo	unclassified Likavirus	Viruses	Duplodnaviria	73	2	2	0	1170	NULL
+5965	Streptomyces phage Hiyaa	Streptomyces virus Hiyaa	Viruses	Duplodnaviria	124	4	1	0	1170	NULL
+5727	Streptomyces phage Hoshi	unclassified Rimavirus	Viruses	Duplodnaviria	87	2	1	0	185	NULL
+5763	Streptomyces phage HotFries	unclassified Scapunavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5939	Streptomyces phage Hydra	Likavirus	Viruses	Duplodnaviria	76	2	1	0	185	NULL
+5764	Streptomyces phage Ibantik	Siphoviridae	Viruses	Duplodnaviria	105	0	3	0	1170	NULL
+5803	Streptomyces phage IceWarrior	unclassified Rimavirus	Viruses	Duplodnaviria	86	1	1	0	1170	NULL
+5844	Streptomyces phage IchabodCrane	Siphoviridae	Viruses	Duplodnaviria	239	0	15	0	570	NULL
+5923	Streptomyces phage Ididsumtinwong	Streptomyces virus Ididsumtinwong	Viruses	Duplodnaviria	55	5	0	0	3718	NULL
+5863	Streptomyces phage Ignacio	Siphoviridae	Viruses	Duplodnaviria	58	2	0	0	1170	NULL
+5943	Streptomyces phage Immanuel3	Podoviridae	Viruses	Duplodnaviria	62	5	0	0	185	NULL
+5887	Streptomyces phage Indigenous	Siphoviridae	Viruses	Duplodnaviria	88	2	1	0	185	NULL
+5805	Streptomyces phage Indigo	unclassified Likavirus	Viruses	Duplodnaviria	72	2	1	0	185	NULL
+5841	Streptomyces phage Intolerant	Siphoviridae	Viruses	Duplodnaviria	78	2	0	0	185	NULL
+5976	Streptomyces phage Issmi	unclassified Arequatrovirus	Viruses	Duplodnaviria	79	5	0	0	2764	NULL
+5858	Streptomyces phage Itza	Siphoviridae	Viruses	Duplodnaviria	80	3	0	0	2764	NULL
+5905	Streptomyces phage Izzy	Likavirus	Viruses	Duplodnaviria	75	2	1	0	185	NULL
+5777	Streptomyces phage JackieB	Siphoviridae	Viruses	Duplodnaviria	82	0	0	0	185	NULL
+5969	Streptomyces phage Janus	unclassified Arequatrovirus	Viruses	Duplodnaviria	78	2	0	0	1170	NULL
+5749	Streptomyces phage Jash	unclassified Likavirus	Viruses	Duplodnaviria	75	2	1	0	185	NULL
+5914	Streptomyces phage Jay2Jay	Streptomyces virus Jay2Jay	Viruses	Duplodnaviria	235	0	6	0	1170	NULL
+5832	Streptomyces phage Jaylociraptor	unclassified Rimavirus	Viruses	Duplodnaviria	86	2	1	0	185	NULL
+5921	Streptomyces phage Joe	unclassified Camvirus	Viruses	Duplodnaviria	81	4	2	2	972	NULL
+5787	Streptomyces phage JustBecause	Siphoviridae	Viruses	Duplodnaviria	325	14	0	0	1170	NULL
+5975	Streptomyces phage JXY1	Podoviridae	Viruses	Duplodnaviria	72	16	1	0	1170	NULL
+5834	Streptomyces phage Kardashian	unclassified Bingvirus	Viruses	Duplodnaviria	83	5	0	0	2764	NULL
+5959	Streptomyces phage Karimac	Siphoviridae	Viruses	Duplodnaviria	241	0	11	0	185	NULL
+5870	Streptomyces phage Keanu	Siphoviridae	Viruses	Duplodnaviria	114	4	1	0	1170	NULL
+5860	Streptomyces phage Kela	Siphoviridae	Viruses	Duplodnaviria	327	7	0	0	570	NULL
+5812	Streptomyces phage Kradal	Siphoviridae	Viruses	Duplodnaviria	325	13	0	0	2764	NULL
+5788	Streptomyces phage Kromp	Siphoviridae	Viruses	Duplodnaviria	95	9	3	0	1170	NULL
+5910	Streptomyces phage Lannister	Likavirus	Viruses	Duplodnaviria	73	2	1	0	3718	NULL
+5779	Streptomyces phage LazerLemon	Siphoviridae	Viruses	Duplodnaviria	81	2	0	0	185	NULL
+5826	Streptomyces phage Leviticus	unclassified Likavirus	Viruses	Duplodnaviria	74	2	1	0	185	NULL
+5785	Streptomyces phage LibertyBell	Siphoviridae	Viruses	Duplodnaviria	79	2	2	0	2776	NULL
+5902	Streptomyces phage Lika	Likavirus	Viruses	Duplodnaviria	75	2	1	0	1170	NULL
+5726	Streptomyces phage Lilbooboo	Streptomyces virus Lilbooboo	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5873	Streptomyces phage LilMartin	Siphoviridae	Viruses	Duplodnaviria	231	0	3	0	1170	NULL
+5848	Streptomyces phage Limpid	Siphoviridae	Viruses	Duplodnaviria	236	0	6	0	1170	NULL
+5919	Streptomyces phage Lorelei	unclassified Likavirus	Viruses	Duplodnaviria	75	3	1	0	185	NULL
+5958	Streptomyces phage LukeCage	Siphoviridae	Viruses	Duplodnaviria	248	0	9	0	185	NULL
+5809	Streptomyces phage Madamato	unclassified Rimavirus	Viruses	Duplodnaviria	85	2	1	0	185	NULL
+5731	Streptomyces phage Maih	unclassified Woodruffvirus	Viruses	Duplodnaviria	70	1	0	0	185	NULL
+5771	Streptomyces phage Maneekul	unclassified Likavirus	Viruses	Duplodnaviria	73	3	2	0	1170	NULL
+5942	Streptomyces phage Manuel	Podoviridae	Viruses	Duplodnaviria	63	3	0	0	1170	NULL
+5874	Streptomyces phage Maya	Siphoviridae	Viruses	Duplodnaviria	86	3	1	0	1170	NULL
+5891	Streptomyces phage MeganTheeKilla	Siphoviridae	Viruses	Duplodnaviria	233	0	7	0	1170	NULL
+5835	Streptomyces phage Meibysrarus	unclassified Rimavirus	Viruses	Duplodnaviria	84	2	1	0	185	NULL
+5789	Streptomyces phage Microdon	Siphoviridae	Viruses	Duplodnaviria	79	2	0	0	570	NULL
+5927	Streptomyces phage Mildred21	Streptomyces virus Mildred21	Viruses	Duplodnaviria	234	0	2	0	1170	NULL
+5885	Streptomyces phage MindFlayer	Siphoviridae	Viruses	Duplodnaviria	234	0	15	0	1170	NULL
+5818	Streptomyces phage Mischief19	unclassified Woodruffvirus	Viruses	Duplodnaviria	79	2	1	0	1170	NULL
+5856	Streptomyces phage Moab	Siphoviridae	Viruses	Duplodnaviria	234	0	5	0	2764	NULL
+5738	Streptomyces phage Mojorita	unclassified Picardvirus	Viruses	Duplodnaviria	56	2	4	0	3718	NULL
+5765	Streptomyces phage Moozy	unclassified Scapunavirus	Viruses	Duplodnaviria	58	2	0	0	570	NULL
+5897	Streptomyces phage mu1/6	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5877	Streptomyces phage MulchMansion	Siphoviridae	Viruses	Duplodnaviria	236	0	4	0	1170	NULL
+5855	Streptomyces phage Muntaha	unclassified Wilnyevirus	Viruses	Duplodnaviria	233	0	5	0	1170	NULL
+5770	Streptomyces phage Nabi	unclassified Likavirus	Viruses	Duplodnaviria	76	5	1	0	185	NULL
+5804	Streptomyces phage Namo	unclassified Rimavirus	Viruses	Duplodnaviria	88	2	1	0	185	NULL
+5915	Streptomyces phage Nanodon	unclassified Likavirus	Viruses	Duplodnaviria	75	1	1	0	185	NULL
+5807	Streptomyces phage Nerdos	unclassified Likavirus	Viruses	Duplodnaviria	72	2	1	0	185	NULL
+5760	Streptomyces phage Nesbitt	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5800	Streptomyces phage Nishikigoi	unclassified Arequatrovirus	Viruses	Duplodnaviria	82	4	1	0	1170	NULL
+5928	Streptomyces phage NootNoot	Streptomyces virus NootNoot	Viruses	Duplodnaviria	221	0	2	0	185	NULL
+5790	Streptomyces phage Olicious	Podoviridae	Viruses	Duplodnaviria	64	2	0	0	185	NULL
+5750	Streptomyces phage Oliynyk	unclassified Likavirus	Viruses	Duplodnaviria	75	2	1	0	1170	NULL
+5736	Streptomyces phage OlympicHelado	unclassified Rimavirus	Viruses	Duplodnaviria	88	1	1	0	185	NULL
+5946	Streptomyces phage Omar	unclassified Arequatrovirus	Viruses	Duplodnaviria	80	6	0	0	3459	NULL
+5751	Streptomyces phage Ozzie	unclassified Likavirus	Viruses	Duplodnaviria	73	3	1	0	1170	NULL
+5759	Streptomyces phage OzzyJ	unclassified Likavirus	Viruses	Duplodnaviria	75	2	1	0	1170	NULL
+5950	Streptomyces phage Paedore	unclassified Arequatrovirus	Viruses	Duplodnaviria	84	2	1	0	1170	NULL
+5924	Streptomyces phage PapayaSalad	Streptomyces virus PapayaSalad	Viruses	Duplodnaviria	54	5	0	0	3718	NULL
+5929	Streptomyces phage Paradiddles	Streptomyces virus Paradiddles	Viruses	Duplodnaviria	216	0	3	0	185	NULL
+5930	Streptomyces phage Peebs	Streptomyces virus Peebs	Viruses	Duplodnaviria	226	0	3	0	1170	NULL
+5755	Streptomyces phage Percastrophe	Podoviridae	Viruses	Duplodnaviria	64	2	0	0	185	NULL
+5817	Streptomyces phage PherryCruz	unclassified Scapunavirus	Viruses	Duplodnaviria	58	2	0	0	570	NULL
+5851	Streptomyces phage Phettuccine	unclassified Likavirus	Viruses	Duplodnaviria	73	2	1	0	2764	NULL
+5917	Streptomyces phage phiCAM	Camvirus	Viruses	Duplodnaviria	72	1	1	0	972	NULL
+5916	Streptomyces phage phiELB20	Arequatrovirus	Viruses	Duplodnaviria	81	2	0	0	4218	NULL
+5984	Streptomyces phage phiHau3	Arquatrovirinae	Viruses	Duplodnaviria	72	1	2	0	972	NULL
+5879	Streptomyces phage phiRKBJ001	Siphoviridae	Viruses	Duplodnaviria	109	6	0	0	4218	NULL
+5907	Streptomyces phage phiSAJS1	unclassified Woodruffvirus	Viruses	Duplodnaviria	76	5	0	0	167	NULL
+5898	Streptomyces phage phiSASD1	Siphoviridae	Viruses	Duplodnaviria	43	3	0	0	167	NULL
+5866	Streptomyces phage PHTowN	Siphoviridae	Viruses	Duplodnaviria	104	8	0	0	1170	NULL
+5925	Streptomyces phage Picard	Streptomyces virus Picard	Viruses	Duplodnaviria	56	3	4	0	3718	NULL
+5808	Streptomyces phage Popy	unclassified Rimavirus	Viruses	Duplodnaviria	84	1	0	0	185	NULL
+5900	Streptomyces phage R4	Arequatrovirus	Viruses	Duplodnaviria	86	3	1	0	972	NULL
+5767	Streptomyces phage Rainydai	unclassified Bingvirus	Viruses	Duplodnaviria	91	0	4	0	570	NULL
+5926	Streptomyces phage Raleigh	Streptomyces virus Raleigh	Viruses	Duplodnaviria	53	6	2	0	185	NULL
+5769	Streptomyces phage Rana	unclassified Likavirus	Viruses	Duplodnaviria	76	3	1	0	185	NULL
+5766	Streptomyces phage RavenPuff	unclassified Scapunavirus	Viruses	Duplodnaviria	59	2	0	0	570	NULL
+5815	Streptomyces phage RemusLoopin	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5920	Streptomyces phage Rima	Strepomyces virus Rima	Viruses	Duplodnaviria	87	2	1	0	3459	NULL
+5756	Streptomyces phage Romero	Podoviridae	Viruses	Duplodnaviria	64	3	0	0	185	NULL
+5819	Streptomyces phage RosaAsantewaa	unclassified Scapunavirus	Viruses	Duplodnaviria	55	2	0	0	1170	NULL
+5947	Streptomyces phage Rowa	Streptomyces virus Rowa	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5827	Streptomyces phage Rusticus	unclassified Likavirus	Viruses	Duplodnaviria	75	2	1	0	1170	NULL
+5973	Streptomyces phage Saftant	unclassified Camvirus	Viruses	Duplodnaviria	74	5	3	0	2764	NULL
+5775	Streptomyces phage Salete	unclassified Woodruffvirus	Viruses	Duplodnaviria	71	1	0	0	185	NULL
+5979	Streptomyces phage Salutena	unclassified Arequatrovirus	Viruses	Duplodnaviria	90	4	1	0	4218	NULL
+5931	Streptomyces phage Samisti12	Streptomyces virus Samisti12	Viruses	Duplodnaviria	226	0	3	0	185	NULL
+5781	Streptomyces phage Satis	Siphoviridae	Viruses	Duplodnaviria	325	17	0	0	1170	NULL
+5937	Streptomyces phage Scap1	Streptomyces virus Scap1	Viruses	Duplodnaviria	56	1	0	0	570	NULL
+5794	Streptomyces phage Sebastisaurus	unclassified Lomovskayavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5768	Streptomyces phage SendItCS	unclassified Bingvirus	Viruses	Duplodnaviria	86	0	4	0	570	NULL
+5980	Streptomyces phage Sentinel	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	5	2	0	4218	NULL
+5913	Streptomyces phage SF1	Siphoviridae	Viruses	Duplodnaviria	52	2	1	0	1170	NULL
+5912	Streptomyces phage SF3	Siphoviridae	Viruses	Duplodnaviria	90	2	5	0	1170	NULL
+5881	Streptomyces phage Shady	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5882	Streptomyces phage Shaeky	Siphoviridae	Viruses	Duplodnaviria	74	2	2	0	4218	NULL
+5878	Streptomyces phage ShakeNBake	Siphoviridae	Viruses	Duplodnaviria	104	8	0	0	1170	NULL
+5802	Streptomyces phage Shawty	unclassified Lomovskayavirus	Viruses	Duplodnaviria	56	2	1	0	1170	NULL
+5981	Streptomyces phage Sitrop	unclassified Camvirus	Viruses	Duplodnaviria	77	1	2	0	4218	NULL
+5836	Streptomyces phage Soshi	unclassified Rimavirus	Viruses	Duplodnaviria	85	1	0	0	185	NULL
+5783	Streptomyces phage SparkleGoddess	Siphoviridae	Viruses	Duplodnaviria	232	0	4	0	185	NULL
+5743	Streptomyces phage Spectropatronm	unclassified Rimavirus	Viruses	Duplodnaviria	85	2	1	0	185	NULL
+5982	Streptomyces phage Spernnie	unclassified Arequatrovirus	Viruses	Duplodnaviria	83	3	4	0	4218	NULL
+5752	Streptomyces phage SqueakyClean	unclassified Arequatrovirus	Viruses	Duplodnaviria	78	2	0	0	1170	NULL
+5782	Streptomyces phage Starbow	Siphoviridae	Viruses	Duplodnaviria	238	0	14	0	185	NULL
+5956	Streptomyces phage StarPlatinum	Siphoviridae	Viruses	Duplodnaviria	251	0	5	0	185	NULL
+5903	Streptomyces phage Sujidade	Likavirus	Viruses	Duplodnaviria	77	3	3	0	1170	NULL
+5742	Streptomyces phage Sushi23	unclassified Samistivirus	Viruses	Duplodnaviria	229	0	5	0	185	NULL
+5901	Streptomyces phage SV1	unclassified Picardvirus	Viruses	Duplodnaviria	55	3	1	0	3718	NULL
+5883	Streptomyces phage Sycamore	Siphoviridae	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5936	Streptomyces phage Tefunt	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	4	0	0	1170	NULL
+5796	Streptomyces phage Teutsch	unclassified Samistivirus	Viruses	Duplodnaviria	224	0	4	0	185	NULL
+5962	Streptomyces phage Thestral	unclassified Arequatrovirus	Viruses	Duplodnaviria	82	5	0	0	1170	NULL
+5871	Streptomyces phage Thiqqums	Siphoviridae	Viruses	Duplodnaviria	94	0	5	0	570	NULL
+5875	Streptomyces phage TieDye	Siphoviridae	Viruses	Duplodnaviria	82	2	0	0	185	NULL
+5801	Streptomyces phage TinaBelcher	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	5	0	0	1170	NULL
+5740	Streptomyces phage ToastyFinz	unclassified Raleighvirus	Viruses	Duplodnaviria	52	4	2	0	1170	NULL
+5773	Streptomyces phage Toma	unclassified Likavirus	Viruses	Duplodnaviria	76	2	1	0	1170	NULL
+5849	Streptomyces phage TomSawyer	Siphoviridae	Viruses	Duplodnaviria	247	0	11	0	185	NULL
+5757	Streptomyces phage ToriToki	Podoviridae	Viruses	Duplodnaviria	64	4	0	0	185	NULL
+5911	Streptomyces phage TP1604	Woodruffvirus	Viruses	Duplodnaviria	71	1	0	0	185	NULL
+5850	Streptomyces phage Tribute	unclassified Samistivirus	Viruses	Duplodnaviria	227	0	3	0	185	NULL
+5786	Streptomyces phage TrvxScott	unclassified Arequatrovirus	Viruses	Duplodnaviria	81	4	0	0	1170	NULL
+5825	Streptomyces phage TuanPN	unclassified Likavirus	Viruses	Duplodnaviria	71	2	1	0	185	NULL
+5886	Streptomyces phage TurkishDelight	Siphoviridae	Viruses	Duplodnaviria	125	4	2	0	570	NULL
+5778	Streptomyces phage UNTPL	Siphoviridae	Viruses	Duplodnaviria	81	2	1	0	185	NULL
+5837	Streptomyces phage Urza	Siphoviridae	Viruses	Duplodnaviria	79	3	0	0	2764	NULL
+5968	Streptomyces phage Vash	Streptomyces virus Vash	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5730	Streptomyces phage Verse	Camvirus	Viruses	Duplodnaviria	75	2	2	0	3718	NULL
+5864	Streptomyces phage Vondra	Siphoviridae	Viruses	Duplodnaviria	57	3	1	0	1170	NULL
+5895	Streptomyces phage VWB	Siphoviridae	Viruses	Duplodnaviria	61	5	0	0	3718	NULL
+5854	Streptomyces phage Wakanda	unclassified Wilnyevirus	Viruses	Duplodnaviria	228	0	1	0	1170	NULL
+5741	Streptomyces phage Warpy	unclassified Samistivirus	Viruses	Duplodnaviria	233	0	6	0	185	NULL
+5762	Streptomyces phage Wentworth	Siphoviridae	Viruses	Duplodnaviria	103	6	0	0	185	NULL
+5983	Streptomyces phage Werner	Siphoviridae	Viruses	Duplodnaviria	73	2	2	0	1170	NULL
+5842	Streptomyces phage Whatever	unclassified Likavirus	Viruses	Duplodnaviria	73	2	1	0	1170	NULL
+5791	Streptomyces phage WheeHeim	unclassified Tectiviridae	Viruses	Varidnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5845	Streptomyces phage Wipeout	Siphoviridae	Viruses	Duplodnaviria	240	0	11	0	185	NULL
+5957	Streptomyces phage Wofford	Siphoviridae	Viruses	Duplodnaviria	236	0	18	0	185	NULL
+5941	Streptomyces phage WRightOn	Podoviridae	Viruses	Duplodnaviria	64	9	0	0	1170	NULL
+5732	Streptomyces phage Xkcd426	unclassified Woodruffvirus	Viruses	Duplodnaviria	78	2	0	0	185	NULL
+5963	Streptomyces phage Yaboi	Siphoviridae	Viruses	Duplodnaviria	242	0	17	0	1170	NULL
+5761	Streptomyces phage Yara	Siphoviridae	Viruses	Duplodnaviria	105	7	2	0	1170	NULL
+5971	Streptomyces phage Yasdnil	unclassified Likavirus	Viruses	Duplodnaviria	73	2	2	0	185	NULL
+5906	Streptomyces phage YDN12	Woodruffvirus	Viruses	Duplodnaviria	70	2	0	0	185	NULL
+5953	Streptomyces phage Yosif	unclassified Camvirus	Viruses	Duplodnaviria	78	4	1	0	1170	NULL
+5876	Streptomyces phage Zeigle	Siphoviridae	Viruses	Duplodnaviria	62	9	0	0	1170	NULL
+5904	Streptomyces phage Zemlya	Likavirus	Viruses	Duplodnaviria	76	3	1	0	1170	NULL
+5820	Streptomyces phage ZL12	Siphoviridae	Viruses	Duplodnaviria	112	1	1	0	4218	NULL
+5758	Streptomyces phage ZooBear	Podoviridae	Viruses	Duplodnaviria	64	3	0	0	185	NULL
+5831	Streptomyces phage Zuko	Siphoviridae	Viruses	Duplodnaviria	115	1	0	0	2764	NULL
+5894	Streptomyces virus phiBT1	Lomovskayavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5896	Streptomyces virus phiC31	Lomovskayavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
+5899	Streptomyces virus TG1	Tigunavirus	Viruses	Duplodnaviria	NULL	NULL	NULL	NULL	NULL	NULL
