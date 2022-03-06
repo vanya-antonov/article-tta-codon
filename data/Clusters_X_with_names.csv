@@ -1,0 +1,1161 @@
+# Extracted from 'Clusters_X_with_names' sheet of 20220202-ALL_data_FS_and_TTA_codons_in_clusters.xlsx
+cofID	ORGS	NUM_FS_GENES	NUM_COF_ORGS	NUM_FS_and_TTA_GENES	NUM_TTA_GENES	NUM_TTA_GENE_ORGS	FULL_COF_GENES	FULL_COF_ORGS	FULL_COF_GENES_GBK	COF_NAME
+1004906	Bacteria	2	1	2	0	0	2	1	2	KR domain-containing protein
+1004907	Bacteria	73	35	16	58	27	131	49	66	IS5 family transposase
+1004909	Bacteria	7	7	1	5	4	12	11	5	IS5/IS1182 family transposase
+1004911	Bacteria	6	6	2	6	6	12	11	6	IS5/IS1182 family transposase
+1004914	Bacteria	26	23	0	6	6	32	29	6	abc transporter atp-binding protein
+1004917	Bacteria	3	3	1	6	6	9	8	7	FAD-dependent oxidoreductase
+1004918	Bacteria	13	13	0	2	1	15	14	2	urease subunit beta
+1004919	Bacteria	6	6	0	2	2	8	8	2	Unknown
+1004921	Bacteria	25	25	0	2	2	27	27	2	Unknown
+1004923	Bacteria	4	4	0	2	1	6	5	2	hypothetical protein
+1004924	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1004925	Bacteria	4	4	1	48	36	52	39	55	LuxR family transcriptional regulator
+1004928	Bacteria	22	22	0	3	3	25	25	3	urea abc transporter permease subunit urtc
+1004929	Bacteria	27	27	1	1	1	28	28	2	uridine diphosphate-N-acetylglucosamine-binding protein YvcK
+1004930	Bacteria	5	5	0	5	5	10	9	5	Unknown
+1004932	Bacteria	29	29	2	12	12	41	39	14	DUF3043 domain-containing protein
+1004933	Bacteria	49	49	0	1	1	50	50	1	Unknown
+1004934	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1004936	Bacteria	9	9	0	1	1	10	10	1	Unknown
+1004941	Bacteria	2	2	0	6	5	8	7	6	helicase
+1004942	Bacteria	2	2	0	3	3	5	5	3	Unknown
+1004946	Bacteria	4	4	0	2	2	6	6	2	Unknown
+1004960	Bacteria	3	3	0	19	16	22	19	19	Unknown
+1004964	Bacteria	11	11	0	8	8	19	19	9	chad domain-containing protein
+1004965	Bacteria	42	42	0	5	5	47	47	5	glycosyltransferase family 1 protein
+1004966	Bacteria	12	10	0	66	49	78	52	66	Unknown
+1004974	Bacteria	7	7	0	7	7	14	13	7	nad(p)/fad-dependent oxidoreductase
+1004975	Bacteria	17	17	0	1	1	18	18	1	Unknown
+1004976	Bacteria	8	8	0	1	1	9	9	1	Unknown
+1004977	Bacteria	2	2	0	3	3	5	5	3	rna polymerase sigma factor sigf
+1004978	Bacteria	54	43	2	94	64	148	78	96	DUF742 domain-containing protein
+1004979	Bacteria	3	3	0	2	2	5	5	2	Unknown
+1004981	Bacteria	2	2	0	9	9	11	10	9	Unknown
+1004984	Bacteria	11	11	0	1	1	12	12	1	Unknown
+1004986	Bacteria	3	3	1	1	1	4	3	1	HAMP domain-containing protein
+1004987	Bacteria	2	2	0	2	2	4	4	3	coa-binding protein
+1004993	Bacteria	3	3	0	9	8	12	11	11	endoglucanase
+1004995	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1004996	Bacteria	2	2	0	4	4	6	6	4	hypothetical protein
+1004997	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005002	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005004	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005005	Bacteria	6	6	0	2	2	8	8	2	acyl-coa dehydrogenase
+1005007	Bacteria	3	3	1	6	6	9	9	7	cholesterol esterase
+1005008	Bacteria	3	3	0	3	3	6	6	3	pectate lyase
+1005009	Bacteria	2	2	0	6	5	8	7	6	sugar-binding protein
+1005011	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005012	Bacteria	2	2	0	2	2	4	4	2	atpase
+1005015	Bacteria	2	2	1	11	11	13	13	12	sam-dependent methyltransferase
+1005016	Bacteria	2	1	1	41	29	43	30	42	helix-turn-helix transcriptional regulator
+1005018	Bacteria	4	4	0	6	6	10	10	6	beta-n-acetylhexosaminidase
+1005020	Bacteria	2	2	0	7	7	9	9	7	ohcu decarboxylase
+1005024	Bacteria	3	3	0	9	9	12	11	9	mfs transporter
+1005025	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1005027	Bacteria	6	6	1	40	29	46	34	44	lantibiotic dehydratase
+1005033	Bacteria	11	10	0	1	1	12	10	1	Unknown
+1005035	Bacteria	7	6	0	2	2	9	7	2	replicative dna helicase
+1005037	Bacteria	2	2	0	5	5	7	7	6	aspartate aminotransferase family protein
+1005038	Bacteria	14	12	0	3	3	17	15	3	maltose alpha-d-glucosyltransferase
+1005039	Bacteria	6	6	0	4	4	10	10	4	dna-binding response regulator
+1005040	Bacteria	34	32	0	5	5	39	35	5	phage tail protein
+1005042	Bacteria	2	2	0	2	2	4	4	2	n-acetyltransferase
+1005043	Bacteria	13	13	0	1	1	14	14	1	Unknown
+1005047	Bacteria	10	10	0	1	1	11	11	2	Unknown
+1005049	Bacteria	3	3	0	4	3	7	5	4	haloacid dehalogenase
+1005053	Bacteria	6	6	1	0	0	6	6	1	Unknown
+1005056	Bacteria	2	2	0	2	2	4	4	2	class i sam-dependent methyltransferase
+1005057	Bacteria	2	2	0	2	2	4	4	2	prsw family intramembrane metalloprotease
+1005059	Bacteria	5	5	0	2	2	7	7	2	hypothetical protein
+1005061	Bacteria	11	11	0	4	3	15	14	4	tetr/acrr family transcriptional regulator
+1005062	Bacteria	3	3	0	8	7	11	10	9	non-ribosomal peptide synthetase
+1005064	Bacteria	7	7	0	5	5	12	12	5	sukh-3 domain containing protein
+1005067	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005068	Bacteria	2	2	0	2	2	4	4	2	lpxtg cell wall anchor domain-containing protein
+1005069	Bacteria	2	2	0	3	3	5	5	3	dna-binding response regulator
+1005070	Bacteria	3	3	0	2	2	5	5	2	hypothetical protein
+1005074	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005076	Bacteria	2	1	0	4	4	6	5	4	chemotaxis protein
+1005077	Bacteria	2	1	0	2	2	4	3	2	sigma-70 family rna polymerase sigma factor
+1005080	Bacteria	2	1	0	2	2	4	3	2	atp-binding protein
+1005088	Bacteria	2	2	0	3	3	5	5	3	dna-binding response regulator
+1005090	Bacteria	83	37	12	41	30	124	54	45	IS5 family transposase
+1005092	Bacteria	2	1	2	0	0	2	1	2	Unknown
+1005094	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005095	Bacteria	3	3	0	2	2	5	5	2	hypothetical protein
+1005096	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005100	Bacteria	34	34	0	10	10	44	41	10	kr domain-containing protein
+1005101	Bacteria	4	3	0	7	7	11	9	7	amino acid adenylation protein
+1005105	Bacteria	3	3	0	7	7	10	10	7	iron-siderophore abc transporter substrate-binding protein
+1005106	Bacteria	2	2	0	4	4	6	6	4	aspartate aminotransferase family protein
+1005107	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1005110	Bacteria	2	2	0	2	2	4	4	2	mfs transporter
+1005116	Bacteria	29	29	0	5	5	34	34	5	mfs transporter
+1005119	Bacteria	7	7	0	3	3	10	10	3	rna polymerase
+1005123	Bacteria	10	9	1	18	15	28	24	18	esterase
+1005125	Bacteria	63	45	0	64	46	127	70	65	dna-binding response regulator
+1005126	Bacteria	3	3	0	2	2	5	5	2	gntr family transcriptional regulator
+1005127	Bacteria	2	2	0	4	4	6	6	4	nad(p)-dependent oxidoreductase
+1005128	Bacteria	2	2	0	5	4	7	6	5	ompa family protein
+1005130	Bacteria	3	3	0	1	1	4	3	1	Unknown
+1005137	Bacteria	4	4	1	0	0	4	4	1	Unknown
+1005139	Bacteria	3	3	0	21	18	24	19	21	Unknown
+1005140	Bacteria	8	8	0	2	2	10	10	2	abc transporter
+1005141	Bacteria	6	6	1	1	1	7	7	2	ABC transporter ATP-binding protein
+1005142	Bacteria	2	2	0	15	12	17	12	16	afsr/sarp family
+1005143	Bacteria	9	9	0	1	1	10	10	1	Unknown
+1005148	Bacteria	25	25	0	1	1	26	26	1	Unknown
+1005150	Bacteria	2	2	0	4	4	6	6	4	serine hydrolase
+1005151	Bacteria	13	11	4	59	34	72	41	65	XRE family transcriptional regulator
+1005152	Bacteria	27	27	0	2	1	29	28	2	hypothetical protein
+1005153	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005155	Bacteria	6	6	0	4	4	10	9	4	phytanoyl-coa dioxygenase
+1005156	Bacteria	15	15	0	4	4	19	18	4	duf58 domain-containing protein
+1005158	Bacteria	2	2	0	2	2	4	4	2	atpase
+1005159	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005161	Bacteria	2	2	0	20	18	22	20	21	glycosyltransferase family 4 protein
+1005162	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1005165	Bacteria	3	3	0	1	1	4	4	2	Unknown
+1005166	Bacteria	9	9	0	2	2	11	11	2	m56 family peptidase
+1005168	Bacteria	2	2	0	3	3	5	4	3	crotonyl-coa carboxylase/reductase
+1005169	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1005170	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005171	Bacteria	6	6	0	0	0	6	6	1	Unknown
+1005172	Bacteria	10	10	0	12	12	22	20	13	sugar abc transporter substrate-binding protein
+1005173	Bacteria	5	5	0	7	7	12	12	7	peptidase s15
+1005174	Bacteria	2	2	1	12	11	14	13	13	sigma-70 family RNA polymerase sigma factor
+1005178	Bacteria	3	2	0	15	13	18	13	16	ggdef domain-containing protein
+1005179	Bacteria	2	1	2	16	13	18	14	16	hypothetical protein
+1005182	Bacteria	14	7	3	13	12	27	19	14	KR domain-containing protein
+1005185	Bacteria	9	9	0	3	3	12	12	3	cation-transporting atpase
+1005186	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005192	Bacteria	8	8	0	4	4	12	12	4	acyl-coa dehydrogenase
+1005193	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1005195	Bacteria	2	2	0	2	2	4	4	3	abc transporter atp-binding protein
+1005196	Bacteria	10	10	0	1	1	11	10	1	Unknown
+1005197	Bacteria	2	2	1	1	1	3	3	2	lpxtg cell wall anchor domain-containing protein
+1005198	Bacteria	9	9	0	5	5	14	13	5	Unknown
+1005204	Bacteria	2	1	0	24	20	26	21	24	acyltransferase
+1005205	Bacteria	14	13	0	1	1	15	14	1	Unknown
+1005206	Bacteria	19	19	1	1	1	20	20	1	ABC transporter ATP-binding protein
+1005208	Bacteria	3	3	0	5	5	8	8	5	arac family transcriptional regulator
+1005213	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005215	Bacteria	2	2	0	2	2	4	4	2	atp-dependent dna ligase
+1005217	Bacteria	3	3	1	11	7	14	10	13	ParH-like protein
+1005218	Bacteria	2	2	0	9	9	11	11	9	kr domain-containing protein
+1005220	Bacteria	2	1	1	47	39	49	39	50	MFS transporter
+1005221	Bacteria	2	2	0	12	10	14	12	12	Unknown
+1005222	Bacteria	6	6	0	4	3	10	9	4	isopenicillin n synthase family oxygenase
+1005223	Bacteria	3	3	0	16	16	19	18	16	protein phosphatase
+1005224	Bacteria	2	2	1	2	2	4	3	4	serine/threonine protein kinase
+1005226	Bacteria	2	2	0	6	6	8	6	6	response regulator
+1005229	Bacteria	2	2	0	3	3	5	5	3	abc transporter
+1005230	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005231	Bacteria	2	2	0	3	2	5	4	3	methyltransferase, fxld system
+1005232	Bacteria	40	26	25	47	31	87	43	71	IS630 transposase
+1005233	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005236	Bacteria	4	4	0	4	4	8	8	4	dctp deaminase
+1005242	Bacteria	3	3	0	9	9	12	11	9	duf3152 domain-containing protein
+1005245	Bacteria	11	11	0	1	1	12	12	1	Unknown
+1005246	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1005249	Bacteria	3	3	0	1	1	4	4	2	Unknown
+1005251	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005252	Bacteria	3	3	0	8	7	11	8	8	ripp maturation radical sam protein 1
+1005253	Bacteria	2	2	0	43	35	45	37	43	chitin-binding protein
+1005254	Bacteria	3	3	0	3	3	6	6	3	eama/rhat family transporter
+1005255	Bacteria	44	37	1	0	0	44	37	1	Unknown
+1005256	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005259	Bacteria	4	3	0	6	4	10	7	6	is982 family transposase
+1005261	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005264	Bacteria	2	2	0	3	3	5	5	3	alpha/beta hydrolase
+1005265	Bacteria	8	8	0	2	2	10	10	2	glycosyltransferase family 2 protein
+1005269	Bacteria	11	11	0	3	3	14	13	3	glycogen synthase
+1005270	Bacteria	3	3	0	5	5	8	8	5	glycogen synthase
+1005271	Bacteria	2	2	0	3	3	5	5	4	amidase
+1005273	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1005274	Bacteria	8	8	0	1	1	9	9	1	Unknown
+1005275	Bacteria	2	1	0	9	9	11	10	9	Unknown
+1005276	Bacteria	3	1	0	1	1	4	2	1	Unknown
+1005280	Bacteria	8	7	0	5	5	13	10	5	sodium-dependent transporter
+1005281	Bacteria	2	2	0	5	5	7	7	5	Unknown
+1005285	Bacteria	5	5	1	1	1	6	6	1	IS110 family transposase
+1005286	Bacteria	2	2	0	2	1	4	3	2	hypothetical protein
+1005292	Bacteria	6	5	1	4	4	10	8	5	IS701 family transposase
+1005293	Bacteria	6	5	1	6	4	12	6	7	IS630 family transposase
+1005296	Bacteria	2	2	0	6	6	8	8	7	arac family transcriptional regulator
+1005297	Bacteria	4	4	1	3	3	7	7	3	IS5/IS1182 family transposase
+1005299	Bacteria	5	4	0	5	2	10	6	5	is1380 family transposase
+1005302	Bacteria	5	5	0	3	3	8	8	3	lipase
+1005303	Bacteria	3	3	1	4	4	7	7	5	ATP-grasp ribosomal peptide maturase
+1005304	Bacteria	8	7	0	5	3	13	10	5	multidrug abc transporter atpase
+1005307	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005309	Bacteria	2	2	0	2	2	4	3	2	hypothetical protein
+1005310	Bacteria	3	3	0	8	8	11	11	8	cyclic nucleotide-binding domain-containing protein
+1005311	Bacteria	13	11	7	14	9	27	19	14	IS5/IS1182 family transposase
+1005312	Bacteria	2	2	0	3	3	5	5	3	hydrolase
+1005314	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005316	Bacteria	2	2	0	5	5	7	7	5	siderophore biosynthesis protein
+1005317	Bacteria	9	9	0	2	2	11	10	2	atp-dependent clp protease proteolytic subunit
+1005318	Bacteria	2	2	0	9	9	11	11	9	atp-binding protein
+1005320	Bacteria	2	2	0	2	2	4	4	2	cupin domain-containing protein
+1005321	Bacteria	4	4	0	5	5	9	9	5	rna polymerase sigma factor sigl
+1005326	Bacteria	12	12	0	4	4	16	15	4	dna polymerase iv
+1005327	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005330	Bacteria	3	3	0	20	17	23	20	21	Unknown
+1005331	Bacteria	4	4	1	11	8	15	12	14	FAD-dependent oxidoreductase
+1005333	Bacteria	3	3	0	3	3	6	6	3	Unknown
+1005335	Bacteria	3	3	0	6	6	9	9	6	abc transporter permease
+1005336	Bacteria	14	14	0	2	2	16	16	3	hypothetical protein
+1005337	Bacteria	9	9	2	0	0	9	9	1	Unknown
+1005338	Bacteria	3	3	0	1	1	4	4	1	sigb/sigf/sigg family rna polymerase sigma factor
+1005344	Bacteria	7	6	0	105	70	112	71	106	xre family transcriptional regulator
+1005345	Bacteria	2	2	0	9	8	11	10	9	fad-binding protein
+1005348	Bacteria	2	2	0	4	4	6	6	4	thiolase
+1005349	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005350	Bacteria	2	1	1	5	3	7	3	6	non-ribosomal peptide synthetase
+1005352	Bacteria	2	2	0	19	19	21	20	19	Unknown
+1005354	Bacteria	3	3	0	2	2	5	5	2	kr domain-containing protein
+1005356	Bacteria	4	4	1	2	2	6	6	3	sugar ABC transporter substrate-binding protein
+1005359	Bacteria	2	2	0	4	4	6	6	4	kr domain
+1005362	Bacteria	6	5	0	1	1	7	6	1	Unknown
+1005364	Bacteria	8	6	1	3	3	11	9	3	ISAs1 family transposase
+1005365	Bacteria	10	6	3	9	4	19	9	9	integrase
+1005369	Bacteria	4	4	0	14	4	18	7	16	integrase
+1005371	Bacteria	5	5	0	2	2	7	7	2	fad-dependent oxidoreductase
+1005372	Bacteria	2	2	0	7	7	9	9	7	Unknown
+1005375	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005379	Bacteria	2	2	0	4	3	6	5	4	mfs transporter
+1005381	Bacteria	6	6	0	2	2	8	8	2	sugar abc transporter substrate-binding protein
+1005383	Bacteria	2	2	0	9	8	11	9	9	xre family transcriptional regulator
+1005384	Bacteria	11	10	0	1	1	12	11	1	Unknown
+1005387	Bacteria	2	2	0	3	3	5	5	3	Unknown
+1005389	Bacteria	4	4	0	14	14	18	18	15	biotin transporter bioy
+1005396	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005397	Bacteria	4	4	0	7	6	11	9	7	tigr03084 family protein
+1005398	Bacteria	11	10	2	44	31	55	39	47	XRE family transcriptional regulator
+1005402	Bacteria	2	2	0	17	16	19	18	17	polyprenyl synthetase family protein
+1005405	Bacteria	3	3	0	5	5	8	8	5	plasmid stabilization protein
+1005407	Bacteria	3	3	0	2	2	5	5	2	dna-binding response regulator
+1005408	Bacteria	11	11	0	5	5	16	16	5	Unknown
+1005409	Bacteria	6	6	0	4	4	10	10	4	tetr/acrr family transcriptional regulator
+1005410	Bacteria	2	2	1	2	2	4	4	3	helix-turn-helix domain-containing protein
+1005411	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005415	Bacteria	3	3	0	2	2	5	5	2	sugar phosphotransferase
+1005416	Bacteria	2	2	1	6	6	8	6	7	XRE family transcriptional regulator
+1005417	Bacteria	4	4	1	15	13	19	15	15	DNA-binding response regulator
+1005418	Bacteria	2	2	0	3	3	5	5	3	fad-dependent monooxygenase
+1005419	Bacteria	3	3	0	7	7	10	9	7	glycosyltransferase
+1005420	Bacteria	6	4	0	2	2	8	6	2	aldo/keto reductase
+1005421	Bacteria	2	2	1	1	1	3	3	2	transcriptional regulator
+1005422	Bacteria	2	2	0	5	5	7	6	5	Unknown
+1005423	Bacteria	4	4	0	3	3	7	7	3	Unknown
+1005424	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005425	Bacteria	2	2	0	4	4	6	6	4	Unknown
+1005426	Bacteria	17	17	0	12	10	29	25	12	mfs transporter
+1005427	Bacteria	5	5	0	32	27	37	28	34	atp-binding protein
+1005428	Bacteria	5	4	2	22	7	27	11	22	IS1182 family transposase
+1005429	Bacteria	11	11	2	56	39	67	45	59	cytochrome P450
+1005431	Bacteria	2	2	1	3	3	5	5	3	SMI1/KNR4 family protein
+1005432	Bacteria	13	13	0	1	1	14	14	1	Unknown
+1005433	Bacteria	4	4	2	1	1	5	5	3	IS5 family transposase
+1005434	Bacteria	2	2	0	1	1	3	2	1	Unknown
+1005436	Bacteria	3	3	0	4	4	7	7	4	phosphotransferase
+1005438	Bacteria	2	2	0	3	3	5	5	3	hypothetical protein
+1005439	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005441	Bacteria	5	5	1	7	6	12	10	8	acyl-CoA dehydrogenase
+1005442	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005445	Bacteria	2	2	0	3	3	5	5	3	hypothetical protein
+1005447	Bacteria	2	2	0	4	4	6	6	4	Unknown
+1005448	Bacteria	2	2	0	164	81	166	81	167	XRE family transcriptional regulator
+1005450	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005459	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1005460	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005461	Bacteria	17	17	0	6	6	23	21	6	sugar abc transporter atp-binding protein
+1005464	Bacteria	4	4	0	3	3	7	7	3	mandelate racemase
+1005466	Bacteria	12	12	2	2	2	14	14	4	hypothetical protein
+1005467	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1005468	Bacteria	2	2	1	5	5	7	7	5	alpha-galactosidase
+1005469	Bacteria	2	1	2	0	0	2	1	1	Unknown
+1005473	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005476	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005478	Bacteria	5	5	0	6	6	11	11	6	sulfatase-modifying factor protein
+1005480	Bacteria	5	5	0	4	4	9	9	4	Unknown
+1005481	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005483	Bacteria	9	9	0	5	5	14	13	5	aspartate aminotransferase family protein
+1005485	Bacteria	4	4	0	9	9	13	11	9	penicillin-binding protein
+1005486	Bacteria	7	7	4	23	19	30	22	28	MoxR family ATPase
+1005492	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005493	Bacteria	2	2	1	1	1	3	3	2	membrane protein
+1005495	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005497	Bacteria	2	2	0	3	3	5	5	3	lrp/asnc family transcriptional regulator
+1005499	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005501	Bacteria	2	1	0	88	82	90	82	91	AraC family transcriptional regulator
+1005506	Bacteria	9	9	0	7	7	16	16	8	iron abc transporter permease
+1005511	Bacteria	2	2	2	2	2	4	4	4	hypothetical protein
+1005512	Bacteria	2	2	0	5	5	7	7	5	mfs transporter
+1005513	Bacteria	3	3	0	3	3	6	5	3	carbohydrate abc transporter permease
+1005518	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1005519	Bacteria	11	11	0	2	2	13	13	2	benzoylsuccinyl-coa thiolase
+1005521	Bacteria	23	23	1	3	3	26	26	4	sirohydrochlorin chelatase
+1005526	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005527	Bacteria	9	9	0	1	1	10	10	1	Unknown
+1005529	Bacteria	7	7	0	5	5	12	12	5	beta-xylosidase
+1005530	Bacteria	12	11	0	3	3	15	14	3	tyrosinase
+1005534	Bacteria	11	11	2	1	1	12	12	1	beta-xylosidase
+1005535	Bacteria	2	2	1	16	16	18	18	17	hypothetical protein
+1005537	Bacteria	10	10	0	1	1	11	11	1	Unknown
+1005540	Bacteria	7	7	0	2	2	9	9	2	nucleoside deaminase
+1005543	Bacteria	2	2	0	32	21	34	22	32	1,4-beta-xylanase
+1005544	Bacteria	3	3	0	17	15	20	17	17	alpha-l-arabinofuranosidase
+1005545	Bacteria	3	3	0	9	8	12	11	9	sulp family inorganic anion transporter
+1005547	Bacteria	5	5	0	8	8	13	11	9	septum formation initiator
+1005548	Bacteria	4	4	0	26	22	30	24	30	Unknown
+1005550	Bacteria	5	4	0	1	1	6	5	1	Unknown
+1005554	Bacteria	7	7	0	5	5	12	12	5	rna polymerase sigma factor
+1005557	Bacteria	2	2	0	4	4	6	5	4	sensor histidine kinase
+1005558	Bacteria	2	2	0	4	4	6	6	4	hypothetical protein
+1005559	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005560	Bacteria	11	11	0	8	8	19	17	8	abc transporter
+1005561	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1005562	Bacteria	2	2	1	20	18	22	19	21	WD-40 repeat-containing protein
+1005563	Bacteria	5	5	0	4	4	9	9	5	hamp domain-containing protein
+1005565	Bacteria	2	2	0	2	2	4	4	2	type vii secretion-associated serine protease mycosin
+1005569	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005570	Bacteria	24	22	0	5	5	29	27	5	abc transporter permease
+1005572	Bacteria	3	3	0	1	1	4	4	2	Unknown
+1005573	Bacteria	6	6	0	2	2	8	7	2	nadh dehydrogenase
+1005574	Bacteria	4	4	0	0	0	4	4	1	Unknown
+1005575	Bacteria	8	8	0	16	14	24	18	16	hydrolase
+1005576	Bacteria	3	3	0	2	1	5	4	2	moxr family atpase
+1005577	Bacteria	2	2	0	15	14	17	16	16	lysr family transcriptional regulator
+1005578	Bacteria	5	5	0	2	2	7	7	2	hypothetical protein
+1005583	Bacteria	7	5	1	4	3	11	8	4	IS5/IS1182 family transposase
+1005584	Bacteria	2	2	1	7	6	9	8	8	hypothetical protein
+1005589	Bacteria	2	2	0	2	2	4	4	2	aldehyde dehydrogenase
+1005590	Bacteria	2	2	0	4	4	6	6	4	sugar-binding protein
+1005594	Bacteria	2	2	0	4	4	6	6	4	carbohydrate kinase
+1005595	Bacteria	2	2	1	6	6	8	8	6	alpha-mannosidase
+1005596	Bacteria	2	2	0	2	2	4	4	2	serine/threonine-protein phosphatase
+1005598	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005599	Bacteria	5	5	2	4	4	9	8	4	IS701 family transposase
+1005600	Bacteria	4	4	1	1	1	5	5	2	transposase
+1005601	Bacteria	5	5	0	6	5	11	10	6	pectate lyase
+1005603	Bacteria	7	7	5	56	43	63	49	62	atp-binding protein
+1005606	Bacteria	2	2	0	4	4	6	6	4	aldo/keto reductase
+1005608	Bacteria	11	11	0	6	5	17	15	6	beta-ketoacyl synthase
+1005610	Bacteria	3	3	0	4	4	7	7	4	rna polymerase sigma factor sigm
+1005612	Bacteria	2	2	0	8	8	10	10	8	Unknown
+1005615	Bacteria	2	2	0	5	4	7	6	5	asch domain-containing protein
+1005616	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005618	Bacteria	3	3	0	3	3	6	6	3	cpbp family
+1005620	Bacteria	2	2	1	22	14	24	15	23	ATP/GTP-binding protein
+1005622	Bacteria	9	9	0	5	5	14	14	5	metallophosphoesterase
+1005624	Bacteria	2	2	0	7	5	9	7	7	methylaspartate mutase
+1005625	Bacteria	3	2	0	1	1	4	3	1	Unknown
+1005626	Bacteria	20	19	0	15	15	35	30	15	duf742 domain-containing protein
+1005628	Bacteria	3	3	0	4	4	7	7	4	ndp-hexose 2,3-dehydratase
+1005630	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005631	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005633	Bacteria	10	10	2	48	26	58	31	49	ISL3 family transposase
+1005637	Bacteria	3	3	0	11	11	14	14	12	sugar abc transporter
+1005639	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005641	Bacteria	9	9	0	9	9	18	18	9	sugar abc transporter permease
+1005646	Bacteria	7	7	0	5	5	12	12	5	Unknown
+1005650	Bacteria	9	9	2	13	13	22	19	15	ATPase AAA
+1005652	Bacteria	24	21	0	20	19	44	37	20	Unknown
+1005653	Bacteria	4	4	0	55	46	59	48	57	ATP-binding protein
+1005654	Bacteria	2	2	0	3	3	5	4	3	sensor histidine kinase
+1005656	Bacteria	4	4	3	6	6	10	10	9	type II secretion system F family protein
+1005657	Bacteria	2	2	1	5	4	7	5	6	thymidylate synthase
+1005658	Bacteria	2	2	1	1	1	3	3	2	thymidylate synthase
+1005659	Bacteria	4	4	0	2	2	6	6	2	liga protein
+1005660	Bacteria	4	4	0	6	5	10	8	6	gntr family transcriptional regulator
+1005666	Bacteria	4	4	0	2	2	6	6	2	hypothetical protein
+1005667	Bacteria	2	2	0	3	3	5	5	3	abc transporter
+1005668	Bacteria	12	12	0	1	1	13	13	1	Unknown
+1005670	Bacteria	2	2	0	3	3	5	5	3	transcription regulator asnc
+1005671	Bacteria	2	2	0	14	12	16	14	14	transposase
+1005672	Bacteria	7	7	0	9	9	16	15	9	duf742 domain-containing protein
+1005674	Bacteria	3	3	0	16	15	19	17	16	polyprenyl synthetase family protein
+1005677	Bacteria	9	9	1	5	5	14	14	6	gfo/Idh/MocA family oxidoreductase
+1005678	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005679	Bacteria	2	2	1	1	1	3	3	1	IS5/IS1182 family transposase
+1005694	Bacteria	3	1	0	1	1	4	1	1	Unknown
+1005695	Bacteria	19	11	9	30	26	49	33	35	IS701 family transposase
+1005696	Bacteria	2	1	0	12	7	14	8	12	transposase
+1005697	Bacteria	2	1	0	2	2	4	3	2	transposase
+1005699	Bacteria	2	1	0	3	1	5	2	3	is630 family transposase
+1005700	Bacteria	3	2	0	2	2	5	4	2	y4ya family plp-dependent enzyme
+1005701	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1005708	Bacteria	5	5	0	5	4	10	9	5	Unknown
+1005712	Bacteria	3	3	1	15	13	18	15	18	PLP-dependent aminotransferase family protein
+1005715	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005719	Bacteria	12	10	0	1	1	13	11	1	Unknown
+1005720	Bacteria	2	2	0	19	18	21	20	20	Unknown
+1005721	Bacteria	6	6	0	3	3	9	9	3	pas domain-containing sensor histidine kinase
+1005722	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005723	Bacteria	2	2	0	19	18	21	20	19	dehydrogenase
+1005724	Bacteria	7	7	2	15	13	22	19	19	ComEA family DNA-binding protein
+1005725	Bacteria	6	6	1	1	1	7	7	2	fkbm family methyltransferase
+1005726	Bacteria	5	5	0	2	2	7	6	2	Unknown
+1005730	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1005731	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1005732	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005733	Bacteria	2	2	0	2	2	4	4	2	adenylate cyclase
+1005735	Bacteria	7	7	0	4	4	11	11	4	fadr family transcriptional regulator
+1005736	Bacteria	2	2	1	8	7	10	9	8	amino acid permease
+1005738	Bacteria	8	8	0	1	1	9	9	1	Unknown
+1005740	Bacteria	3	3	0	2	2	5	5	2	nucleotide sugar dehydrogenase
+1005741	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005742	Bacteria	6	6	0	4	4	10	10	4	carbonic anhydrase
+1005747	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005748	Bacteria	3	3	0	12	10	15	13	12	Unknown
+1005750	Bacteria	5	5	0	5	5	10	10	5	atp/gtp-binding protein
+1005751	Bacteria	7	1	0	1	1	8	2	1	Unknown
+1005754	Bacteria	2	2	0	5	5	7	7	6	glycosyltransferase
+1005760	Bacteria	2	1	0	4	3	6	3	4	hypothetical protein
+1005762	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005763	Bacteria	3	1	3	4	4	7	5	4	ISAzo13 family transposase
+1005765	Bacteria	3	3	0	0	0	3	3	1	Unknown
+1005766	Bacteria	3	3	0	6	6	9	9	6	l-lysine 6-monooxygenase
+1005769	Bacteria	2	2	2	15	7	17	8	16	IS4 family transposase
+1005774	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1005775	Bacteria	2	2	0	23	19	25	21	23	tat pathway signal
+1005779	Bacteria	8	7	0	11	10	19	16	11	Unknown
+1005780	Bacteria	2	2	0	4	4	6	6	5	kr domain-containing protein
+1005782	Bacteria	14	14	0	6	6	20	19	6	dna-binding response regulator
+1005783	Bacteria	7	7	0	30	26	37	33	30	long-chain fatty acid-coa ligase
+1005784	Bacteria	6	6	0	6	6	12	11	6	enoyl-coa hydratase family protein
+1005785	Bacteria	6	6	0	7	7	13	13	8	fad-binding protein
+1005786	Bacteria	3	3	0	13	12	16	15	13	amidohydrolase
+1005788	Bacteria	2	2	0	1	1	3	2	1	Unknown
+1005789	Bacteria	3	3	0	11	11	14	14	11	fructose-bisphosphate aldolase
+1005790	Bacteria	2	2	0	4	4	6	6	4	site-specific integrase
+1005792	Bacteria	2	2	1	3	3	5	5	3	NUDIX domain-containing protein
+1005793	Bacteria	2	2	0	3	3	5	5	4	methyltransferase domain-containing protein
+1005794	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005795	Bacteria	5	5	0	8	8	13	13	8	laci family transcriptional regulator
+1005798	Bacteria	3	3	2	41	40	44	43	43	LacI family transcriptional regulator
+1005802	Bacteria	3	3	0	9	8	12	11	9	class i sam-dependent methyltransferase
+1005805	Bacteria	9	9	1	36	35	45	43	37	sugar transferase
+1005806	Bacteria	2	2	0	11	10	13	12	11	integrase
+1005807	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005809	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005810	Bacteria	3	3	0	23	16	26	19	23	pkd domain-containing protein
+1005811	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1005812	Bacteria	2	2	0	9	9	11	11	10	methyltransferase domain-containing protein
+1005813	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005815	Bacteria	5	5	2	9	8	14	12	11	ATP-grasp domain-containing protein
+1005816	Bacteria	7	7	0	6	6	13	12	6	heparinase
+1005817	Bacteria	6	6	0	3	3	9	9	3	atp-dependent helicase
+1005818	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005819	Bacteria	3	3	0	2	2	5	5	2	xre family transcriptional regulator
+1005821	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005826	Bacteria	3	2	0	1	1	4	3	1	Unknown
+1005830	Bacteria	2	1	2	0	0	2	1	2	Unknown
+1005831	Bacteria	3	2	2	2	2	5	4	2	helicase DnaB
+1005836	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005838	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1005840	Bacteria	2	1	0	13	12	15	13	13	thioesterase
+1005846	Bacteria	4	4	0	3	3	7	7	3	enoyl-coa hydratase family protein
+1005851	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1005852	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005855	Bacteria	2	2	0	1	1	3	2	1	Unknown
+1005856	Bacteria	8	8	2	16	13	24	20	16	IS630 family transposase
+1005857	Bacteria	5	5	1	4	4	9	9	6	ABC transporter
+1005859	Bacteria	3	3	1	21	19	24	22	22	nucleotide sugar dehydrogenase
+1005862	Bacteria	3	3	0	36	28	39	31	36	SAM-dependent methyltransferase
+1005863	Bacteria	2	2	0	2	2	4	4	2	dna-binding response regulator
+1005867	Bacteria	33	28	1	9	8	42	32	10	aldehyde dehydrogenase
+1005868	Bacteria	2	2	0	2	2	4	4	2	aminotransferase class i/ii
+1005872	Bacteria	2	2	1	1	1	3	3	1	CHAD domain-containing protein
+1005873	Bacteria	2	2	0	3	3	5	5	3	murr/rpir family transcriptional regulator
+1005874	Bacteria	7	7	0	9	9	16	13	9	sigma factor
+1005876	Bacteria	3	3	0	4	4	7	7	4	ppx/gppa phosphatase
+1005877	Bacteria	2	2	1	11	10	13	12	12	MFS transporter
+1005878	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005879	Bacteria	2	2	0	9	9	11	11	9	Unknown
+1005880	Bacteria	4	4	0	2	2	6	6	2	sugar kinase
+1005881	Bacteria	2	2	0	9	7	11	9	9	replication initiation protein
+1005883	Bacteria	10	10	2	5	5	15	15	7	transcriptional regulator
+1005884	Bacteria	3	3	0	1	1	4	4	2	Unknown
+1005886	Bacteria	6	6	3	49	30	55	36	56	TIR domain-containing protein
+1005887	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005888	Bacteria	2	2	0	52	50	54	50	53	hydrolase
+1005889	Bacteria	2	2	0	3	3	5	5	3	n-acetyltransferase
+1005890	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005896	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1005897	Bacteria	2	2	0	2	2	4	4	2	mfs transporter
+1005899	Bacteria	2	2	0	8	7	10	9	9	asparagine synthase
+1005900	Bacteria	3	3	1	4	4	7	7	5	serine/threonine protein kinase
+1005901	Bacteria	3	3	0	4	4	7	7	5	pd-(d/e)xk nuclease family protein
+1005902	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1005903	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1005904	Bacteria	2	2	0	6	5	8	6	6	transketolase
+1005905	Bacteria	2	2	0	9	8	11	10	9	sugar kinase
+1005907	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005908	Bacteria	5	4	0	1	1	6	5	1	Unknown
+1005910	Bacteria	8	7	0	105	68	113	69	106	ATP-binding protein
+1005911	Bacteria	2	2	0	6	6	8	8	6	septum formation initiator
+1005912	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005916	Bacteria	2	2	0	5	5	7	7	5	prepilin peptidase
+1005918	Bacteria	2	2	0	4	4	6	6	4	membrane protein
+1005919	Bacteria	5	5	0	9	9	14	13	9	Unknown
+1005923	Bacteria	4	4	0	6	6	10	10	6	glycoside hydrolase
+1005927	Bacteria	2	2	0	7	7	9	9	7	Unknown
+1005932	Bacteria	2	2	0	7	7	9	9	7	mfs transporter
+1005933	Bacteria	2	2	0	49	39	51	41	50	lysr family transcriptional regulator
+1005934	Bacteria	2	2	0	3	3	5	5	3	kr domain-containing protein
+1005937	Bacteria	2	2	0	4	4	6	6	4	glycerophosphodiester phosphodiesterase
+1005938	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1005940	Bacteria	7	7	0	4	4	11	11	4	Unknown
+1005943	Bacteria	2	2	0	10	10	12	11	10	degt/dnrj/eryc1/strs family aminotransferase
+1005944	Bacteria	4	4	0	4	4	8	8	4	molecular chaperone
+1005945	Bacteria	2	1	0	0	0	2	1	1	Unknown
+1005946	Bacteria	2	2	0	2	2	4	4	2	acyl-acp desaturase
+1005950	Bacteria	3	3	0	18	17	21	20	18	protein kinase
+1005952	Bacteria	2	1	0	1	1	3	2	2	Unknown
+1005953	Bacteria	2	2	1	1	1	3	3	1	transposase
+1005955	Bacteria	3	3	0	65	44	68	45	69	helix-turn-helix transcriptional regulator
+1005957	Bacteria	3	3	0	12	9	15	12	13	Unknown
+1005963	Bacteria	5	4	0	1	1	6	4	1	Unknown
+1005967	Bacteria	2	2	1	11	10	13	11	12	tetratricopeptide repeat protein
+1005971	Bacteria	2	2	0	2	2	4	3	2	glycosyl transferase
+1005976	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005981	Bacteria	2	2	0	19	14	21	16	20	glycoside hydrolase family 2
+1005987	Bacteria	2	2	0	2	2	4	4	2	rna polymerase sigma factor sigk
+1005988	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005989	Bacteria	2	2	0	15	12	17	14	15	dna primase
+1005990	Bacteria	7	6	1	6	5	13	10	7	ABC transporter ATP-binding protein
+1005991	Bacteria	3	3	0	3	3	6	6	3	hypothetical protein
+1005993	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1005996	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005998	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1005999	Bacteria	2	2	0	15	14	17	15	16	Unknown
+1006000	Bacteria	5	5	1	0	0	5	5	1	Unknown
+1006001	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006005	Bacteria	2	2	0	8	6	10	8	8	amino acid permease
+1006013	Bacteria	2	2	0	5	5	7	7	5	3-oxosteroid 1-dehydrogenase
+1006019	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006022	Bacteria	2	2	0	2	2	4	4	2	sugar abc transporter substrate-binding protein
+1006024	Bacteria	2	2	0	2	2	4	4	2	aspartate aminotransferase
+1006025	Bacteria	2	2	0	4	4	6	6	4	rna polymerase subunit sigma
+1006027	Bacteria	2	2	0	4	4	6	5	4	kr domain
+1006029	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006030	Bacteria	5	5	1	3	3	8	8	4	metallophosphoesterase
+1006032	Bacteria	4	4	3	45	35	49	38	49	FxsB family radical SAM/SPASM domain protein
+1006033	Bacteria	8	8	0	3	3	11	10	3	helix-turn-helix domain-containing protein
+1006034	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006036	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006038	Bacteria	5	5	0	9	8	14	13	9	rok family transcriptional regulator
+1006042	Bacteria	2	1	0	21	15	23	16	21	arsr family transcriptional regulator
+1006045	Bacteria	2	1	0	2	2	4	3	2	is110 family transposase
+1006050	Bacteria	4	4	0	7	6	11	10	7	Unknown
+1006052	Bacteria	2	2	0	4	4	6	6	4	cupin
+1006053	Bacteria	3	3	0	20	18	23	20	20	Unknown
+1006054	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006056	Bacteria	3	3	0	9	9	12	12	9	atp-grasp domain-containing protein
+1006059	Bacteria	5	5	0	7	7	12	11	7	gdp-mannose 4,6-dehydratase
+1006060	Bacteria	2	2	0	5	4	7	6	5	hamp domain-containing protein
+1006062	Bacteria	3	2	0	1	1	4	3	1	Unknown
+1006064	Bacteria	5	5	0	30	29	35	34	30	pas domain-containing sensor histidine kinase
+1006069	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006071	Bacteria	3	3	0	13	12	16	13	13	glycosyltransferase family 2 protein
+1006073	Bacteria	6	5	1	19	15	25	20	20	response regulator
+1006075	Bacteria	3	3	0	7	7	10	9	7	cysteine desulfurase
+1006078	Bacteria	2	2	0	9	9	11	10	9	glycogen debranching enzyme glgx
+1006080	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1006081	Bacteria	2	2	0	2	2	4	4	2	amidohydrolase family protein
+1006087	Bacteria	3	3	0	28	27	31	30	28	transcriptional regulator
+1006096	Bacteria	5	5	0	4	4	9	9	4	alpha/beta hydrolase
+1006103	Bacteria	4	4	0	13	13	17	17	13	llm class flavin-dependent oxidoreductase
+1006108	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006121	Bacteria	3	3	0	3	3	6	6	3	sgnh/gdsl hydrolase family protein
+1006169	Bacteria	8	8	0	1	1	9	9	1	Unknown
+1006182	Bacteria	3	3	0	4	4	7	7	4	cdp-glycerol:glycerophosphate glycerophosphotransferase
+1006186	Bacteria	4	4	0	20	16	24	19	21	aminotransferase
+1006190	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006191	Bacteria	2	2	0	6	6	8	8	6	glutamate--cysteine ligase
+1006200	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1006207	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006208	Bacteria	2	2	0	4	4	6	6	4	hypothetical protein
+1006212	Bacteria	5	5	0	72	58	77	61	72	bifunctional diguanylate cyclase/phosphodiesterase
+1006219	Bacteria	2	2	0	2	2	4	4	2	n-acetyltransferase
+1006233	Bacteria	3	3	3	3	3	6	6	6	carbamoyltransferase
+1006286	Bacteria	2	2	1	0	0	2	2	1	enoyl-coa hydratase
+1006314	Bacteria	2	2	0	3	3	5	4	3	is630 family transposase
+1006318	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006328	Bacteria	5	5	0	2	2	7	7	2	cupin domain-containing protein
+1006329	Bacteria	2	2	0	22	21	24	23	23	lysm peptidoglycan-binding domain
+1006342	Bacteria	6	6	0	2	2	8	7	2	coa transferase subunit a
+1006346	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006348	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006368	Bacteria	4	4	3	1	1	5	5	1	endoglucanase
+1006369	Bacteria	5	5	3	4	4	9	9	7	cellulose-binding protein
+1006376	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1006377	Bacteria	2	2	1	5	3	7	5	5	integrase
+1006382	Bacteria	5	5	0	2	2	7	7	2	alpha/beta hydrolase
+1006414	Bacteria	2	2	0	5	5	7	7	5	glycosyl transferase
+1006415	Bacteria	3	3	0	6	6	9	9	6	glycosyltransferase family 2 protein
+1006420	Bacteria	6	6	0	11	11	17	17	11	mfs transporter
+1006421	Bacteria	4	3	1	3	3	7	6	3	non-ribosomal peptide synthetase/polyketide synthase
+1006422	Bacteria	2	1	0	2	2	4	3	2	hypothetical protein
+1006433	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006435	Bacteria	4	3	2	3	3	7	5	6	KR domain-containing protein
+1006448	Bacteria	2	2	0	7	6	9	6	7	doxx family protein
+1006451	Bacteria	3	3	0	2	2	5	5	2	hypothetical protein
+1006452	Bacteria	3	3	0	2	2	5	5	2	padr family
+1006473	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006486	Bacteria	2	2	0	45	31	47	31	45	XRE family transcriptional regulator
+1006487	Bacteria	4	4	0	4	4	8	8	4	Unknown
+1006503	Bacteria	3	3	0	4	4	7	7	5	coronafacic acid synthetase
+1006510	Bacteria	2	2	0	1	1	3	2	2	Unknown
+1006513	Bacteria	3	3	0	1	1	4	4	1	hypothetical protein
+1006519	Bacteria	8	8	1	3	3	11	11	4	ABC transporter permease
+1006525	Bacteria	5	3	2	2	2	7	5	2	transposase
+1006535	Bacteria	2	2	0	7	7	9	9	7	Unknown
+1006563	Bacteria	2	2	0	4	4	6	6	4	monooxygenase
+1006564	Bacteria	3	3	0	14	14	17	17	15	cellulose 1,4-beta-cellobiosidase
+1006568	Bacteria	5	5	0	6	6	11	11	6	eama family transporter
+1006572	Bacteria	3	3	0	2	2	5	5	2	phosphatase
+1006578	Bacteria	2	2	1	68	49	70	50	71	AfsR/SARP family transcriptional regulator
+1006580	Bacteria	9	8	0	30	23	39	28	30	laci family transcriptional regulator
+1006581	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1006588	Bacteria	7	6	0	4	4	11	7	4	chitinase
+1006595	Bacteria	5	5	0	2	2	7	6	2	fad-binding oxidoreductase
+1006598	Bacteria	2	2	0	3	3	5	4	3	merr family transcriptional regulator
+1006609	Bacteria	4	4	0	16	12	20	16	17	tetratricopeptide repeat protein
+1006612	Bacteria	4	4	0	4	4	8	8	5	glycosyltransferase family 2 protein
+1006614	Bacteria	2	2	0	3	3	5	5	3	nadph:quinone reductase
+1006615	Bacteria	3	3	0	7	6	10	9	8	tetr/acrr family transcriptional regulator
+1006620	Bacteria	3	3	0	5	5	8	8	5	abc transporter atp-binding protein
+1006622	Bacteria	12	12	0	21	18	33	28	21	serine/threonine protein kinase
+1006628	Bacteria	2	2	0	21	18	23	20	21	mfs transporter
+1006631	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1006642	Bacteria	2	2	0	7	7	9	9	8	4-alpha-glucanotransferase
+1006644	Bacteria	3	3	0	147	73	150	74	154	AfsR family transcriptional regulator
+1006647	Bacteria	2	2	0	4	4	6	6	4	duf305 domain-containing protein
+1006649	Bacteria	2	2	0	8	8	10	10	8	alpha/beta hydrolase
+1006651	Bacteria	5	5	0	2	2	7	7	2	flavodoxin-dependent (e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+1006657	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006658	Bacteria	2	1	1	1	1	3	2	1	nitrate reductase
+1006662	Bacteria	4	4	0	3	3	7	7	3	rna polymerase sigma factor
+1006664	Bacteria	3	3	0	2	2	5	5	2	rna polymerase subunit sigma-24
+1006665	Bacteria	2	2	0	2	2	4	4	2	trimeric intracellular cation channel family protein
+1006672	Bacteria	4	4	0	5	5	9	9	5	llm class flavin-dependent oxidoreductase
+1006675	Bacteria	6	6	0	12	12	18	17	12	Unknown
+1006678	Bacteria	8	8	0	7	7	15	14	7	branched-chain amino acid abc transporter permease
+1006679	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1006681	Bacteria	2	2	0	2	2	4	4	2	is5 family transposase
+1006682	Bacteria	3	3	0	6	6	9	9	6	acyl-coa dehydrogenase
+1006686	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006689	Bacteria	2	1	0	16	15	18	15	16	cytochrome p450
+1006693	Bacteria	2	2	0	8	8	10	10	8	pkd domain-containing protein
+1006694	Bacteria	3	3	0	3	3	6	6	3	nitronate monooxygenase
+1006695	Bacteria	2	2	0	3	3	5	5	3	excinuclease abc subunit uvra
+1006696	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1006697	Bacteria	2	2	0	3	3	5	5	3	duf2264 domain-containing protein
+1006698	Bacteria	2	2	1	2	2	4	4	2	KR domain-containing protein
+1006702	Bacteria	4	3	0	2	2	6	5	2	type i polyketide synthase
+1006704	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1006708	Bacteria	3	2	0	1	1	4	3	1	Unknown
+1006712	Bacteria	5	5	0	5	5	10	10	5	oxidoreductase
+1006715	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1006716	Bacteria	2	2	0	5	5	7	6	5	Unknown
+1006717	Bacteria	2	2	0	6	6	8	8	6	amidase
+1006722	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1006736	Bacteria	3	3	0	3	3	6	6	3	mfs transporter
+1006739	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006740	Bacteria	5	5	0	2	2	7	7	2	serine/threonine protein kinase
+1006754	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1006759	Bacteria	2	2	1	3	3	5	5	4	hypothetical protein
+1006775	Bacteria	2	2	0	2	2	4	3	2	class i sam-dependent methyltransferase
+1006801	Bacteria	3	2	0	2	2	5	4	2	sensor histidine kinase
+1006811	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1006817	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006818	Bacteria	3	3	0	4	4	7	7	4	Unknown
+1006820	Bacteria	3	3	1	0	0	3	3	1	Unknown
+1006821	Bacteria	8	7	0	10	10	18	13	11	Unknown
+1006827	Bacteria	2	2	1	11	11	13	13	12	hypothetical protein
+1006835	Bacteria	3	3	0	24	23	27	25	24	Unknown
+1006839	Bacteria	2	2	0	5	5	7	7	5	Unknown
+1006847	Bacteria	2	2	0	13	13	15	13	13	mfs transporter
+1006851	Bacteria	4	4	0	4	3	8	7	4	adenosylhomocysteinase
+1006853	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1006854	Bacteria	3	3	1	9	7	12	10	9	IS110 family transposase
+1006858	Bacteria	2	2	1	1	1	3	2	2	serine/threonine protein kinase
+1006859	Bacteria	2	2	0	7	6	9	7	7	Unknown
+1006869	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1006871	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1006877	Bacteria	4	4	0	5	5	9	8	5	dihydroxy-acid dehydratase
+1006881	Bacteria	6	6	0	15	15	21	20	15	dna-binding response regulator
+1006895	Bacteria	2	2	0	4	4	6	6	4	y4ya family plp-dependent enzyme
+1006909	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1006912	Bacteria	2	2	0	4	4	6	6	4	l-lysine 6-monooxygenase
+1006914	Bacteria	4	4	0	5	4	9	8	5	peptidase
+1006917	Bacteria	6	6	0	2	2	8	8	2	winged helix family transcriptional regulator
+1006922	Bacteria	2	2	0	3	3	5	5	3	alpha-mannosidase
+1006931	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006933	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006944	Bacteria	3	1	0	2	2	5	3	2	hypothetical protein
+1006953	Bacteria	2	2	0	3	2	5	4	3	stress protein
+1006954	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1006958	Bacteria	6	6	0	8	8	14	14	9	membrane protein
+1006959	Bacteria	2	2	0	8	8	10	10	9	fad-dependent oxidoreductase
+1006960	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006962	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1006969	Bacteria	6	6	0	13	13	19	19	13	thiamine biosynthesis protein thif
+1006970	Bacteria	2	2	1	4	4	6	6	5	serine protease
+1006971	Bacteria	2	2	0	9	8	11	10	9	cytochrome p450
+1006972	Bacteria	2	2	0	2	2	4	4	2	k(+)-transporting atpase subunit b
+1006975	Bacteria	4	3	1	2	1	6	4	3	adenosylhomocysteinase
+1006977	Bacteria	2	2	0	2	2	4	3	2	Unknown
+1006989	Bacteria	2	2	0	6	6	8	8	6	fad-dependent oxidoreductase
+1006996	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1006998	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1007003	Bacteria	3	3	0	2	2	5	5	2	membrane protein
+1007012	Bacteria	2	2	0	19	17	21	18	19	laci family transcriptional regulator
+1007013	Bacteria	2	2	0	6	6	8	8	6	iclr family transcriptional regulator
+1007019	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1007021	Bacteria	2	2	2	7	7	9	9	9	RNA polymerase sigma factor
+1007031	Bacteria	2	2	0	3	3	5	4	3	replication initiation protein
+1007047	Bacteria	4	4	1	6	6	10	10	7	sigma-70 family RNA polymerase sigma factor
+1007051	Bacteria	2	2	0	4	4	6	5	4	deor/glpr transcriptional regulator
+1007057	Bacteria	2	2	0	33	31	35	33	33	pucr family transcriptional regulator
+1007064	Bacteria	5	5	0	18	18	23	23	18	hypothetical protein
+1007068	Bacteria	3	3	1	8	8	11	11	9	LysR family transcriptional regulator
+1007069	Bacteria	4	3	0	4	4	8	7	4	abc transporter
+1007070	Bacteria	3	3	0	2	2	5	5	2	gfo/idh/moca family oxidoreductase
+1007075	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1007076	Bacteria	2	2	0	3	3	5	5	3	ornithine cyclodeaminase family protein
+1007077	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007088	Bacteria	5	5	3	71	44	76	48	77	TIR domain-containing protein
+1007090	Bacteria	4	4	4	3	3	7	7	7	XRE family transcriptional regulator
+1007108	Bacteria	2	2	0	2	2	4	4	2	pyruvate, phosphate dikinase
+1007125	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007139	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007144	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007147	Bacteria	2	2	0	5	5	7	7	5	voc family protein
+1007151	Bacteria	2	2	0	35	33	37	34	36	pas domain s-box protein
+1007160	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007162	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007163	Bacteria	4	4	0	10	10	14	14	10	protein tyrosine kinase
+1007166	Bacteria	2	2	0	7	6	9	7	7	pectate lyase
+1007168	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007180	Bacteria	2	2	0	4	4	6	6	4	mfs transporter
+1007183	Bacteria	2	2	0	10	10	12	11	10	alpha-l-fucosidase
+1007186	Bacteria	2	2	0	4	4	6	6	4	rna polymerase sigma factor
+1007189	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1007195	Bacteria	6	6	0	5	5	11	9	5	cpaf family
+1007202	Bacteria	6	6	0	1	1	7	7	1	Unknown
+1007221	Bacteria	2	2	0	3	3	5	5	3	2-polyprenyl-6-methoxyphenol hydroxylase
+1007224	Bacteria	2	2	0	12	12	14	12	13	laci family transcriptional regulator
+1007243	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007257	Bacteria	2	2	0	3	3	5	5	3	tigr02677 family protein
+1007258	Bacteria	2	2	1	5	3	7	5	6	ISL3 family transposase
+1007267	Bacteria	4	4	1	0	0	4	4	1	Unknown
+1007272	Bacteria	152	70	6	147	72	299	93	155	DNA-binding response regulator
+1007274	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007275	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1007277	Bacteria	2	2	2	5	4	7	6	7	RloB domain-containing protein
+1007294	Bacteria	2	2	0	2	2	4	4	2	phospholipid carrier-dependent glycosyltransferase
+1007301	Bacteria	4	4	0	2	2	6	6	2	d-glycero-beta-d-manno-heptose 1-phosphate adenylyltransferase
+1007310	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007311	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007318	Bacteria	2	2	0	3	1	5	3	3	duf4239 domain-containing protein
+1007330	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007334	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007337	Bacteria	3	3	0	8	8	11	11	8	aminodeoxychorismate synthase component i
+1007350	Bacteria	3	3	1	1	1	4	4	2	hypothetical protein
+1007351	Bacteria	2	2	0	2	2	4	4	2	xre family transcriptional regulator
+1007355	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007358	Bacteria	3	3	0	24	15	27	17	24	atp-grasp ribosomal peptide maturase
+1007359	Bacteria	2	2	0	5	5	7	7	5	nad-dependent epimerase
+1007370	Bacteria	5	4	0	11	11	16	14	11	Unknown
+1007375	Bacteria	2	1	0	9	7	11	8	10	asparagine synthase
+1007387	Bacteria	3	3	1	2	2	5	5	3	hypothetical protein
+1007390	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007398	Bacteria	2	2	0	8	7	10	9	8	coa transferase
+1007408	Bacteria	4	4	0	10	10	14	14	10	Unknown
+1007410	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007418	Bacteria	2	2	0	2	2	4	4	2	tellurium resistance
+1007422	Bacteria	2	2	0	7	6	9	8	7	cytochrome p450;chalcone synthase
+1007427	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1007436	Bacteria	3	3	0	4	4	7	7	4	Unknown
+1007449	Bacteria	2	2	0	26	22	28	24	27	mmpl family transporter
+1007455	Bacteria	2	2	0	7	7	9	9	8	lactate dehydrogenase
+1007459	Bacteria	2	2	0	6	6	8	7	7	nad(p)/fad-dependent oxidoreductase
+1007463	Bacteria	4	4	0	4	4	8	8	4	Unknown
+1007477	Bacteria	4	4	0	2	2	6	6	2	sis domain-containing protein
+1007485	Bacteria	3	3	0	8	7	11	10	8	oxidoreductase
+1007488	Bacteria	5	4	0	9	7	14	11	9	sugar abc transporter substrate-binding protein
+1007491	Bacteria	3	3	1	6	6	9	9	7	ABC transporter ATP-binding protein
+1007495	Bacteria	4	4	0	0	0	4	4	1	Unknown
+1007497	Bacteria	2	2	0	6	6	8	8	6	peptidoglycan endopeptidase
+1007504	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1007505	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1007506	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1007511	Bacteria	2	1	1	0	0	2	1	1	Unknown
+1007513	Bacteria	2	1	1	1	1	3	2	1	hypothetical protein
+1007514	Bacteria	2	1	0	9	8	11	9	11	helix-turn-helix transcriptional regulator
+1007516	Bacteria	2	1	0	6	6	8	7	6	mfs transporter
+1007519	Bacteria	2	1	0	2	2	4	3	2	response regulator
+1007527	Bacteria	2	1	2	3	2	5	2	5	KR domain-containing protein
+1007529	Bacteria	2	1	0	3	3	5	4	3	hypothetical protein
+1007534	Bacteria	2	2	0	3	2	5	4	3	l-seryl-trna(sec) selenium transferase
+1007536	Bacteria	6	6	0	7	7	13	13	7	Unknown
+1007539	Bacteria	3	3	0	4	3	7	6	4	gntr family transcriptional regulator
+1007543	Bacteria	2	2	0	15	15	17	17	15	histidine kinase
+1007553	Bacteria	3	3	0	3	3	6	5	3	pdz domain-containing protein
+1007554	Bacteria	2	2	0	5	5	7	7	5	nad(p)/fad-dependent oxidoreductase
+1007558	Bacteria	4	4	0	2	2	6	6	2	hypothetical protein
+1007559	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007566	Bacteria	4	4	0	2	2	6	6	2	myo-inositol-1-phosphate synthase
+1007571	Bacteria	2	2	0	3	3	5	5	3	hypothetical protein
+1007572	Bacteria	2	2	0	2	1	4	3	2	saccharopine dehydrogenase
+1007574	Bacteria	2	2	0	3	3	5	5	3	mfs transporter
+1007581	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1007582	Bacteria	3	3	0	14	12	17	15	16	Unknown
+1007583	Bacteria	4	4	1	2	2	6	4	3	hypothetical protein
+1007595	Bacteria	2	2	2	3	3	5	5	5	hypothetical protein
+1007597	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007609	Bacteria	2	2	0	5	5	7	7	5	maltokinase
+1007614	Bacteria	4	4	0	1	1	5	5	2	Unknown
+1007617	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007621	Bacteria	4	4	0	6	5	10	9	6	lyse family translocator
+1007625	Bacteria	2	2	0	2	2	4	4	2	helicase
+1007629	Bacteria	3	3	0	11	11	14	14	11	class e sortase
+1007633	Bacteria	3	3	0	2	2	5	5	2	had-iib family hydrolase
+1007644	Bacteria	2	2	0	3	3	5	5	3	laci family transcriptional regulator
+1007655	Bacteria	2	2	1	2	1	4	3	2	transposase
+1007685	Bacteria	3	3	0	3	3	6	6	3	laci family transcriptional regulator
+1007687	Bacteria	2	2	1	5	5	7	7	8	TnsA-like heteromeric transposase endonuclease subunit
+1007688	Bacteria	4	4	0	2	2	6	6	2	aromatic ring-hydroxylating dioxygenase subunit alpha
+1007689	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007690	Bacteria	2	2	0	1	1	3	2	1	Unknown
+1007691	Bacteria	4	4	0	54	34	58	37	55	XRE family transcriptional regulator
+1007695	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007697	Bacteria	4	4	0	2	2	6	6	2	abc transporter atp-binding protein
+1007700	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1007701	Bacteria	2	2	0	8	7	10	9	8	mfs transporter
+1007707	Bacteria	5	5	0	6	6	11	10	7	abc transporter atp-binding protein
+1007731	Bacteria	3	3	0	2	2	5	5	2	Unknown
+1007732	Bacteria	3	3	1	2	2	5	4	4	TIGR00645 family protein
+1007744	Bacteria	4	4	0	6	6	10	10	6	Unknown
+1007752	Bacteria	7	6	0	3	3	10	9	3	tn3 family transposase
+1007763	Bacteria	2	2	1	8	8	10	10	12	peptidoglycan-binding protein
+1007768	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1007769	Bacteria	30	27	0	2	2	32	29	3	Unknown
+1007777	Bacteria	4	4	0	4	4	8	7	4	llm class flavin-dependent oxidoreductase
+1007782	Bacteria	5	5	0	3	3	8	8	3	tetr/acrr family transcriptional regulator
+1007784	Bacteria	4	4	0	2	2	6	5	2	gas vesicle protein
+1007785	Bacteria	2	2	0	5	5	7	7	5	kinase
+1007810	Bacteria	2	2	0	7	7	9	9	8	isochorismatase
+1007812	Bacteria	2	1	0	9	8	11	9	9	atpase aaa;
+1007814	Bacteria	10	8	1	8	7	18	13	9	non-ribosomal peptide synthetase
+1007821	Bacteria	2	2	0	2	2	4	4	2	1-phosphofructokinase family hexose kinase
+1007823	Bacteria	2	2	0	2	2	4	4	2	sulfate adenylyltransferase subunit 2
+1007827	Bacteria	2	1	0	9	9	11	10	9	pbs lyase
+1007828	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1007829	Bacteria	7	7	0	1	1	8	7	1	Unknown
+1007833	Bacteria	5	4	0	7	7	12	11	9	serine/threonine protein kinase
+1007834	Bacteria	2	2	0	15	8	17	10	15	is630 family transposase
+1007836	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007841	Bacteria	2	2	0	15	13	17	15	15	Unknown
+1007842	Bacteria	2	2	0	2	2	4	4	2	carnitine dehydratase
+1007857	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007860	Bacteria	2	2	0	10	10	12	12	10	m23 family peptidase
+1007867	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007869	Bacteria	2	2	2	7	6	9	7	7	IS110 family transposase
+1007875	Bacteria	5	5	0	3	3	8	8	3	serine protease;peptidase s8
+1007876	Bacteria	2	2	0	5	5	7	7	5	serine/threonine protein kinase
+1007888	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007899	Bacteria	29	27	1	18	14	47	39	19	ABC transporter ATP-binding protein
+1007903	Bacteria	3	3	0	7	7	10	10	7	rna polymerase sigma-70 factor
+1007914	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007917	Bacteria	2	2	0	4	4	6	6	4	atp-binding protein
+1007919	Bacteria	3	3	0	7	5	10	8	7	glycosyltransferase
+1007944	Bacteria	5	5	0	2	2	7	7	2	d-alanyl-d-alanine carboxypeptidase
+1007947	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1007954	Bacteria	2	2	0	3	3	5	5	3	hypothetical protein
+1007961	Bacteria	2	2	0	54	48	56	50	54	atp-binding protein
+1007962	Bacteria	2	2	0	9	8	11	10	10	mfs transporter
+1007967	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1007972	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1007979	Bacteria	2	2	0	2	1	4	3	2	fad-dependent oxidoreductase
+1007991	Bacteria	3	3	0	4	4	7	7	4	acyl-coa carboxylase subunit beta
+1007995	Bacteria	7	6	1	2	2	9	8	2	cytochrome c oxidase subunit I
+1008014	Bacteria	2	2	0	2	2	4	4	2	mfs transporter
+1008032	Bacteria	2	1	1	5	4	7	5	5	acyl-CoA dehydrogenase
+1008033	Bacteria	2	2	1	14	14	16	16	18	MFS transporter
+1008037	Bacteria	4	4	0	4	4	8	8	4	serine/threonine protein kinase
+1008042	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008046	Bacteria	2	2	0	2	2	4	4	2	methylenetetrahydrofolate dehydrogenase
+1008050	Bacteria	4	4	1	2	2	6	6	2	IS5 family transposase
+1008061	Bacteria	3	3	1	2	2	5	5	3	hypothetical protein
+1008063	Bacteria	4	4	0	2	2	6	6	2	phytoene desaturase
+1008066	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008067	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008070	Bacteria	11	11	0	1	1	12	12	1	Unknown
+1008071	Bacteria	2	2	0	3	3	5	5	4	helicase
+1008075	Bacteria	3	2	1	1	1	4	3	1	ACP S-malonyltransferase
+1008076	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008079	Bacteria	2	2	0	3	3	5	5	3	fad:protein fmn transferase
+1008084	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008085	Bacteria	2	2	0	4	4	6	6	4	merr family transcriptional regulator
+1008092	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008094	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008097	Bacteria	2	2	1	6	6	8	8	7	acyl-CoA synthetase
+1008101	Bacteria	4	3	0	30	29	34	32	31	atpase aaa
+1008108	Bacteria	2	2	0	6	6	8	8	6	squalene--hopene cyclase
+1008120	Bacteria	2	2	0	5	5	7	7	5	serine hydrolase
+1008136	Bacteria	2	2	0	5	5	7	7	5	xaa-pro aminopeptidase
+1008138	Bacteria	5	5	0	1	1	6	6	1	atp-dependent helicase
+1008143	Bacteria	2	2	0	4	4	6	6	4	sensor histidine kinase
+1008151	Bacteria	2	2	0	3	3	5	5	3	degt/dnrj/eryc1/strs family aminotransferase
+1008153	Bacteria	2	2	0	10	10	12	11	12	Unknown
+1008154	Bacteria	2	2	0	4	4	6	6	4	duf742 domain-containing protein
+1008157	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008160	Bacteria	2	2	0	1	1	3	2	1	Unknown
+1008165	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008180	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008184	Bacteria	2	2	0	7	5	9	7	7	aldo/keto reductase
+1008210	Bacteria	2	2	0	14	14	16	15	14	Unknown
+1008214	Bacteria	7	7	0	6	6	13	13	6	transcriptional regulator
+1008218	Bacteria	4	4	0	4	4	8	8	4	chitinase
+1008223	Bacteria	2	2	0	8	7	10	9	8	integrase
+1008225	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008226	Bacteria	2	2	0	2	2	4	4	2	histidine kinase
+1008231	Bacteria	3	2	1	3	3	6	5	3	ISAzo13 family transposase
+1008250	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008253	Bacteria	2	2	0	1	1	3	3	1	duf4232 domain-containing protein
+1008260	Bacteria	2	2	0	1	1	3	3	1	aminotransferase class v-fold plp-dependent enzyme
+1008269	Bacteria	2	2	1	1	1	3	3	2	carbamoyltransferase HypF
+1008287	Bacteria	2	2	0	14	14	16	16	14	Unknown
+1008307	Bacteria	2	2	0	1	1	3	3	1	thaumatin pathogenesis-like protein
+1008310	Bacteria	2	2	0	2	2	4	3	2	aspartate aminotransferase family protein
+1008311	Bacteria	2	2	0	15	13	17	15	16	ggdef domain-containing protein
+1008314	Bacteria	2	2	0	7	6	9	8	7	Unknown
+1008323	Bacteria	2	2	1	9	9	11	11	10	hypothetical protein
+1008327	Bacteria	3	1	0	1	1	4	2	1	Unknown
+1008328	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1008331	Bacteria	2	1	1	21	18	23	19	23	XRE family transcriptional regulator
+1008334	Bacteria	2	2	0	3	3	5	5	3	gaf domain-containing protein
+1008336	Bacteria	23	13	4	26	19	49	28	28	KR domain-containing protein
+1008337	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1008339	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008348	Bacteria	3	3	0	3	3	6	6	3	lyse family translocator
+1008349	Bacteria	14	14	0	3	3	17	17	3	merr family dna-binding transcriptional regulator
+1008350	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008357	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008358	Bacteria	2	2	1	12	12	14	14	13	ThuA domain-containing protein
+1008359	Bacteria	4	4	0	3	3	7	7	3	lytr family transcriptional regulator
+1008363	Bacteria	5	5	0	9	9	14	13	9	degt/dnrj/eryc1/strs aminotransferase family protein
+1008371	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008375	Bacteria	2	2	0	2	2	4	4	2	transaldolase
+1008376	Bacteria	2	2	1	2	2	4	4	2	hypothetical protein
+1008377	Bacteria	3	3	0	10	10	13	13	10	Unknown
+1008379	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008380	Bacteria	3	3	0	7	7	10	10	7	serine/threonine protein kinase
+1008391	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008393	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1008397	Bacteria	3	3	0	4	3	7	6	4	hypothetical protein
+1008398	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1008399	Bacteria	4	4	0	7	7	11	11	7	xre family transcriptional regulator
+1008400	Bacteria	2	2	1	3	3	5	5	4	dynein regulation protein LC7
+1008402	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008404	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1008405	Bacteria	2	2	1	1	1	3	2	1	hypothetical protein
+1008408	Bacteria	2	2	0	13	12	15	14	13	dna-binding response regulator
+1008413	Bacteria	2	2	0	6	6	8	7	6	mmpl family transporter;membrane protein
+1008414	Bacteria	2	2	0	3	2	5	4	3	exonuclease sbccd subunit d
+1008416	Bacteria	3	3	0	4	4	7	6	4	Unknown
+1008417	Bacteria	2	2	0	4	4	6	6	4	mfs transporter
+1008420	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008421	Bacteria	3	3	0	13	12	16	15	14	Unknown
+1008423	Bacteria	2	2	0	11	10	13	10	11	xre family transcriptional regulator
+1008426	Bacteria	3	3	0	10	10	13	12	10	mfs transporter
+1008427	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008430	Bacteria	3	3	1	4	4	7	7	5	Zeta-toxin
+1008442	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008443	Bacteria	7	7	0	8	6	15	12	8	gtra family protein
+1008456	Bacteria	3	3	0	2	2	5	5	2	sam-dependent methyltransferase
+1008459	Bacteria	2	2	0	6	6	8	8	6	iclr family transcriptional regulator
+1008460	Bacteria	2	2	0	2	2	4	4	2	allantoinase allb
+1008461	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1008468	Bacteria	2	2	0	8	8	10	10	8	epimerase
+1008473	Bacteria	2	2	0	3	3	5	5	3	sugar phosphate isomerase/epimerase
+1008475	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008483	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008489	Bacteria	2	2	0	3	3	5	5	3	long-chain acyl-coa synthetase
+1008491	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008495	Bacteria	2	2	0	18	18	20	20	18	restriction endonuclease
+1008499	Bacteria	2	2	0	6	6	8	8	6	serine/threonine protein kinase
+1008506	Bacteria	2	2	2	0	0	2	2	2	Unknown
+1008512	Bacteria	2	1	0	3	2	5	3	3	cro/cl family transcriptional regulator
+1008517	Bacteria	2	1	1	8	7	10	8	8	transposase
+1008537	Bacteria	3	3	0	2	2	5	5	2	4-hydroxy-tetrahydrodipicolinate synthase
+1008548	Bacteria	2	2	0	3	3	5	5	3	abc transporter atp-binding protein
+1008564	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008571	Bacteria	17	17	0	1	1	18	18	1	cap domain-containing protein
+1008572	Bacteria	3	3	0	12	11	15	14	12	m1 family peptidase
+1008573	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008579	Bacteria	2	2	0	2	2	4	3	2	3-oxoacyl-acp synthase
+1008580	Bacteria	2	2	0	2	2	4	4	2	hypothetical protein
+1008582	Bacteria	3	3	0	3	3	6	6	3	glutamate-1-semialdehyde aminotransferase
+1008583	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1008586	Bacteria	2	2	0	7	6	9	7	7	Unknown
+1008587	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008594	Bacteria	2	2	0	3	3	5	5	3	16s rrna (cytosine(1402)-n(4))-methyltransferase rsmh
+1008601	Bacteria	3	3	0	11	9	14	12	11	cellulose-binding protein
+1008602	Bacteria	5	5	0	12	12	17	17	12	Unknown
+1008606	Bacteria	6	6	0	3	3	9	9	3	Unknown
+1008610	Bacteria	4	4	0	1	1	5	5	1	rna polymerase
+1008611	Bacteria	3	3	0	5	5	8	8	6	had family phosphatase
+1008612	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008613	Bacteria	3	3	0	5	5	8	8	5	endoglucanase 1
+1008614	Bacteria	2	2	0	23	18	25	20	23	endoglucanase
+1008616	Bacteria	2	2	0	5	5	7	7	5	tn3 family transposase
+1008618	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008620	Bacteria	2	2	0	18	15	20	17	18	serine/threonine-protein phosphatase
+1008623	Bacteria	2	2	0	16	15	18	17	16	mfs transporter
+1008639	Bacteria	5	5	0	2	2	7	7	2	fha domain-containing protein
+1008647	Bacteria	3	3	0	1	1	4	4	1	Unknown
+1008652	Bacteria	2	2	0	3	3	5	5	3	protocatechuate dioxygenase
+1008656	Bacteria	2	2	0	7	7	9	9	7	toxin component
+1008657	Bacteria	2	2	1	30	30	32	32	32	hypothetical protein
+1008662	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1008663	Bacteria	2	2	0	12	12	14	14	12	mfs transporter
+1008667	Bacteria	2	2	1	1	1	3	3	1	hypothetical protein
+1008668	Bacteria	3	2	0	4	2	7	3	4	is5 family transposase
+1008670	Bacteria	3	3	1	46	36	49	39	48	cytochrome P450
+1008671	Bacteria	28	23	0	35	28	63	45	36	Unknown
+1008685	Bacteria	3	3	0	10	9	13	12	10	Unknown
+1008687	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1008690	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008697	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1008698	Bacteria	8	7	0	20	17	28	24	21	amino acid adenylation domain-containing protein
+1008700	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008701	Bacteria	3	3	0	6	6	9	9	6	serine/threonine protein kinase
+1008702	Bacteria	5	3	0	2	2	7	5	2	replication initiation protein
+1008705	Bacteria	2	2	0	2	2	4	4	2	Unknown
+1008712	Bacteria	2	2	0	4	4	6	6	4	sulfite exporter taue/safe family protein
+1008716	Bacteria	8	8	0	5	5	13	13	5	murein l,d-transpeptidase
+1008722	Bacteria	9	9	0	3	3	12	12	3	membrane protein
+1008724	Bacteria	12	11	0	13	11	25	21	13	terd family protein
+1008727	Bacteria	2	2	0	3	3	5	5	4	serine/threonine protein kinase
+1008735	Bacteria	2	2	0	4	4	6	6	4	mfs transporter
+1008746	Bacteria	3	3	0	7	7	10	10	7	Unknown
+1008747	Bacteria	4	4	1	9	9	13	12	9	non-ribosomal peptide synthetase
+1008753	Bacteria	2	2	0	20	16	22	17	21	Unknown
+1008764	Bacteria	7	7	0	6	6	13	13	7	steroid 3-ketoacyl-coa thiolase
+1008770	Bacteria	2	2	0	9	8	11	10	10	mfs transporter
+1008773	Bacteria	7	7	0	1	1	8	8	1	Unknown
+1008777	Bacteria	12	12	1	15	15	27	24	17	serine/threonine protein kinase
+1008782	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008784	Bacteria	3	3	0	5	5	8	8	6	rhs repeat protein
+1008785	Bacteria	2	2	1	7	6	9	8	8	hydroxylase
+1008790	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008794	Bacteria	2	2	1	2	2	4	4	3	cation acetate symporter
+1008803	Bacteria	7	7	0	1	1	8	7	1	Unknown
+1008817	Bacteria	3	3	0	9	9	12	11	9	cytochrome p450
+1008820	Bacteria	2	2	0	2	2	4	4	2	abc transporter atp-binding protein
+1008836	Bacteria	2	2	0	5	5	7	7	5	mfs transporter
+1008837	Bacteria	10	9	0	40	28	50	35	44	Unknown
+1008839	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008855	Bacteria	2	2	0	4	4	6	6	4	trm112 family protein
+1008858	Bacteria	2	2	0	46	36	48	36	46	luxr family transcriptional regulator
+1008888	Bacteria	2	2	0	4	4	6	6	4	3-oxoacyl-acp reductase
+1008890	Bacteria	3	2	0	13	12	16	14	13	endo-1,4-beta-xylanase
+1008895	Bacteria	11	10	0	6	6	17	14	6	chitinase
+1008903	Bacteria	2	1	0	3	3	5	4	3	hypothetical protein
+1008905	Bacteria	5	5	0	1	1	6	6	1	Unknown
+1008914	Bacteria	3	3	1	3	3	6	6	4	sugar-binding protein
+1008928	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008943	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008948	Bacteria	58	41	2	49	38	107	63	60	Ser/Thr protein kinase
+1008954	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1008956	Bacteria	8	7	1	3	3	11	10	5	KR domain-containing protein
+1008957	Bacteria	5	5	3	104	51	109	52	112	tetratricopeptide repeat protein
+1008961	Bacteria	3	3	0	6	5	9	8	6	ynce family protein
+1008962	Bacteria	2	2	0	4	4	6	6	4	mfs transporter
+1008963	Bacteria	2	1	0	4	4	6	5	4	kr domain-containing protein
+1008968	Bacteria	40	40	0	2	2	42	42	2	atp-binding protein
+1008971	Bacteria	2	2	0	2	2	4	4	2	xre family transcriptional regulator
+1008977	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1008983	Bacteria	2	1	0	6	6	8	7	6	aminoglycoside phosphotransferase family protein
+1008995	Bacteria	2	2	1	3	3	5	5	4	ABC transporter ATP-binding protein
+1009002	Bacteria	5	5	0	7	7	12	12	7	mfs transporter
+1009005	Bacteria	2	2	0	2	2	4	4	2	long-chain fatty acid--coa ligase
+1009008	Bacteria	2	2	0	4	4	6	6	4	lytr family transcriptional regulator
+1009010	Bacteria	2	2	0	3	3	5	5	3	Unknown
+1009014	Bacteria	2	2	0	14	11	16	12	14	mfs transporter
+1009017	Bacteria	2	2	0	20	16	22	17	20	cytochrome p450
+1009019	Bacteria	8	8	0	2	2	10	10	2	ecf subfamily rna polymerase sigma factor
+1009022	Bacteria	2	2	1	2	2	4	4	2	MinD/ParA family protein
+1009025	Bacteria	5	5	0	4	4	9	9	4	murein biosynthesis integral membrane protein murj
+1009026	Bacteria	5	5	0	29	26	34	28	29	mfs transporter
+1009032	Bacteria	43	19	7	38	27	81	39	44	KR domain-containing protein
+1009040	Bacteria	12	11	1	16	15	28	24	17	DUF3492 domain-containing protein
+1009046	Bacteria	3	3	0	4	4	7	7	4	cellulose-binding protein
+1009051	Bacteria	22	10	3	24	20	46	26	24	KR domain-containing protein
+1009054	Bacteria	12	12	0	3	2	15	14	4	adenylate cyclase
+1009057	Bacteria	3	3	0	1	1	4	4	1	mbl fold metallo-hydrolase
+1009068	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1009069	Bacteria	2	2	0	6	6	8	6	6	acyltransferase
+1009075	Bacteria	10	10	1	20	19	30	27	21	diacylglyceryl transferase
+1009088	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1009089	Bacteria	14	13	1	0	0	14	13	1	Unknown
+1009097	Bacteria	2	2	0	8	8	10	9	8	acyl-coa transferase
+1009107	Bacteria	12	11	1	33	28	45	37	34	ATP-binding protein
+1009108	Bacteria	2	1	0	1	1	3	2	1	Unknown
+1009114	Bacteria	25	10	4	48	34	73	39	56	non-ribosomal peptide synthetase
+1009118	Bacteria	2	2	0	18	15	20	17	19	sige family rna polymerase sigma factor
+1009123	Bacteria	5	5	1	0	0	5	5	1	Unknown
+1009128	Bacteria	39	38	0	10	10	49	46	10	sigma-70
+1009130	Bacteria	15	13	0	34	23	49	31	34	cytochrome p450
+1009131	Bacteria	5	5	0	2	2	7	7	3	serine/threonine protein kinase
+1009139	Bacteria	2	2	1	2	2	4	4	2	MDMPI N domain containing protein
+1009140	Bacteria	7	7	0	10	9	17	14	10	aspartate aminotransferase family protein
+1009161	Bacteria	2	1	0	3	3	5	4	3	Unknown
+1009163	Bacteria	2	2	1	0	0	2	2	1	Unknown
+1009173	Bacteria	2	2	0	9	9	11	11	9	Unknown
+1009174	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1009188	Bacteria	7	5	1	0	0	7	5	1	Unknown
+1009192	Bacteria	2	1	0	20	19	22	20	21	Unknown
+1009196	Bacteria	3	3	0	6	6	9	9	6	hd-gyp domain-containing
+1009197	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1009199	Bacteria	10	10	0	1	1	11	11	1	Unknown
+1009200	Bacteria	2	1	0	7	7	9	8	7	rna polymerase sigma factor
+1009206	Bacteria	4	1	0	3	1	7	1	3	recombinase family protein
+1009208	Bacteria	3	1	0	0	0	3	1	1	Unknown
+1009212	Bacteria	3	3	1	61	36	64	37	63	peptidase
+1009216	Bacteria	2	2	0	12	11	14	13	12	hypothetical protein
+1009221	Bacteria	3	3	0	1	1	4	3	1	Unknown
+1009226	Bacteria	2	2	0	0	0	2	2	1	Unknown
+1009231	Bacteria	7	7	0	3	3	10	10	5	hypothetical protein
+1009237	Bacteria	4	4	0	1	1	5	5	1	Unknown
+1009238	Bacteria	2	2	0	1	1	3	3	1	Unknown
+1009247	Bacteria	2	2	0	65	46	67	48	66	ATP-binding protein
+1009249	Bacteria	36	21	0	13	9	49	24	14	is3 family transposase
+1009257	Bacteria	63	45	1	8	8	71	48	9	penicillin-binding protein
+1009262	Bacteria	16	15	0	0	0	16	15	1	Unknown
+1009271	Bacteria	6	6	0	6	6	12	12	6	mfs transporter
+1009277	Bacteria	6	6	1	4	4	10	9	5	cysteine synthase
+1009281	Bacteria	3	3	0	18	15	21	18	18	non-ribosomal peptide synthetase
+1009284	Bacteria	2	1	0	2	2	4	3	2	Unknown
+1009294	Bacteria+Phages	3	3	0	4	2	7	5	4	phage DNA methylase
+1009299	Bacteria+Phages	2	2	0	1	1	3	3	1	3'-5' exonuclease
+1009320	Phages	2	2	0	2	2	4	4	2	chitosanase
+1009391	Bacteria+Phages	4	4	1	19	14	23	18	20	hypothetical protein
+1009481	Phages	2	2	0	2	2	4	4	2	dna polymerase iii subunit alpha
+1009486	Phages	2	2	0	1	1	3	3	1	peptidase m23
+1009502	Phages	2	2	0	1	1	3	3	1	hypothetical protein
+1009511	Bacteria+Phages	11	11	0	1	1	12	11	1	hypothetical protein
+1009513	Phages	3	3	0	2	2	5	5	2	hypothetical protein
+1009539	Phages	3	3	0	2	2	5	5	2	pyrophosphatase
+1009560	Phages	2	2	0	1	1	3	3	1	hypothetical protein
+1009574	Phages	3	3	0	1	1	4	4	1	helix-turn-helix DNA binding domain protein
+1009577	Phages	2	2	0	3	3	5	5	3	single-stranded dna-binding protein
