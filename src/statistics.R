@@ -31,8 +31,11 @@ sum(orgs_df$num_fshifts)
 nrow(cofs_df)
 sum(cofs_df$num_fs)
 
-# 6061 TTA-genes have similarity with 1077 identified COFs
+# 6,061 TTA-genes have similarity with 1,077 identified COFs
 cofs_df %>% filter(num_tta_genes > 0) %>% pull(num_tta_genes) %>% sum()
 cofs_df %>% filter(num_tta_genes > 0) %>% nrow()
+
+# Interestingly, there were 293 genes with TTA codons where frameshifts were also predicted by the GeneTack.
+cofs_df %>% filter(num_tta_fs_genes > 0) %>% pull(num_tta_fs_genes) %>% sum()
 
 
