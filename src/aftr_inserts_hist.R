@@ -18,6 +18,7 @@ df %>%
   ggplot() +
   aes(x = seq, y = num) +
   geom_bar(stat = 'identity') +
+  ggtitle(paste0('Total number of genes = ', sum(df$num))) +
   ylab('Number of AFTR genes') +
   xlab('Insert sequence') +
   coord_flip()
