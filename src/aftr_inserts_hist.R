@@ -4,7 +4,7 @@ source("lib.R")
 ###
 
 input_file <- paste0(DATA_DIR, 'AFTR_INTERGENIC_eA-sB.tsv')
-df <- read.table(input_file, sep="\t", header=TRUE, as.is = TRUE)
+df <- read.table(input_file, sep="\t", header=FALSE, as.is = TRUE)
 colnames(df) <- c('strand', 'len', 'num', 'seq')
 head(df)
 
