@@ -1,0 +1,10 @@
+name: article-tta-codon
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10.0
+  - pandas
+  - matplotlib
+  - scipy
+  - ipykernel
