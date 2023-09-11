@@ -21,7 +21,7 @@ wc -l  ../data/adpA_with_ATG.txt
 print_lines_with_unique_id_from_2_files.pl  --invert  ../data/adpA_with_ATG.wo_internal_TTA.txt  ../data/adpA_with_ATG.uORF_TTA.txt  |  wc -l 
 ```
 
-"*For the 177 sequences with a main ORF UUA the upstream ORF UUA is located 5nt (65 cases) or 6nt (11 cases)  5’ of the main ORF start*"
+"*For the 177 sequences with a main ORF UUA the upstream ORF UUA is located 5nt (153 cases) or 6nt (24 cases)  5’ of the main ORF start*"
 ```bash
 # 177
 grep '>' ../data/adpA_with_ATG.internal_TTA.uORF_TTA.fasta  | wc -l

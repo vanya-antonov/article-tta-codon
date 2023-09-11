@@ -43,5 +43,8 @@ order by o.kingdom, o.name;
 
 ../src/print_lines_with_unique_id_from_2_files.pl  --invert adpA_with_ATG.txt  adpA_with_internal_TTA.txt  > adpA_with_ATG.internal_TTA.txt
 ../src/print_lines_with_unique_id_from_2_files.pl           adpA_with_ATG.txt  adpA_with_internal_TTA.txt  > adpA_with_ATG.wo_internal_TTA.txt
+
+# TTA in both the main ORF and uORF = 177
+../src/print_lines_with_unique_id_from_2_files.pl  --invert  ../data/adpA_with_ATG.internal_TTA.txt  ../data/adpA_with_ATG.uORF_TTA.txt  >  adpA_with_ATG.internal_TTA.uORF_TTA.txt
 ```
 
