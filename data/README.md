@@ -1,4 +1,5 @@
 
+# Data related to clustering
 all_orgs.tsv
 ```
 select c.id, c.name,
@@ -24,3 +25,23 @@ from orgs o
 where name like 'Streptomyces%'
 order by o.kingdom, o.name;
 ```
+
+# Data related to adpA genes
+```bash
+# Co-occurrence of the TTA codons in the main ORF and in the uORF:
+# adpA_with_ATG = 218
+# adpA_with_ATG.uORF_TTA = 196
+# adpA_with_ATG.internal_TTA = 184
+# adpA_with_ATG.wo_internal_TTA  = 34
+../src/grep_fasta.pl  --seq_re  'ATG.{6}$'  --pattern_str '.*'  adpA_with_ATG.around_ATG_start_51_9.fna  \
+|  grep '>' | perl -pe 's/^>(\S+?)\:.*/$1/' \
+> adpA_with_ATG.txt
+
+../src/grep_fasta.pl  --seq_re  'TTA.{5,6}ATG.{6}$'  --pattern_str '.*'  adpA_with_ATG.around_ATG_start_51_9.fna  \
+|  grep '>' | perl -pe 's/^>(\S+?)\:.*/$1/' \
+> adpA_with_ATG.uORF_TTA.txt
+
+../src/print_lines_with_unique_id_from_2_files.pl  --invert adpA_with_ATG.txt  adpA_with_internal_TTA.txt  > adpA_with_ATG.internal_TTA.txt
+../src/print_lines_with_unique_id_from_2_files.pl           adpA_with_ATG.txt  adpA_with_internal_TTA.txt  > adpA_with_ATG.wo_internal_TTA.txt
+```
+
