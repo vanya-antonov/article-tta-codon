@@ -22,6 +22,8 @@ df %>%
   theme(legend.position="bottom") +
   # Rename legend: http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/
   scale_size_continuous(name  ="% aligned TTA codons: ") +
+  # Remove legend for color: https://stackoverflow.com/a/35622358/310453
+  guides(col="none") +
   xlab("Cluster size") +
   ylab("-log10(min SynPlot2 p-value)") +
   ggtitle(paste0("Total number of clusters = ", nrow(df)))
